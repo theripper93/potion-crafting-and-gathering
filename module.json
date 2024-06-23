@@ -1,74 +1,173 @@
 {
-  "title": "module-name",
-  "description": "desc",
-  "id": "module-id",
-  "version": "1.0",
-  "authors": [
-    {
-      "name": "theripper93",
-      "email": "tsplab@gmail.com",
-      "url": "https://www.patreon.com/theripper93"
+    "id": "potion-crafting-and-gathering",
+    "title": "Potion Crafting & Gathering",
+    "description": "Collating piccolo917's Potion Crafting & Gathering supplement for use in Foundry with Mastercrafted and Gatherer premium modules",
+    "version": "0.8.2",
+    "authors": [
+        {
+            "name": "theripper93",
+            "email": "tsplab@gmail.com",
+            "url": "https://theripper93.com/"
+        },
+        {
+            "name": "Action Jay",
+            "url": "https://github.com/action-jay",
+            "discord": "action.jay#4322"
+        },
+        {
+            "name": "p4535992",
+            "url": "https://github.com/p4535992"
+        }
+    ],
+    "type": "module",
+    "languages": [
+        {
+            "lang": "en",
+            "name": "English",
+            "path": "languages/en.json"
+        }
+    ],
+    "packs": [
+        {
+            "name": "potion-crafting-and-gathering-ingredients",
+            "label": "Potion Crafting & Gathering Ingredients",
+            "path": "packs/potion-crafting-and-gathering-ingredients",
+            "type": "Item",
+            "ownership": {
+                "PLAYER": "NONE",
+                "TRUSTED": "NONE",
+                "ASSISTANT": "OWNER"
+            },
+            "module": "potion-crafting-and-gathering",
+            "system": "dnd5e",
+            "flags": {}
+        },
+        {
+            "name": "potion-crafting-and-gathering-alchemy",
+            "label": "Potion Crafting & Gathering Alchemy",
+            "path": "packs/potion-crafting-and-gathering-alchemy",
+            "type": "Item",
+            "ownership": {
+                "PLAYER": "NONE",
+                "TRUSTED": "NONE",
+                "ASSISTANT": "OWNER"
+            },
+            "module": "potion-crafting-and-gathering",
+            "system": "dnd5e",
+            "flags": {}
+        },
+        {
+            "name": "potion-crafting-and-gathering-herbalism",
+            "label": "Potion Crafting & Gathering Herbalism",
+            "path": "packs/potion-crafting-and-gathering-herbalism",
+            "type": "Item",
+            "ownership": {
+                "PLAYER": "NONE",
+                "TRUSTED": "NONE",
+                "ASSISTANT": "OWNER"
+            },
+            "module": "potion-crafting-and-gathering",
+            "system": "dnd5e",
+            "flags": {}
+        },
+        {
+            "name": "potion-crafting-and-gathering-poisons",
+            "label": "Potion Crafting & Gathering Poisons",
+            "path": "packs/potion-crafting-and-gathering-poisons",
+            "type": "Item",
+            "ownership": {
+                "PLAYER": "NONE",
+                "TRUSTED": "NONE",
+                "ASSISTANT": "OWNER"
+            },
+            "module": "potion-crafting-and-gathering",
+            "system": "dnd5e",
+            "flags": {}
+        },
+        {
+            "name": "potion-crafting-and-gathering-journal",
+            "label": "Potion Crafting & Gathering Journal",
+            "path": "packs/potion-crafting-and-gathering-journal",
+            "type": "JournalEntry",
+            "ownership": {
+                "PLAYER": "NONE",
+                "TRUSTED": "NONE",
+                "ASSISTANT": "OWNER"
+            },
+            "module": "potion-crafting-and-gathering",
+            "system": "dnd5e",
+            "flags": {}
+        },
+        {
+            "name": "potion-crafting-and-gathering-tables",
+            "label": "Potion Crafting & Gathering Tables",
+            "path": "packs/potion-crafting-and-gathering-tables",
+            "type": "RollTable",
+            "ownership": {
+                "PLAYER": "NONE",
+                "TRUSTED": "NONE",
+                "ASSISTANT": "OWNER"
+            },
+            "module": "potion-crafting-and-gathering",
+            "system": "dnd5e",
+            "flags": {}
+        }
+    ],
+    "packFolders": [
+        {
+            "name": "Potion Crafting & Gathering",
+            "sorting": "m",
+            "color": "#FFC300",
+            "packs": [
+                "potion-crafting-and-gathering-ingredients",
+                "potion-crafting-and-gathering-alchemy",
+                "potion-crafting-and-gathering-herbalism",
+                "potion-crafting-and-gathering-poisons",
+                "potion-crafting-and-gathering-journal",
+                "potion-crafting-and-gathering-tables"
+            ]
+        }
+    ],
+    "systems": [],
+    "scripts": [],
+    "esmodules": [
+        "index.js"
+    ],
+    "styles": [],
+    "compatibility": {
+        "minimum": 12,
+        "verified": 12
+    },
+    "url": "https://github.com/theripper93/potion-crafting-and-gathering",
+    "manifest": "https://github.com/theripper93/potion-crafting-and-gathering/releases/latest/download/module.json",
+    "download": "",
+    "relationships": {
+        "systems": [
+            {
+                "id": "dnd5e",
+                "type": "system",
+                "manifest": "https://raw.githubusercontent.com/foundryvtt/dnd5e/master/system.json",
+                "compatibility": {
+                    "minimum": "3.2.0",
+                    "verified": "3.2.0"
+                }
+            }
+        ],
+        "requires": [],
+        "conflicts": [],
+        "recommends": [
+            {
+                "id": "compendium-themer",
+                "type": "module"
+            },
+            {
+                "id": "gatherer",
+                "type": "module"
+            },
+            {
+                "id": "mastercrafted",
+                "type": "module"
+            }
+        ]
     }
-  ],
-  "languages": [
-    {
-      "lang": "en",
-      "name": "English",
-      "path": "languages/en.json"
-    },
-    {
-      "lang": "ja",
-      "name": "日本語",
-      "path": "languages/ja.json"
-    },
-    {
-      "lang": "de",
-      "name": "Deutsch",
-      "path": "languages/de.json"
-    },
-    {
-      "lang": "fr",
-      "name": "Français",
-      "path": "languages/fr.json"
-    },
-    {
-      "lang": "es",
-      "name": "Español",
-      "path": "languages/es.json"
-    },
-    {
-      "lang": "pt-br",
-      "name": "Português (Brasil)",
-      "path": "languages/pt-br.json"
-    },
-    {
-      "lang": "it",
-      "name": "Italiano",
-      "path": "languages/it.json"
-    }
-  ],
-  "scripts": [],
-  "esmodules": [
-    "index.js"
-  ],
-  "styles": [
-    "styles/module.css"
-  ],
-  "packs": [],
-  "url": "https://github.com/theripper93/module-id",
-  "manifest": "https://github.com/theripper93/module-id/releases/latest/download/module.json",
-  "download": "",
-  "relationships": {
-    "requires": [
-      {
-        "id": "lib-wrapper",
-        "type": "module",
-        "compatibility": {}
-      }
-    ]
-  },
-  "compatibility": {
-    "minimum": "11",
-    "verified": "11"
-  }
 }

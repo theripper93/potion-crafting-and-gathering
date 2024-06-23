@@ -1,7 +1,16 @@
 import { MODULE_ID } from "./main.js";
 
 export function registerSettings() {
-    const settings = {};
+    const settings = {
+        "booksImported": {
+            name: "Import Content on startup",
+            hint: "",
+            scope: "world",
+            config: true,
+            type: Boolean,
+            default: true,
+          }
+    };
 
     registerSettingsArray(settings);
 }
