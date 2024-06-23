@@ -1,7 +1,7 @@
 import { initConfig } from "./config.js";
 import { registerSettings } from "./settings.js";
 
-export const MODULE_ID = "potion-crafting-gathering";
+export const MODULE_ID = "potion-crafting-and-gathering";
 
 const CONSTANTS = {
     MODULE_ID: "potion-crafting-and-gathering",
@@ -33,7 +33,7 @@ Hooks.once("ready", async () => {
             importAll();
         },
         no: () => {
-            game.settings.set(CONSTANTS.MODULE_ID, SETTINGS.booksImported, false);
+            game.settings.set(MODULE_ID, "booksImported", false);
         },
         defaultYes: true,
     });
@@ -47,9 +47,10 @@ async function importAll() {
         const bookObj = new ui.RecipeApp.RecipeBook(bookData);
         await bookObj.saveData();
     }
-    ui.notifications.notify(`${CONSTANTS.MODULE_ID} | Recipe Books Imported`);
+    ui.notifications.notify(`${MODULE_ID} | Recipe Books Imported`);
     await game.packs.get(CONSTANTS.PACK_UUID_ROLLTABLES).importAll({ keepId: true });
     await game.packs.get(CONSTANTS.PACK_UUID_JOURNALS).importAll({ keepId: true });
     new ui.RecipeApp().render(true);
-    await game.settings.set(CONSTANTS.MODULE_ID, SETTINGS.booksImported, false);
+    await game.settings.set(MODULE_ID, "booksImported", false);
+    SettingsConfig.reloadConfirm();
 }
