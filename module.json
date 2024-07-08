@@ -157,10 +157,6 @@
         "conflicts": [],
         "recommends": [
             {
-                "id": "compendium-themer",
-                "type": "module"
-            },
-            {
                 "id": "gatherer",
                 "type": "module"
             },
