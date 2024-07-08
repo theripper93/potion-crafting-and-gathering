@@ -19,7 +19,6 @@
             "url": "https://github.com/p4535992"
         }
     ],
-    "type": "module",
     "languages": [
         {
             "lang": "en",
@@ -128,7 +127,6 @@
             ]
         }
     ],
-    "systems": [],
     "scripts": [],
     "esmodules": [
         "index.js"
