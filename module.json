@@ -133,8 +133,8 @@
     ],
     "styles": [],
     "compatibility": {
-        "minimum": 12,
-        "verified": 12
+        "minimum": 13,
+        "verified": 13
     },
     "url": "https://github.com/theripper93/potion-crafting-and-gathering",
     "manifest": "https://github.com/theripper93/potion-crafting-and-gathering/releases/latest/download/module.json",
