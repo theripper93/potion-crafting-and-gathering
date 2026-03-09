@@ -8,12 +8,8 @@ const CONSTANTS = {
     PATH: `modules/potion-crafting-and-gathering/`,
     PACK_UUID_ROLLTABLES: "potion-crafting-and-gathering.potion-crafting-and-gathering-tables",
     PACK_UUID_JOURNALS: "potion-crafting-and-gathering.potion-crafting-and-gathering-journal",
-    MODULE_FOLDER: `modules/potion-crafting-and-gathering/assets/recipes`,
+    PACK_UUID_RECIPES: "potion-crafting-and-gathering.potion-crafting-and-gathering-recipes",
     GATHERER_MODULE_ID: "gatherer",
-    PACK_UUID_ALCHEMY: "potion-crafting-and-gathering.potion-crafting-and-gathering-alchemy",
-    PACK_UUID_HERBALISM: "potion-crafting-and-gathering.potion-crafting-and-gathering-herbalism",
-    PACK_UUID_INGREDIENTS: "potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients",
-    PACK_UUID_POISONS: "potion-crafting-and-gathering.potion-crafting-and-gathering-poisons",
 };
 
 Hooks.on("init", () => {
@@ -40,17 +36,11 @@ Hooks.once("ready", async () => {
 });
 
 async function importAll() {
-    const ROOT = CONSTANTS.MODULE_FOLDER;
-    const BOOKS = (await FilePicker.browse("user", ROOT)).files.filter((f) => f.endsWith(".json"));
-    for (let book of BOOKS) {
-        const bookData = await fetch(book).then((r) => r.json());
-        const bookObj = new ui.RecipeApp.RecipeBook(bookData);
-        await bookObj.saveData();
-    }
-    ui.notifications.notify(`${MODULE_ID} | Recipe Books Imported`);
+    debugger
+    ui.notifications.success(`${MODULE_ID} | Recipe Books Imported. The Potion Crafting & Gathering module needs to stay enabled as the items are stored in it's compendium packs.`, { permanent: true });
     await game.packs.get(CONSTANTS.PACK_UUID_ROLLTABLES).importAll({ keepId: true });
     await game.packs.get(CONSTANTS.PACK_UUID_JOURNALS).importAll({ keepId: true });
-    new ui.RecipeApp().render(true);
+    await game.packs.get(CONSTANTS.PACK_UUID_RECIPES).importAll({ keepId: true });
+    new (game.modules.get("mastercrafted").API.RecipeBookApplication)().render({ force: true });
     await game.settings.set(MODULE_ID, "booksImported", false);
-    SettingsConfig.reloadConfirm();
 }
