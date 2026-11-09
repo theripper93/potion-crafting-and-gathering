@@ -1,0 +1,1593 @@
+{
+  "name": "The Steeped Alchemist",
+  "ownership": {
+    "default": 0,
+    "qr1zQ11jcfurK31V": 3
+  },
+  "folder": "zxjgiVrJnuTjLatK",
+  "pages": [
+    {
+      "name": "Ink (Very Rare)",
+      "type": "mastercrafted.mastercrafted",
+      "text": {
+        "content": "<p>1 ounce bottle used in writing. Sufficient for Lvl. 6-8 spell scroll crafting.</p>",
+        "format": 1
+      },
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "mastercrafted": {
+          "img": "icons/consumables/potions/bottle-bulb-empty-glass.webp",
+          "ingredients": [
+            {
+              "id": "NQ6YDkZ8C7xwzWhi",
+              "name": null,
+              "components": [
+                {
+                  "id": "dpYvZdNmFraYdyhf",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.RPIaybBhCR5X8nyM",
+                  "quantity": 1,
+                  "name": "Charcoal",
+                  "img": "icons/commodities/stone/paver-cobbles-blue.webp",
+                  "tags": [],
+                  "resourcePath": ""
+                }
+              ]
+            },
+            {
+              "id": "99CMiiulTpbvV9Yj",
+              "name": null,
+              "components": [
+                {
+                  "id": "ul1sCodGjlAGfyfY",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.SMab7kAjsYtxGJKJ",
+                  "quantity": 1,
+                  "name": "Willowshade Fruit",
+                  "img": "icons/consumables/fruit/date-ripe-red-green.webp",
+                  "tags": [],
+                  "resourcePath": ""
+                }
+              ]
+            }
+          ],
+          "ingredientsInspection": "0",
+          "macroName": "",
+          "products": [
+            {
+              "id": "dfVVPy9C8r0gswno",
+              "name": null,
+              "components": [
+                {
+                  "id": "GjFS8DeKMOk47DVS",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-alchemy.Item.DV72ygEGCy6YXUyE",
+                  "quantity": 1,
+                  "name": "Ink (Very Rare)",
+                  "img": "icons/consumables/potions/bottle-bulb-empty-glass.webp",
+                  "tags": [],
+                  "resourcePath": ""
+                }
+              ]
+            }
+          ],
+          "productInspection": "0",
+          "sound": "",
+          "time": null,
+          "require": "",
+          "expression": "",
+          "modifierList": [],
+          "checks": [],
+          "type": "",
+          "requiresStation": false,
+          "requiresMinigame": false,
+          "minigame": {
+            "difficulty": "normal",
+            "canFail": false,
+            "perfect": ""
+          },
+          "timedMode": "",
+          "queueKey": ""
+        }
+      },
+      "_id": "IEzbjRXPZGrPC2ul",
+      "system": {
+        "htmlFields": [
+          "text.content"
+        ],
+        "text": {
+          "format": 1
+        }
+      },
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "sort": 0,
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.370",
+        "systemId": "dnd5e",
+        "systemVersion": "5.2.5",
+        "lastModifiedBy": "TJvRiTp7BS0avsVp",
+        "createdTime": 1794239342860,
+        "modifiedTime": 1794239342860
+      },
+      "_key": "!journal.pages!iCmEjfnxejnskaz6.IEzbjRXPZGrPC2ul"
+    },
+    {
+      "name": "Oil of Dragon's Bane",
+      "type": "mastercrafted.mastercrafted",
+      "text": {
+        "content": "<p>This oil can coat a single weapon for 3 uses, or up to 3 pieces of ammunition can be dipped in the oil for 1 use each. A dragon that takes damage from a weapon or piece of ammunition covered in the oil takes an additional 6d6 damage from the attack. The oil dries after 1 hour and becomes inert.</p>",
+        "format": 1
+      },
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "mastercrafted": {
+          "img": "icons/consumables/potions/bottle-metal-yellow-gray.webp",
+          "ingredients": [
+            {
+              "id": "lnKKXYMn3ed1g3VG",
+              "name": null,
+              "components": [
+                {
+                  "id": "FWDVRzHUlb4Yftkw",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.FL1DOoV7dEZ4YmsH",
+                  "quantity": 1,
+                  "name": "Dragon's Blood",
+                  "img": "icons/skills/wounds/blood-drip-droplet-red.webp",
+                  "tags": [],
+                  "resourcePath": ""
+                }
+              ]
+            },
+            {
+              "id": "QFCDoyxxiyI4c2YU",
+              "name": null,
+              "components": [
+                {
+                  "id": "m3FNnPaheb14jWwo",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.k8aljL25K5d4mHOF",
+                  "quantity": 1,
+                  "name": "Wyvern Poison",
+                  "img": "icons/creatures/slimes/slime-movement-dripping-purple.webp",
+                  "tags": [],
+                  "resourcePath": ""
+                }
+              ]
+            }
+          ],
+          "ingredientsInspection": "0",
+          "macroName": "",
+          "products": [
+            {
+              "id": "Zx5YKQDQx17Td4Kg",
+              "name": null,
+              "components": [
+                {
+                  "id": "0X2qdJkrNN6wtt6O",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-alchemy.Item.Ii5gy259isUXMqSg",
+                  "quantity": 1,
+                  "name": "Oil of Dragon's Bane",
+                  "img": "icons/consumables/potions/bottle-metal-yellow-gray.webp",
+                  "tags": [],
+                  "resourcePath": ""
+                }
+              ]
+            }
+          ],
+          "productInspection": "0",
+          "sound": "",
+          "time": null,
+          "require": "",
+          "expression": "",
+          "modifierList": [],
+          "checks": [],
+          "type": "",
+          "requiresStation": false,
+          "requiresMinigame": false,
+          "minigame": {
+            "difficulty": "normal",
+            "canFail": false,
+            "perfect": ""
+          },
+          "timedMode": "",
+          "queueKey": ""
+        }
+      },
+      "_id": "gFRIlDuVR6VrLeFK",
+      "system": {
+        "htmlFields": [
+          "text.content"
+        ],
+        "text": {
+          "format": 1
+        }
+      },
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "sort": 0,
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.370",
+        "systemId": "dnd5e",
+        "systemVersion": "5.2.5",
+        "lastModifiedBy": "TJvRiTp7BS0avsVp",
+        "createdTime": 1794239342860,
+        "modifiedTime": 1794239342860
+      },
+      "_key": "!journal.pages!iCmEjfnxejnskaz6.gFRIlDuVR6VrLeFK"
+    },
+    {
+      "name": "Potion of Gaseous Form",
+      "type": "mastercrafted.mastercrafted",
+      "text": {
+        "content": "<p>When you drink this potion, you gain the effect of the gaseous form spell for 1 hour (no concentration required) or until you end the effect as a bonus action. This potion's container seems to hold fog that moves and pours like water.</p>",
+        "format": 1
+      },
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "mastercrafted": {
+          "img": "icons/consumables/potions/potion-bottle-skull-label-poison-teal.webp",
+          "ingredients": [
+            {
+              "id": "59cA3HGnQ7Ao1PpL",
+              "name": null,
+              "components": [
+                {
+                  "id": "qdoorUbgUcI8Dqnc",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.OQAPiXDbXeOTP5TD",
+                  "quantity": 1,
+                  "name": "Ectoplasm",
+                  "img": "icons/magic/unholy/projectile-fireball-agile-purple.webp",
+                  "tags": [],
+                  "resourcePath": ""
+                }
+              ]
+            },
+            {
+              "id": "uY4LSpjTXXADbckh",
+              "name": null,
+              "components": [
+                {
+                  "id": "c7itRfVKlZOa7Ti1",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.ZxuFEfo7SerKMoMR",
+                  "quantity": 1,
+                  "name": "Singing Nettle",
+                  "img": "icons/consumables/plants/thorned-curled-vine-green.webp",
+                  "tags": [],
+                  "resourcePath": ""
+                }
+              ]
+            }
+          ],
+          "ingredientsInspection": "0",
+          "macroName": "",
+          "products": [
+            {
+              "id": "beb99pcXhHYs41Lz",
+              "name": null,
+              "components": [
+                {
+                  "id": "ZklZmSS977eGP2BV",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-alchemy.Item.9HkCG49rFoI8DMLI",
+                  "quantity": 1,
+                  "name": "Potion of Gaseous Form",
+                  "img": "icons/consumables/potions/potion-bottle-skull-label-poison-teal.webp",
+                  "tags": [],
+                  "resourcePath": ""
+                }
+              ]
+            }
+          ],
+          "productInspection": "0",
+          "sound": "",
+          "time": null,
+          "require": "",
+          "expression": "",
+          "modifierList": [],
+          "checks": [],
+          "type": "",
+          "requiresStation": false,
+          "requiresMinigame": false,
+          "minigame": {
+            "difficulty": "normal",
+            "canFail": false,
+            "perfect": ""
+          },
+          "timedMode": "",
+          "queueKey": ""
+        }
+      },
+      "_id": "gIdiuQUQ5PnZwjBH",
+      "system": {
+        "htmlFields": [
+          "text.content"
+        ],
+        "text": {
+          "format": 1
+        }
+      },
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "sort": 0,
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.370",
+        "systemId": "dnd5e",
+        "systemVersion": "5.2.5",
+        "lastModifiedBy": "TJvRiTp7BS0avsVp",
+        "createdTime": 1794239342860,
+        "modifiedTime": 1794239342860
+      },
+      "_key": "!journal.pages!iCmEjfnxejnskaz6.gIdiuQUQ5PnZwjBH"
+    },
+    {
+      "name": "Potion of Giant Strength",
+      "type": "mastercrafted.mastercrafted",
+      "text": {
+        "content": "<p>When you drink this potion, your Strength score changes for 1 hour. The type of giant determines the score. The potion has no effect on you if your Strength is equal to or greater than that score. This potion's transparent liquid has floating in it a sliver of fingernail from a giant of the appropriate type.</p>",
+        "format": 1
+      },
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "mastercrafted": {
+          "img": "icons/consumables/potions/bottle-circular-corked-labeled-green.webp",
+          "ingredients": [
+            {
+              "id": "bXxc3BV9aVroYjJi",
+              "name": null,
+              "components": [
+                {
+                  "id": "bkVPkE5d2NgEOf5R",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.4ybCoZqAMDLiQsmb",
+                  "quantity": 1,
+                  "name": "Frost Lichen",
+                  "img": "icons/consumables/plants/leaf-broad-blue.webp",
+                  "tags": [],
+                  "resourcePath": ""
+                }
+              ]
+            },
+            {
+              "id": "DkQOwWML4Xs9ARp5",
+              "name": null,
+              "components": [
+                {
+                  "id": "Yd888o56wUPbDXbY",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.A9RbPBHYwoNK1OpV",
+                  "quantity": 1,
+                  "name": "Giant's Fingernail",
+                  "img": "icons/commodities/biological/shell-plain-white.webp",
+                  "tags": [],
+                  "resourcePath": ""
+                }
+              ]
+            }
+          ],
+          "ingredientsInspection": "0",
+          "macroName": "",
+          "products": [
+            {
+              "id": "Bkxpa6RfybmQOdy9",
+              "name": null,
+              "components": [
+                {
+                  "id": "mkMcGdoWysROU8C8",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-alchemy.Item.JN5rimyT8P5RDjnA",
+                  "quantity": 1,
+                  "name": "Potion of Giant Strength",
+                  "img": "icons/consumables/potions/bottle-circular-corked-labeled-green.webp",
+                  "tags": [],
+                  "resourcePath": ""
+                }
+              ]
+            }
+          ],
+          "productInspection": "0",
+          "sound": "",
+          "time": null,
+          "require": "",
+          "expression": "",
+          "modifierList": [],
+          "checks": [],
+          "type": "",
+          "requiresStation": false,
+          "requiresMinigame": false,
+          "minigame": {
+            "difficulty": "normal",
+            "canFail": false,
+            "perfect": ""
+          },
+          "timedMode": "",
+          "queueKey": ""
+        }
+      },
+      "_id": "V1p3TbMyPL2IUGt4",
+      "system": {
+        "htmlFields": [
+          "text.content"
+        ],
+        "text": {
+          "format": 1
+        }
+      },
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "sort": 0,
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.370",
+        "systemId": "dnd5e",
+        "systemVersion": "5.2.5",
+        "lastModifiedBy": "TJvRiTp7BS0avsVp",
+        "createdTime": 1794239342860,
+        "modifiedTime": 1794239342860
+      },
+      "_key": "!journal.pages!iCmEjfnxejnskaz6.V1p3TbMyPL2IUGt4"
+    },
+    {
+      "name": "Potion of Mana",
+      "type": "mastercrafted.mastercrafted",
+      "text": {
+        "content": "<p>Vibrant blue and deeply purple, studded with dots of white and silver, this potion reminds of the night sky. When agitated, it lets out a soft, purple light. After drinking this potion, the user regains 4 Recovery Points similar to the wizard’s Arcane Recovery or regains 4 sorcery points.</p>",
+        "format": 1
+      },
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "mastercrafted": {
+          "img": "icons/consumables/potions/bottle-conical-bubbling-blue.webp",
+          "ingredients": [
+            {
+              "id": "TNRhEgiEnB32hYB4",
+              "name": null,
+              "components": [
+                {
+                  "id": "ZhN5mVlyzhh6LL8x",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.WglM0mvztSmJL7Lv",
+                  "quantity": 1,
+                  "name": "Pixie's Parasol",
+                  "img": "icons/consumables/mushrooms/campanulate-bell-shiny-blue.webp",
+                  "tags": [],
+                  "resourcePath": ""
+                }
+              ]
+            },
+            {
+              "id": "jsQGj4TAgA4MJVZn",
+              "name": null,
+              "components": [
+                {
+                  "id": "T4YacipSLA3ZshTb",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.IvLk97TKspuqU1eX",
+                  "quantity": 1,
+                  "name": "Silverthorn",
+                  "img": "icons/consumables/plants/thorned-dried-stem-brown.webp",
+                  "tags": [],
+                  "resourcePath": ""
+                }
+              ]
+            },
+            {
+              "id": "5I2AqmEFybPmfv6s",
+              "name": null,
+              "components": [
+                {
+                  "id": "1ZWkhg0WrEsUovth",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.FL1DOoV7dEZ4YmsH",
+                  "quantity": 1,
+                  "name": "Dragon's Blood",
+                  "img": "icons/skills/wounds/blood-drip-droplet-red.webp",
+                  "tags": [],
+                  "resourcePath": ""
+                }
+              ]
+            }
+          ],
+          "ingredientsInspection": "0",
+          "macroName": "",
+          "products": [
+            {
+              "id": "s4QQBQTWwBTE46av",
+              "name": null,
+              "components": [
+                {
+                  "id": "wYEmOBonEEC2rrdr",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-alchemy.Item.Ni8DI1Zn9li3vzGT",
+                  "quantity": 1,
+                  "name": "Potion of Mana",
+                  "img": "icons/consumables/potions/bottle-conical-bubbling-blue.webp",
+                  "tags": [],
+                  "resourcePath": ""
+                }
+              ]
+            }
+          ],
+          "productInspection": "0",
+          "sound": "",
+          "time": null,
+          "require": "",
+          "expression": "",
+          "modifierList": [],
+          "checks": [],
+          "type": "",
+          "requiresStation": false,
+          "requiresMinigame": false,
+          "minigame": {
+            "difficulty": "normal",
+            "canFail": false,
+            "perfect": ""
+          },
+          "timedMode": "",
+          "queueKey": ""
+        }
+      },
+      "_id": "0OwfB5QPotucmbMb",
+      "system": {
+        "htmlFields": [
+          "text.content"
+        ],
+        "text": {
+          "format": 1
+        }
+      },
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "sort": 0,
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.370",
+        "systemId": "dnd5e",
+        "systemVersion": "5.2.5",
+        "lastModifiedBy": "TJvRiTp7BS0avsVp",
+        "createdTime": 1794239342860,
+        "modifiedTime": 1794239342860
+      },
+      "_key": "!journal.pages!iCmEjfnxejnskaz6.0OwfB5QPotucmbMb"
+    },
+    {
+      "name": "Potion of True Dreaming",
+      "type": "mastercrafted.mastercrafted",
+      "text": {
+        "content": "<p>Black as the void, this liquid appears to flash in bright colours when looked at through the corner of one’s eye. When you drink this potion before falling asleep, your dreams show you true visions of of the past, present or possible future events related to a creature, location or object of your choosing. The DM determines the nature and duration of these visions.</p>",
+        "format": 1
+      },
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "mastercrafted": {
+          "img": "icons/consumables/potions/bottle-conical-corked-tied-blue.webp",
+          "ingredients": [
+            {
+              "id": "sQ5BfAYB16V1A5Vh",
+              "name": null,
+              "components": [
+                {
+                  "id": "jA2RyB32KhN2jyYN",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.XZe2WSquLSLKzHrm",
+                  "quantity": 1,
+                  "name": "Nothic Tears",
+                  "img": "icons/creatures/eyes/lizard-single-slit-pink.webp",
+                  "tags": [],
+                  "resourcePath": ""
+                }
+              ]
+            },
+            {
+              "id": "2kwI77wVZerJBwGs",
+              "name": null,
+              "components": [
+                {
+                  "id": "K9DtuvuCb0FPtfnU",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.SMab7kAjsYtxGJKJ",
+                  "quantity": 1,
+                  "name": "Willowshade Fruit",
+                  "img": "icons/consumables/fruit/date-ripe-red-green.webp",
+                  "tags": [],
+                  "resourcePath": ""
+                },
+                {
+                  "id": "GxT2jkiTaGFtXlS9",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-herbalism.Item.MdAPFn646hCxbo7D",
+                  "quantity": 1,
+                  "name": "Willowshade Oil",
+                  "img": "icons/consumables/potions/potion-bottle-corked-labeled-green.webp",
+                  "tags": [],
+                  "resourcePath": ""
+                }
+              ]
+            }
+          ],
+          "ingredientsInspection": "0",
+          "macroName": "",
+          "products": [
+            {
+              "id": "SI0B6N7D25TLzQgI",
+              "name": null,
+              "components": [
+                {
+                  "id": "2F1AeQz6NpfbFc7C",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-alchemy.Item.HYLFCu9GlUmXbJcH",
+                  "quantity": 1,
+                  "name": "Potion of True Dreaming",
+                  "img": "icons/consumables/potions/bottle-conical-corked-tied-blue.webp",
+                  "tags": [],
+                  "resourcePath": ""
+                }
+              ]
+            }
+          ],
+          "productInspection": "0",
+          "sound": "",
+          "time": null,
+          "require": "",
+          "expression": "",
+          "modifierList": [],
+          "checks": [],
+          "type": "",
+          "requiresStation": false,
+          "requiresMinigame": false,
+          "minigame": {
+            "difficulty": "normal",
+            "canFail": false,
+            "perfect": ""
+          },
+          "timedMode": "",
+          "queueKey": ""
+        }
+      },
+      "_id": "zytRu5aVVID8Vfdv",
+      "system": {
+        "htmlFields": [
+          "text.content"
+        ],
+        "text": {
+          "format": 1
+        }
+      },
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "sort": 0,
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.370",
+        "systemId": "dnd5e",
+        "systemVersion": "5.2.5",
+        "lastModifiedBy": "TJvRiTp7BS0avsVp",
+        "createdTime": 1794239342861,
+        "modifiedTime": 1794239342861
+      },
+      "_key": "!journal.pages!iCmEjfnxejnskaz6.zytRu5aVVID8Vfdv"
+    },
+    {
+      "name": "Oil of Etherealness",
+      "type": "mastercrafted.mastercrafted",
+      "text": {
+        "content": "<p>Beads of this cloudy grey oil form on the outside of its container and quickly evaporate. The oil can cover a Medium or smaller creature, along with the equipment it's wearing and carrying (one additional vial is required for each size category above Medium). Applying the oil takes 10 minutes. The affected creature then gains the effect of the etherealness spell for 1 hour.</p>",
+        "format": 1
+      },
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "mastercrafted": {
+          "img": "icons/consumables/potions/bottle-conical-corked-labeled-shell-cyan.webp",
+          "ingredients": [
+            {
+              "id": "lfV2UCmmklg4BbKG",
+              "name": null,
+              "components": [
+                {
+                  "id": "xSEoppyBwNyo9OeL",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.OQAPiXDbXeOTP5TD",
+                  "quantity": 1,
+                  "name": "Ectoplasm",
+                  "img": "icons/magic/unholy/projectile-fireball-agile-purple.webp",
+                  "tags": [],
+                  "resourcePath": ""
+                }
+              ]
+            },
+            {
+              "id": "2I5OeWh1qD3z2NNH",
+              "name": null,
+              "components": [
+                {
+                  "id": "haXj0FrorwTPaEPw",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.BdmLXPQWZ023gdiY",
+                  "quantity": 1,
+                  "name": "Oil (flask)",
+                  "img": "icons/sundries/survival/waterskin-leather-brown.webp",
+                  "tags": [],
+                  "resourcePath": ""
+                }
+              ]
+            }
+          ],
+          "ingredientsInspection": "0",
+          "macroName": "",
+          "products": [
+            {
+              "id": "GaaPBVChLHxmyoae",
+              "name": null,
+              "components": [
+                {
+                  "id": "IZmojRqu5Tfc4Q8M",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-alchemy.Item.mkS93V9FDtR6k0JI",
+                  "quantity": 1,
+                  "name": "Oil of Etherealness",
+                  "img": "icons/consumables/potions/bottle-conical-corked-labeled-shell-cyan.webp",
+                  "tags": [],
+                  "resourcePath": ""
+                }
+              ]
+            }
+          ],
+          "productInspection": "0",
+          "sound": "",
+          "time": null,
+          "require": "",
+          "expression": "",
+          "modifierList": [],
+          "checks": [],
+          "type": "",
+          "requiresStation": false,
+          "requiresMinigame": false,
+          "minigame": {
+            "difficulty": "normal",
+            "canFail": false,
+            "perfect": ""
+          },
+          "timedMode": "",
+          "queueKey": ""
+        }
+      },
+      "_id": "Rp3jMOl4kf1oKRWS",
+      "system": {
+        "htmlFields": [
+          "text.content"
+        ],
+        "text": {
+          "format": 1
+        }
+      },
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "sort": 0,
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.370",
+        "systemId": "dnd5e",
+        "systemVersion": "5.2.5",
+        "lastModifiedBy": "TJvRiTp7BS0avsVp",
+        "createdTime": 1794239342861,
+        "modifiedTime": 1794239342861
+      },
+      "_key": "!journal.pages!iCmEjfnxejnskaz6.Rp3jMOl4kf1oKRWS"
+    },
+    {
+      "name": "Potion of Clairvoyance",
+      "type": "mastercrafted.mastercrafted",
+      "text": {
+        "content": "<p>When you drink this potion, you gain the effect of the clairvoyance spell for 10 minutes. An eyeball bobs in this yellowish liquid but vanishes when the potion is opened.</p>",
+        "format": 1
+      },
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "mastercrafted": {
+          "img": "icons/consumables/potions/bottle-bulb-corked-purple.webp",
+          "ingredients": [
+            {
+              "id": "aflxI6gtjNo2rm53",
+              "name": null,
+              "components": [
+                {
+                  "id": "cUAiVKEEpy5MARNX",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.q56qk1upHBqOeFo0",
+                  "quantity": 1,
+                  "name": "Morning Dew",
+                  "img": "icons/consumables/plants/cilantro-parsley-herb-leaf-green.webp",
+                  "tags": [],
+                  "resourcePath": ""
+                }
+              ]
+            },
+            {
+              "id": "J0MaXojOP1G9tdME",
+              "name": null,
+              "components": [
+                {
+                  "id": "zvG556gQYqYJI9n2",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.B6DIfwy19Ts5ikHU",
+                  "quantity": 1,
+                  "name": "Mandrake Root",
+                  "img": "icons/consumables/vegetable/root-potato-radish-white.webp",
+                  "tags": [],
+                  "resourcePath": ""
+                }
+              ]
+            }
+          ],
+          "ingredientsInspection": "0",
+          "macroName": "",
+          "products": [
+            {
+              "id": "9ElQ41E5eIZejrCo",
+              "name": null,
+              "components": [
+                {
+                  "id": "O1DnNr8BFZACVFwE",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-alchemy.Item.KQ0CCqBtrOoycN5x",
+                  "quantity": 1,
+                  "name": "Potion of Clairvoyance",
+                  "img": "icons/consumables/potions/bottle-bulb-corked-purple.webp",
+                  "tags": [],
+                  "resourcePath": ""
+                }
+              ]
+            }
+          ],
+          "productInspection": "0",
+          "sound": "",
+          "time": null,
+          "require": "",
+          "expression": "",
+          "modifierList": [],
+          "checks": [],
+          "type": "",
+          "requiresStation": false,
+          "requiresMinigame": false,
+          "minigame": {
+            "difficulty": "normal",
+            "canFail": false,
+            "perfect": ""
+          },
+          "timedMode": "",
+          "queueKey": ""
+        }
+      },
+      "_id": "AwqQrWcIl9vW5rx6",
+      "system": {
+        "htmlFields": [
+          "text.content"
+        ],
+        "text": {
+          "format": 1
+        }
+      },
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "sort": 0,
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.370",
+        "systemId": "dnd5e",
+        "systemVersion": "5.2.5",
+        "lastModifiedBy": "TJvRiTp7BS0avsVp",
+        "createdTime": 1794239342861,
+        "modifiedTime": 1794239342861
+      },
+      "_key": "!journal.pages!iCmEjfnxejnskaz6.AwqQrWcIl9vW5rx6"
+    },
+    {
+      "name": "Potion of Diminution",
+      "type": "mastercrafted.mastercrafted",
+      "text": {
+        "content": "<p>When you drink this potion, you gain the \"reduce\" effect of the enlarge/reduce spell for 1d4 hours (no concentration required). The red in the potion's liquid continuously contracts to a tiny bead and then expands to color the clear liquid around it. Shaking the bottle fails to interrupt this process.</p>",
+        "format": 1
+      },
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "mastercrafted": {
+          "img": "icons/consumables/potions/potion-tube-corked-glowing-red.webp",
+          "ingredients": [
+            {
+              "id": "g8Qpk71MpvWfHqOG",
+              "name": null,
+              "components": [
+                {
+                  "id": "45TAL4vDwg3hd5Dy",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.WglM0mvztSmJL7Lv",
+                  "quantity": 1,
+                  "name": "Pixie's Parasol",
+                  "img": "icons/consumables/mushrooms/campanulate-bell-shiny-blue.webp",
+                  "tags": [],
+                  "resourcePath": ""
+                }
+              ]
+            },
+            {
+              "id": "CGMxRBjYm7GTwHLi",
+              "name": null,
+              "components": [
+                {
+                  "id": "ENTrh1FpY13ziDph",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.XsePsNGNXztjGhqt",
+                  "quantity": 1,
+                  "name": "Moonstalker",
+                  "img": "icons/commodities/flowers/dandelion-pod-blue.webp",
+                  "tags": [],
+                  "resourcePath": ""
+                }
+              ]
+            }
+          ],
+          "ingredientsInspection": "0",
+          "macroName": "",
+          "products": [
+            {
+              "id": "ONkqsQITdePDpHpU",
+              "name": null,
+              "components": [
+                {
+                  "id": "HwZSQ9qCXlPAZEN4",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-alchemy.Item.6IfVTFhqoV1XLltR",
+                  "quantity": 1,
+                  "name": "Potion of Diminution",
+                  "img": "icons/consumables/potions/potion-tube-corked-glowing-red.webp",
+                  "tags": [],
+                  "resourcePath": ""
+                }
+              ]
+            }
+          ],
+          "productInspection": "0",
+          "sound": "",
+          "time": null,
+          "require": "",
+          "expression": "",
+          "modifierList": [],
+          "checks": [],
+          "type": "",
+          "requiresStation": false,
+          "requiresMinigame": false,
+          "minigame": {
+            "difficulty": "normal",
+            "canFail": false,
+            "perfect": ""
+          },
+          "timedMode": "",
+          "queueKey": ""
+        }
+      },
+      "_id": "4s661C7WYRQvWUSy",
+      "system": {
+        "htmlFields": [
+          "text.content"
+        ],
+        "text": {
+          "format": 1
+        }
+      },
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "sort": 0,
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.370",
+        "systemId": "dnd5e",
+        "systemVersion": "5.2.5",
+        "lastModifiedBy": "TJvRiTp7BS0avsVp",
+        "createdTime": 1794239342862,
+        "modifiedTime": 1794239342862
+      },
+      "_key": "!journal.pages!iCmEjfnxejnskaz6.4s661C7WYRQvWUSy"
+    },
+    {
+      "name": "Potion of Heroism",
+      "type": "mastercrafted.mastercrafted",
+      "text": {
+        "content": "<p>For 1 hour after drinking it, you gain 10 temporary hit points that last for 1 hour. For the same duration, you are under the effect of the bless spell (no concentration required). This blue potion bubbles and steams as if boiling.</p>",
+        "format": 1
+      },
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "mastercrafted": {
+          "img": "icons/consumables/potions/potion-bottle-corked-fancy-orange.webp",
+          "ingredients": [
+            {
+              "id": "ZkvUOGe07vVmUNgb",
+              "name": null,
+              "components": [
+                {
+                  "id": "dYqc51Pi6uINnPU4",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.qXk27yXG0KVONssI",
+                  "quantity": 1,
+                  "name": "Hagfinger",
+                  "img": "icons/consumables/vegetable/root-parsnip-grey.webp",
+                  "tags": [],
+                  "resourcePath": ""
+                }
+              ]
+            },
+            {
+              "id": "S6oPee4jTHjbuqx9",
+              "name": null,
+              "components": [
+                {
+                  "id": "2LQrt4CSFQVS4Ky8",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.8U61IScvrNcit1ZJ",
+                  "quantity": 1,
+                  "name": "Cat's Tongue",
+                  "img": "icons/consumables/plants/mint-dried-green.webp",
+                  "tags": [],
+                  "resourcePath": ""
+                }
+              ]
+            }
+          ],
+          "ingredientsInspection": "0",
+          "macroName": "",
+          "products": [
+            {
+              "id": "N838dHabSOyaNNWD",
+              "name": null,
+              "components": [
+                {
+                  "id": "HpsHwAK4OFir4iSc",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-alchemy.Item.Q6fYSgZiPZjXLim8",
+                  "quantity": 1,
+                  "name": "Potion of Heroism",
+                  "img": "icons/consumables/potions/potion-bottle-corked-fancy-orange.webp",
+                  "tags": [],
+                  "resourcePath": ""
+                }
+              ]
+            }
+          ],
+          "productInspection": "0",
+          "sound": "",
+          "time": null,
+          "require": "",
+          "expression": "",
+          "modifierList": [],
+          "checks": [],
+          "type": "",
+          "requiresStation": false,
+          "requiresMinigame": false,
+          "minigame": {
+            "difficulty": "normal",
+            "canFail": false,
+            "perfect": ""
+          },
+          "timedMode": "",
+          "queueKey": ""
+        }
+      },
+      "_id": "rCEz3SQBvvmvcS2F",
+      "system": {
+        "htmlFields": [
+          "text.content"
+        ],
+        "text": {
+          "format": 1
+        }
+      },
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "sort": 0,
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.370",
+        "systemId": "dnd5e",
+        "systemVersion": "5.2.5",
+        "lastModifiedBy": "TJvRiTp7BS0avsVp",
+        "createdTime": 1794239342862,
+        "modifiedTime": 1794239342862
+      },
+      "_key": "!journal.pages!iCmEjfnxejnskaz6.rCEz3SQBvvmvcS2F"
+    },
+    {
+      "name": "Potion of Invulnerability",
+      "type": "mastercrafted.mastercrafted",
+      "text": {
+        "content": "<p>For 1 minute after you drink this potion, you have Resistance to all damage. The potion's syrupy liquid looks like liquefied iron.</p>",
+        "format": 1
+      },
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "mastercrafted": {
+          "img": "icons/consumables/potions/potion-flask-corled-pink-red.webp",
+          "ingredients": [
+            {
+              "id": "IiAwAF4F2nSpUd7m",
+              "name": null,
+              "components": [
+                {
+                  "id": "zRXOgA5AKL4y0f0f",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.dJfTixoUfWKnFxkH",
+                  "quantity": 1,
+                  "name": "Lightning Struck Metal",
+                  "img": "icons/commodities/stone/ore-chunk-blue-brown.webp",
+                  "tags": [],
+                  "resourcePath": ""
+                }
+              ]
+            }
+          ],
+          "ingredientsInspection": "0",
+          "macroName": "",
+          "products": [
+            {
+              "id": "yeAvHPf67qtsqXQb",
+              "name": null,
+              "components": [
+                {
+                  "id": "MC8MosqrA9tGMRke",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-alchemy.Item.ImKqidK2awM2bNKG",
+                  "quantity": 1,
+                  "name": "Potion of Invulnerability",
+                  "img": "icons/consumables/potions/potion-flask-corled-pink-red.webp",
+                  "tags": [],
+                  "resourcePath": ""
+                }
+              ]
+            }
+          ],
+          "productInspection": "0",
+          "sound": "",
+          "time": null,
+          "require": "",
+          "expression": "",
+          "modifierList": [],
+          "checks": [],
+          "type": "",
+          "requiresStation": false,
+          "requiresMinigame": false,
+          "minigame": {
+            "difficulty": "normal",
+            "canFail": false,
+            "perfect": ""
+          },
+          "timedMode": "",
+          "queueKey": ""
+        }
+      },
+      "_id": "eyu8AQbYdLbTNK7s",
+      "system": {
+        "htmlFields": [
+          "text.content"
+        ],
+        "text": {
+          "format": 1
+        }
+      },
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "sort": 0,
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.370",
+        "systemId": "dnd5e",
+        "systemVersion": "5.2.5",
+        "lastModifiedBy": "TJvRiTp7BS0avsVp",
+        "createdTime": 1794239342862,
+        "modifiedTime": 1794239342862
+      },
+      "_key": "!journal.pages!iCmEjfnxejnskaz6.eyu8AQbYdLbTNK7s"
+    },
+    {
+      "name": "Potion of Mind Reading",
+      "type": "mastercrafted.mastercrafted",
+      "text": {
+        "content": "<p>When you drink this potion, you gain the effect of the detect thoughts spell (DC 13 Wisdom saving throw) for 10 minute. The potion's dense, purple liquid has an ovoid cloud of pink floating in it.</p>",
+        "format": 1
+      },
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "mastercrafted": {
+          "img": "icons/consumables/potions/potion-bottle-skull-label-poison-teal.webp",
+          "ingredients": [
+            {
+              "id": "LxRUjV2QFTS5lSyw",
+              "name": null,
+              "components": [
+                {
+                  "id": "SYKMtP23EOhbOiC1",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.ebflYPaV5OfihxDW",
+                  "quantity": 1,
+                  "name": "Mindflayer Stinkhorn",
+                  "img": "icons/consumables/mushrooms/alien-spotted-blue.webp",
+                  "tags": [],
+                  "resourcePath": ""
+                }
+              ]
+            },
+            {
+              "id": "bHXzlxgaLEz9EE6s",
+              "name": null,
+              "components": [
+                {
+                  "id": "TcTNxlatANP6xvEz",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.XsePsNGNXztjGhqt",
+                  "quantity": 1,
+                  "name": "Moonstalker",
+                  "img": "icons/commodities/flowers/dandelion-pod-blue.webp",
+                  "tags": [],
+                  "resourcePath": ""
+                }
+              ]
+            }
+          ],
+          "ingredientsInspection": "0",
+          "macroName": "",
+          "products": [
+            {
+              "id": "JQaX7qMa7ndSmpfp",
+              "name": null,
+              "components": [
+                {
+                  "id": "5enlWw4fz3pG9cZd",
+                  "uuid": "Compendium.dnd5e.items.Item.Ct9LR9Ft1FG4a6Y1",
+                  "quantity": 1,
+                  "name": "Potion of Mind Reading",
+                  "img": "icons/consumables/potions/bottle-bulb-corked-purple.webp",
+                  "tags": [],
+                  "resourcePath": ""
+                }
+              ]
+            }
+          ],
+          "productInspection": "0",
+          "sound": "",
+          "time": null,
+          "require": "",
+          "expression": "",
+          "modifierList": [],
+          "checks": [],
+          "type": "",
+          "requiresStation": false,
+          "requiresMinigame": false,
+          "minigame": {
+            "difficulty": "normal",
+            "canFail": false,
+            "perfect": ""
+          },
+          "timedMode": "",
+          "queueKey": ""
+        }
+      },
+      "_id": "6qXufoiUlVVJh2Ph",
+      "system": {
+        "htmlFields": [
+          "text.content"
+        ],
+        "text": {
+          "format": 1
+        }
+      },
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "sort": 0,
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.370",
+        "systemId": "dnd5e",
+        "systemVersion": "5.2.5",
+        "lastModifiedBy": "TJvRiTp7BS0avsVp",
+        "createdTime": 1794239342862,
+        "modifiedTime": 1794239342862
+      },
+      "_key": "!journal.pages!iCmEjfnxejnskaz6.6qXufoiUlVVJh2Ph"
+    },
+    {
+      "name": "Thor's Might",
+      "type": "mastercrafted.mastercrafted",
+      "text": {
+        "content": "<p>A churning mass of a deep blue liquid, shot through with white streaks that remind of lightning. The container which holds this potion always shakes and quivers slightly. After drinking this potion, upon hitting a target with a melee weapon attack let’s out thunderous crack that deals an extra 1d6 thunder damage for 1 minute, there is no limit to how often it can be used within this timespan.</p>",
+        "format": 1
+      },
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "mastercrafted": {
+          "img": "icons/consumables/potions/potion-round-stopped-yellow-green.webp",
+          "ingredients": [
+            {
+              "id": "7DffBLxWY7aVTdxy",
+              "name": null,
+              "components": [
+                {
+                  "id": "vZ4umlPLMDCIowRh",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.oJHIjX6NgapONg7e",
+                  "quantity": 1,
+                  "name": "Air Elemental Wisp",
+                  "img": "icons/magic/air/fog-gas-smoke-dense-blue.webp",
+                  "tags": [],
+                  "resourcePath": ""
+                },
+                {
+                  "id": "lDJUaTam62Zyf8gj",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.A9RbPBHYwoNK1OpV",
+                  "quantity": 1,
+                  "name": "Giant's Fingernail",
+                  "img": "icons/commodities/biological/shell-plain-white.webp",
+                  "tags": [],
+                  "resourcePath": ""
+                }
+              ]
+            },
+            {
+              "id": "TPBavjtDqlCxnL9U",
+              "name": null,
+              "components": [
+                {
+                  "id": "5pDD94Qw7D64tkNs",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.MkUnBgXfcD2QwUwN",
+                  "quantity": 1,
+                  "name": "Lightning Moss",
+                  "img": "icons/magic/lightning/barrier-wall-shield-gray.webp",
+                  "tags": [],
+                  "resourcePath": ""
+                }
+              ]
+            },
+            {
+              "id": "NGm5twaojsWY4moU",
+              "name": null,
+              "components": [
+                {
+                  "id": "IoNXjD4hCpyfSGIz",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.ZxuFEfo7SerKMoMR",
+                  "quantity": 1,
+                  "name": "Singing Nettle",
+                  "img": "icons/consumables/plants/thorned-curled-vine-green.webp",
+                  "tags": [],
+                  "resourcePath": ""
+                }
+              ]
+            }
+          ],
+          "ingredientsInspection": "0",
+          "macroName": "",
+          "products": [
+            {
+              "id": "4Qf6YSqNe878XTTF",
+              "name": null,
+              "components": [
+                {
+                  "id": "I7JCRuzTguGyRhjB",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-alchemy.Item.mb8AMSs0FCZkbjrq",
+                  "quantity": 1,
+                  "name": "Thor's Might",
+                  "img": "icons/consumables/potions/potion-round-stopped-yellow-green.webp",
+                  "tags": [],
+                  "resourcePath": ""
+                }
+              ]
+            }
+          ],
+          "productInspection": "0",
+          "sound": "",
+          "time": null,
+          "require": "",
+          "expression": "",
+          "modifierList": [],
+          "checks": [],
+          "type": "",
+          "requiresStation": false,
+          "requiresMinigame": false,
+          "minigame": {
+            "difficulty": "normal",
+            "canFail": false,
+            "perfect": ""
+          },
+          "timedMode": "",
+          "queueKey": ""
+        }
+      },
+      "_id": "x40zzC2e9OEfRAqY",
+      "system": {
+        "htmlFields": [
+          "text.content"
+        ],
+        "text": {
+          "format": 1
+        }
+      },
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "sort": 0,
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.370",
+        "systemId": "dnd5e",
+        "systemVersion": "5.2.5",
+        "lastModifiedBy": "TJvRiTp7BS0avsVp",
+        "createdTime": 1794239342862,
+        "modifiedTime": 1794239342862
+      },
+      "_key": "!journal.pages!iCmEjfnxejnskaz6.x40zzC2e9OEfRAqY"
+    }
+  ],
+  "flags": {
+    "mastercrafted": {
+      "description": "Contains recipes for crafting rare Alchemical Concoctions",
+      "img": "icons/sundries/books/book-symbol-potion-blue.webp",
+      "ingredientsInspection": "1",
+      "productInspection": "1",
+      "sound": "",
+      "require": "Alchemist's Supplies",
+      "macroName": "",
+      "time": null,
+      "timedMode": "parallel",
+      "queueKey": ""
+    }
+  },
+  "categories": [],
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.370",
+    "systemId": "dnd5e",
+    "systemVersion": "5.2.5",
+    "createdTime": 1773072013214,
+    "modifiedTime": 1794239343029,
+    "lastModifiedBy": "TJvRiTp7BS0avsVp"
+  },
+  "_id": "iCmEjfnxejnskaz6",
+  "sort": 0,
+  "_key": "!journal!iCmEjfnxejnskaz6"
+}

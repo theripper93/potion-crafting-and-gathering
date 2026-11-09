@@ -1,0 +1,380 @@
+{
+  "name": "The Mild Poisoner",
+  "ownership": {
+    "default": 0,
+    "rqEOxzm9pWZpMhH4": 0,
+    "QAdDWUaUNK09Iq3x": 0,
+    "GOvXOrkQSzey7yZ5": 0,
+    "56XvGn6U8R9S2vlW": 0,
+    "HHjDcylTiWQFDEbS": 0,
+    "qr1zQ11jcfurK31V": 3
+  },
+  "folder": "jR5pShGKb03nvGBP",
+  "pages": [
+    {
+      "name": "Basic Poison",
+      "type": "mastercrafted.mastercrafted",
+      "text": {
+        "content": "<p>You can use the poison in this vial to coat one slashing or piercing weapon or up to three pieces of ammunition. Applying the poison takes an action. A creature hit by the poisoned weapon or ammunition must make a DC 10 Constitution saving throw or take 1d4 poison damage. Once applied, the poison retains potency for 1 minute before drying.</p>",
+        "format": 1
+      },
+      "ownership": {
+        "default": -1,
+        "rqEOxzm9pWZpMhH4": -1,
+        "QAdDWUaUNK09Iq3x": -1,
+        "GOvXOrkQSzey7yZ5": -1,
+        "56XvGn6U8R9S2vlW": -1,
+        "HHjDcylTiWQFDEbS": -1
+      },
+      "flags": {
+        "mastercrafted": {
+          "img": "icons/consumables/potions/potion-tube-corked-bubbling-green.webp",
+          "ingredients": [
+            {
+              "id": "HvCiRoKq14aZuyaS",
+              "name": null,
+              "components": [
+                {
+                  "id": "3oN9OTHFqGtUgeIh",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.PpZ5ysLIab4PNiCL",
+                  "quantity": 1,
+                  "name": "Nightshade",
+                  "img": "icons/consumables/plants/leaf-pink.webp",
+                  "tags": [],
+                  "resourcePath": ""
+                }
+              ]
+            }
+          ],
+          "ingredientsInspection": "0",
+          "macroName": "",
+          "products": [
+            {
+              "id": "GJ82VHXa49rLPQme",
+              "name": null,
+              "components": [
+                {
+                  "id": "f26I3v5EPYdHM2UJ",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-poisons.Item.v4AeMM9MmplrULaL",
+                  "quantity": 1,
+                  "name": "Poison, Basic (vial)",
+                  "img": "icons/consumables/potions/potion-tube-corked-bubbling-green.webp",
+                  "tags": [],
+                  "resourcePath": ""
+                }
+              ]
+            }
+          ],
+          "productInspection": "0",
+          "sound": "",
+          "time": null,
+          "require": "",
+          "expression": "",
+          "modifierList": [],
+          "checks": [],
+          "type": "",
+          "requiresStation": false,
+          "requiresMinigame": false,
+          "minigame": {
+            "difficulty": "normal",
+            "canFail": false,
+            "perfect": ""
+          },
+          "timedMode": "",
+          "queueKey": ""
+        }
+      },
+      "_id": "faKJiZrv15ZL8mbX",
+      "system": {
+        "htmlFields": [
+          "text.content"
+        ],
+        "text": {
+          "format": 1
+        }
+      },
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "sort": 0,
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.370",
+        "systemId": "dnd5e",
+        "systemVersion": "5.2.5",
+        "lastModifiedBy": "TJvRiTp7BS0avsVp",
+        "createdTime": 1794239342617,
+        "modifiedTime": 1794239342617
+      },
+      "_key": "!journal.pages!2yCIQrSdDhrtMKcV.faKJiZrv15ZL8mbX"
+    },
+    {
+      "name": "Biza's Breath",
+      "type": "mastercrafted.mastercrafted",
+      "text": {
+        "content": "<p>A creature subjected to this poison must succeed on a DC 16 Constitution saving throw or become poisoned for 1 minute. The poisoned creature must use its action to make a melee attack against a randomly determined creature within its reach. If there is no other creature within its reach, the poisoned creature does nothing on its turn. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.</p>",
+        "format": 1
+      },
+      "ownership": {
+        "default": -1,
+        "rqEOxzm9pWZpMhH4": -1,
+        "QAdDWUaUNK09Iq3x": -1,
+        "GOvXOrkQSzey7yZ5": -1,
+        "56XvGn6U8R9S2vlW": -1,
+        "HHjDcylTiWQFDEbS": -1
+      },
+      "flags": {
+        "mastercrafted": {
+          "img": "ddb-images/other/equipment-Poison.jpg",
+          "ingredients": [
+            {
+              "id": "ijDoS1nDxg0ziNnv",
+              "name": null,
+              "components": [
+                {
+                  "id": "4oe1m4p9abIbZcA8",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.2Q5eat8DBOS7E7Xf",
+                  "quantity": 1,
+                  "name": "Angel's Trumpet",
+                  "img": "icons/commodities/flowers/lily-grey-orange.webp",
+                  "tags": [],
+                  "resourcePath": ""
+                }
+              ]
+            },
+            {
+              "id": "lqLojLnnFq4tdjVV",
+              "name": null,
+              "components": [
+                {
+                  "id": "omSv4DRSyvqJxaOp",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.4ybCoZqAMDLiQsmb",
+                  "quantity": 1,
+                  "name": "Frost Lichen",
+                  "img": "icons/consumables/plants/leaf-broad-blue.webp",
+                  "tags": [],
+                  "resourcePath": ""
+                }
+              ]
+            }
+          ],
+          "ingredientsInspection": "0",
+          "macroName": "",
+          "products": [
+            {
+              "id": "dm9pr1BGH92gIYyT",
+              "name": null,
+              "components": [
+                {
+                  "id": "Gc6XdsuyTpFFoMCj",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-poisons.Item.KiKpQdTDuJTUFVsK",
+                  "quantity": 1,
+                  "name": "Biza's Breath (Inhaled)",
+                  "img": "ddb-images/other/equipment-Poison.jpg",
+                  "tags": [],
+                  "resourcePath": ""
+                }
+              ]
+            }
+          ],
+          "productInspection": "0",
+          "sound": "",
+          "time": null,
+          "require": "",
+          "expression": "",
+          "modifierList": [],
+          "checks": [],
+          "type": "",
+          "requiresStation": false,
+          "requiresMinigame": false,
+          "minigame": {
+            "difficulty": "normal",
+            "canFail": false,
+            "perfect": ""
+          },
+          "timedMode": "",
+          "queueKey": ""
+        }
+      },
+      "_id": "P3dikLWLCtAN5lu1",
+      "system": {
+        "htmlFields": [
+          "text.content"
+        ],
+        "text": {
+          "format": 1
+        }
+      },
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "sort": 0,
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.370",
+        "systemId": "dnd5e",
+        "systemVersion": "5.2.5",
+        "lastModifiedBy": "TJvRiTp7BS0avsVp",
+        "createdTime": 1794239342618,
+        "modifiedTime": 1794239342618
+      },
+      "_key": "!journal.pages!2yCIQrSdDhrtMKcV.P3dikLWLCtAN5lu1"
+    },
+    {
+      "name": "Liquid Paranoia",
+      "type": "mastercrafted.mastercrafted",
+      "text": {
+        "content": "<p>A creature who ingests this poison is inflicted with the frightened condition, with the source of fear being the next humanoid it sees within 5 minutes of ingestion. The creature must make a DC 15 Wisdom saving throw, on a failed save the fear lasts for 1 hour or half as long on a success.</p>",
+        "format": 1
+      },
+      "ownership": {
+        "default": -1,
+        "rqEOxzm9pWZpMhH4": -1,
+        "QAdDWUaUNK09Iq3x": -1,
+        "GOvXOrkQSzey7yZ5": -1,
+        "56XvGn6U8R9S2vlW": -1,
+        "HHjDcylTiWQFDEbS": -1
+      },
+      "flags": {
+        "mastercrafted": {
+          "img": "icons/consumables/potions/bottle-bulb-corked-purple.webp",
+          "ingredients": [
+            {
+              "id": "5Cd6WS7O6iHRLDxU",
+              "name": null,
+              "components": [
+                {
+                  "id": "wsQ22DR9J427QWi5",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.XsePsNGNXztjGhqt",
+                  "quantity": 1,
+                  "name": "Moonstalker",
+                  "img": "icons/commodities/flowers/dandelion-pod-blue.webp",
+                  "tags": [],
+                  "resourcePath": ""
+                }
+              ]
+            }
+          ],
+          "ingredientsInspection": "0",
+          "macroName": "",
+          "products": [
+            {
+              "id": "RMJux5M0rKBvTt0v",
+              "name": null,
+              "components": [
+                {
+                  "id": "gasXE2a6RkG0tws8",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-poisons.Item.it2rFB0l1YwZPU5i",
+                  "quantity": 1,
+                  "name": "Liquid Paranoia",
+                  "img": "icons/consumables/potions/bottle-bulb-corked-purple.webp",
+                  "tags": [],
+                  "resourcePath": ""
+                }
+              ]
+            }
+          ],
+          "productInspection": "0",
+          "sound": "",
+          "time": null,
+          "require": "",
+          "expression": "",
+          "modifierList": [],
+          "checks": [],
+          "type": "",
+          "requiresStation": false,
+          "requiresMinigame": false,
+          "minigame": {
+            "difficulty": "normal",
+            "canFail": false,
+            "perfect": ""
+          },
+          "timedMode": "",
+          "queueKey": ""
+        }
+      },
+      "_id": "4Af7iw76k9VSVhAW",
+      "system": {
+        "htmlFields": [
+          "text.content"
+        ],
+        "text": {
+          "format": 1
+        }
+      },
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "sort": 0,
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.370",
+        "systemId": "dnd5e",
+        "systemVersion": "5.2.5",
+        "lastModifiedBy": "TJvRiTp7BS0avsVp",
+        "createdTime": 1794239342618,
+        "modifiedTime": 1794239342618
+      },
+      "_key": "!journal.pages!2yCIQrSdDhrtMKcV.4Af7iw76k9VSVhAW"
+    }
+  ],
+  "flags": {
+    "mastercrafted": {
+      "description": "Contains recipes for creating common poisons",
+      "img": "icons/sundries/books/book-symbol-skull-grey.webp",
+      "ingredientsInspection": "1",
+      "productInspection": "1",
+      "sound": "",
+      "require": "Poisoner's Kit",
+      "macroName": "",
+      "time": null,
+      "timedMode": "parallel",
+      "queueKey": ""
+    }
+  },
+  "categories": [],
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.370",
+    "systemId": "dnd5e",
+    "systemVersion": "5.2.5",
+    "createdTime": 1773072034023,
+    "modifiedTime": 1794239343022,
+    "lastModifiedBy": "TJvRiTp7BS0avsVp"
+  },
+  "_id": "2yCIQrSdDhrtMKcV",
+  "sort": 300000,
+  "_key": "!journal!2yCIQrSdDhrtMKcV"
+}

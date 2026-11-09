@@ -1,0 +1,43 @@
+{
+  "name": "Pixie's Parasol",
+  "type": "loot",
+  "img": "icons/consumables/mushrooms/campanulate-bell-shiny-blue.webp",
+  "system": {
+    "description": {
+      "value": "<p>A tiny mushroom, though with it's bright blue cap and white stalk and gills but one hard to miss. At night, they are downright easy to find due to their bioluminescence. They are key ingredients in many potions and inks. Harvesting them may be a hassle, though, since pixies often defend them from those who wish to take them.</p><section id=\"secret-8g02sEWr7b3qiKVr\" class=\"secret\"><p>Rarity: Rare (DC 20), Common (DC 10) in Feywild</p><p>Gathering: Herbalism Kit (DC 15)</p><p>Quantity: 1d12 stalks</p><p>Location: fallen logs in non-dry climates</p><p>Uses (6): Invisible Ink, Potion of Diminution, Midnight Oil, Lesser Potion of Mana, Potion of Mana, Superior Potion of Mana</p></section>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Potion Brewing and Ingredient Gathering for DnD 5e",
+    "quantity": 1,
+    "weight": {
+      "value": 0,
+      "units": "lb"
+    },
+    "price": 50,
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "rare",
+    "identified": true
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.0.3",
+    "coreVersion": "14.370",
+    "createdTime": 1665867193945,
+    "modifiedTime": 1794239342893,
+    "lastModifiedBy": "packsbuilder0000",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "WglM0mvztSmJL7Lv",
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!WglM0mvztSmJL7Lv"
+}

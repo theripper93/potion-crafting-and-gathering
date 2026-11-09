@@ -1,0 +1,178 @@
+{
+  "name": "Nothic Tears",
+  "type": "consumable",
+  "img": "icons/creatures/eyes/lizard-single-slit-pink.webp",
+  "system": {
+    "description": {
+      "value": "<p>When used as eyedrops provide 1d4 hours of darkvision</p><section id=\"secret-jF0YLBizVnNB8mN2\" class=\"secret\"><p>Rarity: Uncommon (DC 15)</p><p>Harvesting: nothing</p><p>Quantity: 1d4 vials</p><p>Creature Condition: Dead or incapacitated, or trade</p><p>Uses (2): Potion of Truesight, Potion of True Dreaming</p></section>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Potion Brewing and Ingredient Gathering for DnD 5e",
+    "quantity": 1,
+    "weight": {
+      "value": 0,
+      "units": "lb"
+    },
+    "price": 10,
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "uncommon",
+    "identified": true,
+    "activation": {
+      "type": "action",
+      "cost": 1,
+      "condition": ""
+    },
+    "duration": {
+      "value": null,
+      "units": ""
+    },
+    "target": {
+      "value": null,
+      "width": null,
+      "units": "",
+      "type": ""
+    },
+    "range": {
+      "value": null,
+      "long": null,
+      "units": ""
+    },
+    "uses": {
+      "value": 1,
+      "max": "1",
+      "per": "charges",
+      "recovery": "",
+      "autoDestroy": true
+    },
+    "consume": {
+      "type": "",
+      "target": "",
+      "amount": null
+    },
+    "ability": null,
+    "actionType": "",
+    "attackBonus": 0,
+    "chatFlavor": "",
+    "critical": {
+      "threshold": null,
+      "damage": ""
+    },
+    "damage": {
+      "parts": [],
+      "versatile": ""
+    },
+    "formula": "",
+    "save": {
+      "ability": "",
+      "dc": null,
+      "scaling": "spell"
+    },
+    "consumableType": "potion"
+  },
+  "effects": [
+    {
+      "origin": "Item.XZe2WSquLSLKzHrm",
+      "duration": {
+        "value": null,
+        "units": "seconds",
+        "expiry": null,
+        "expired": false
+      },
+      "disabled": false,
+      "_id": "m4wGoeGBd5LxpJS0",
+      "tint": "#ffffff",
+      "transfer": false,
+      "flags": {
+        "dae": {
+          "selfTarget": false,
+          "selfTargetAlways": false,
+          "stackable": "none",
+          "durationExpression": "1d4*3600",
+          "macroRepeat": "none",
+          "specialDuration": []
+        },
+        "core": {
+          "statusId": ""
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Nothik Tears",
+      "img": "icons/creatures/eyes/lizard-single-slit-pink.webp",
+      "type": "base",
+      "system": {
+        "changes": [
+          {
+            "key": "system.attributes.senses.darkvision",
+            "value": 30,
+            "priority": 20,
+            "type": "add"
+          }
+        ]
+      },
+      "description": "",
+      "statuses": [],
+      "sort": 0,
+      "start": null,
+      "showIcon": 1,
+      "folder": null,
+      "_key": "!items.effects!XZe2WSquLSLKzHrm.m4wGoeGBd5LxpJS0"
+    }
+  ],
+  "flags": {
+    "rest-recovery": {
+      "data": {
+        "consumable": {
+          "enabled": false,
+          "dayWorth": false
+        },
+        "recovery": {
+          "enabled": false
+        }
+      }
+    },
+    "magicitems": {
+      "enabled": false,
+      "equipped": false,
+      "attuned": false,
+      "charges": "0",
+      "chargeType": "c1",
+      "destroy": false,
+      "destroyFlavorText": "reaches 0 charges: it crumbles into ashes and is destroyed.",
+      "rechargeable": false,
+      "recharge": "0",
+      "rechargeType": "t1",
+      "rechargeUnit": "r1",
+      "sorting": "l"
+    }
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.0.3",
+    "coreVersion": "14.370",
+    "createdTime": 1665870452309,
+    "modifiedTime": 1794239342893,
+    "lastModifiedBy": "packsbuilder0000",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "XZe2WSquLSLKzHrm",
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!XZe2WSquLSLKzHrm"
+}

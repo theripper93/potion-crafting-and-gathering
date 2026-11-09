@@ -1,0 +1,43 @@
+{
+  "name": "Skulk Claw",
+  "type": "loot",
+  "img": "icons/creatures/claws/claw-curved-jagged-gray.webp",
+  "system": {
+    "description": {
+      "value": "<section id=\"secret-D4KOWhJ50btlJzDf\" class=\"secret\"><p>Rarity: Uncommon (DC 15)</p><p>Harvesting: a knife (DC 10)</p><p>Quantity: 1d10 claws</p><p>Creature condition: Dead</p><p>Uses (3): Potion of Climbing, Potion of Invisibility, Potion of Possibility</p></section>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Potion Brewing and Ingredient Gathering for DnD 5e",
+    "quantity": 1,
+    "weight": {
+      "value": 0,
+      "units": "lb"
+    },
+    "price": 10,
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "uncommon",
+    "identified": true
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.0.3",
+    "coreVersion": "14.370",
+    "createdTime": 1665794261616,
+    "modifiedTime": 1794239342893,
+    "lastModifiedBy": "packsbuilder0000",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "S13CXdPDL9vBtWoL",
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!S13CXdPDL9vBtWoL"
+}

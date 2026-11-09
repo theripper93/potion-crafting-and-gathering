@@ -1,0 +1,61 @@
+{
+  "name": "Harvesting: Giant",
+  "img": "icons/svg/d20-grey.svg",
+  "formula": "1d2",
+  "replacement": true,
+  "displayRoll": true,
+  "results": [
+    {
+      "type": "document",
+      "documentUuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.A9RbPBHYwoNK1OpV",
+      "name": "Giant's Fingernail",
+      "img": "icons/commodities/biological/shell-plain-white.webp",
+      "weight": 2,
+      "range": [
+        1,
+        2
+      ],
+      "flags": {
+        "gatherer": {
+          "quantity": "7"
+        }
+      },
+      "_id": "S36EmeZ938CmxG06",
+      "description": "",
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": 1794240301396,
+        "modifiedTime": 1794240301396,
+        "lastModifiedBy": "TJvRiTp7BS0avsVp",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!fkXbRIiYxAxB0eAJ.S36EmeZ938CmxG06"
+    }
+  ],
+  "_id": "fkXbRIiYxAxB0eAJ",
+  "description": "",
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TJvRiTp7BS0avsVp": 3
+  },
+  "flags": {},
+  "_stats": {
+    "coreVersion": "14.370",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": 1794240301396,
+    "modifiedTime": 1794240301399,
+    "lastModifiedBy": "TJvRiTp7BS0avsVp",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!fkXbRIiYxAxB0eAJ"
+}

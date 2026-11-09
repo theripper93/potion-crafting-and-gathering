@@ -1,0 +1,191 @@
+{
+  "name": "Angel's Trumpet",
+  "type": "consumable",
+  "img": "icons/commodities/flowers/lily-grey-orange.webp",
+  "system": {
+    "description": {
+      "value": "<p>Its name is based on the shape and beauty of the flower: the purest of white and trumpet shaped with yellow stems. However, it is a dangerous plant. Inhaling the scent directly from the flower forces a DC 13 Wisdom saving throw. A failed save leaves the target confused for 1 minute. During this period, the target cannot move, take actions or reactions. This characteristic has been used in poisons to paralyze targets or make slaves more docile.</p><section id=\"secret-GXiprcTiJqIwcy7w\" class=\"secret\"><p>Rarity: Rare (DC 20)</p><p>Gathering: Herbalism Kit (DC 15)</p><p>Quantity: 1d8 flowers</p><p>Location: Forests, Hills</p><p>Uses (3): Angel powder, Devil's powder, Biza's Breath</p></section>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Potion Brewing and Ingredient Gathering for DnD 5e",
+    "quantity": 1,
+    "weight": {
+      "value": 0,
+      "units": "lb"
+    },
+    "price": 50,
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "rare",
+    "identified": true,
+    "activation": {
+      "type": "action",
+      "cost": 1,
+      "condition": ""
+    },
+    "duration": {
+      "value": null,
+      "units": ""
+    },
+    "target": {
+      "value": null,
+      "width": null,
+      "units": "",
+      "type": ""
+    },
+    "range": {
+      "value": null,
+      "long": null,
+      "units": ""
+    },
+    "uses": {
+      "value": null,
+      "max": "",
+      "per": "",
+      "recovery": "",
+      "autoDestroy": false
+    },
+    "consume": {
+      "type": "",
+      "target": "",
+      "amount": null
+    },
+    "ability": "",
+    "actionType": "save",
+    "attackBonus": 0,
+    "chatFlavor": "",
+    "critical": {
+      "threshold": null,
+      "damage": ""
+    },
+    "damage": {
+      "parts": [],
+      "versatile": ""
+    },
+    "formula": "",
+    "save": {
+      "ability": "wis",
+      "dc": 13,
+      "scaling": "flat"
+    },
+    "consumableType": "poison"
+  },
+  "effects": [
+    {
+      "origin": "Item.2Q5eat8DBOS7E7Xf",
+      "duration": {
+        "value": 60,
+        "units": "seconds",
+        "expiry": "turnStart",
+        "expired": false
+      },
+      "disabled": false,
+      "_id": "2bMDUwUaYlWYHQA8",
+      "tint": "#ffffff",
+      "transfer": false,
+      "flags": {
+        "dae": {
+          "selfTarget": false,
+          "selfTargetAlways": false,
+          "stackable": "none",
+          "durationExpression": "",
+          "macroRepeat": "none",
+          "specialDuration": []
+        },
+        "core": {
+          "statusId": ""
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Confused",
+      "img": "icons/commodities/flowers/lily-grey-orange.webp",
+      "type": "base",
+      "system": {
+        "changes": []
+      },
+      "description": "",
+      "statuses": [],
+      "sort": 0,
+      "start": null,
+      "showIcon": 1,
+      "folder": null,
+      "_key": "!items.effects!2Q5eat8DBOS7E7Xf.2bMDUwUaYlWYHQA8"
+    }
+  ],
+  "flags": {
+    "rest-recovery": {
+      "data": {
+        "consumable": {
+          "enabled": false,
+          "dayWorth": false
+        },
+        "recovery": {
+          "enabled": false
+        }
+      }
+    },
+    "magicitems": {
+      "enabled": false,
+      "equipped": false,
+      "attuned": false,
+      "charges": "0",
+      "chargeType": "c1",
+      "destroy": false,
+      "destroyFlavorText": "reaches 0 charges: it crumbles into ashes and is destroyed.",
+      "rechargeable": false,
+      "recharge": "0",
+      "rechargeType": "t1",
+      "rechargeUnit": "r1",
+      "sorting": "l"
+    },
+    "enhanced-terrain-layer": {
+      "multiple": null,
+      "elevation": null,
+      "depth": null,
+      "environment": ""
+    },
+    "midi-qol": {
+      "effectActivation": false
+    },
+    "midiProperties": {
+      "nodam": false,
+      "fulldam": false,
+      "halfdam": false,
+      "rollOther": false,
+      "critOther": false,
+      "magicdam": false,
+      "magiceffect": false,
+      "concentration": false,
+      "toggleEffect": false
+    }
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.0.3",
+    "coreVersion": "14.370",
+    "createdTime": 1665862483092,
+    "modifiedTime": 1794239342888,
+    "lastModifiedBy": "packsbuilder0000",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "2Q5eat8DBOS7E7Xf",
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!2Q5eat8DBOS7E7Xf"
+}

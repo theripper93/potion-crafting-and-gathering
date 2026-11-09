@@ -1,0 +1,176 @@
+{
+  "name": "Potion of Maximum Power",
+  "type": "consumable",
+  "img": "icons/consumables/potions/bottle-round-corked-yellow.webp",
+  "effects": [],
+  "flags": {
+    "ddbimporter": {
+      "dndbeyond": {
+        "type": "Potion",
+        "filterType": "Potion",
+        "isConsumable": false,
+        "isContainer": false,
+        "isCustomItem": false,
+        "isHomebrew": false,
+        "isMonkWeapon": false,
+        "isPack": false,
+        "levelInfusionGranted": null,
+        "tags": [],
+        "sources": [
+          {
+            "sourceId": 59,
+            "pageNumber": 268,
+            "sourceType": 1
+          }
+        ],
+        "stackable": true
+      },
+      "id": 0,
+      "entityTypeId": 0,
+      "definitionEntityTypeId": 112130694,
+      "definitionId": 1434354,
+      "originalName": "Potion of Maximum Power",
+      "version": "3.1.15"
+    },
+    "magicitems": {
+      "enabled": true,
+      "charges": "0",
+      "chargeType": "c1",
+      "rechargeable": false,
+      "recharge": "0",
+      "rechargeType": "t2",
+      "rechargeUnit": "r1",
+      "destroy": false,
+      "destroyCheck": "d1",
+      "spells": {},
+      "feats": {},
+      "tables": {},
+      "equipped": false,
+      "attuned": false,
+      "destroyFlavorText": "reaches 0 charges: it crumbles into ashes and is destroyed.",
+      "sorting": "l"
+    },
+    "midi-qol": {
+      "onUseMacroName": "",
+      "effectActivation": false
+    },
+    "cf": {
+      "id": "temp_zo17f6frwt9"
+    },
+    "rest-recovery": {
+      "data": {
+        "consumable": {
+          "enabled": false,
+          "dayWorth": false
+        },
+        "recovery": {
+          "enabled": false
+        }
+      }
+    },
+    "midiProperties": {
+      "nodam": false,
+      "fulldam": false,
+      "halfdam": false,
+      "rollOther": false,
+      "critOther": false,
+      "magicdam": false,
+      "magiceffect": false,
+      "concentration": false,
+      "toggleEffect": false
+    }
+  },
+  "system": {
+    "description": {
+      "value": "<p>The first time you cast a damage-dealing spell of 4th level or lower within 1 minute after drinking the potion, instead of rolling dice to determine the damage dealt, you can instead use the highest number possible for each die.</p>\n<p>This glowing purple liquid smells of sugar and plum, but it has a muddy taste.</p>",
+      "chat": "",
+      "unidentified": "Potion"
+    },
+    "source": "Explorer's Guide to Wildemount pg 268",
+    "quantity": 1,
+    "weight": {
+      "value": 0,
+      "units": "lb"
+    },
+    "price": 0,
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "rare",
+    "identified": true,
+    "activation": {
+      "type": "action",
+      "cost": 1,
+      "condition": ""
+    },
+    "duration": {
+      "value": 1,
+      "units": "minute"
+    },
+    "target": {
+      "value": null,
+      "width": null,
+      "units": "",
+      "type": ""
+    },
+    "range": {
+      "value": null,
+      "long": null,
+      "units": ""
+    },
+    "uses": {
+      "value": 1,
+      "max": "1",
+      "per": "charges",
+      "recovery": "",
+      "autoDestroy": true,
+      "autoUse": false
+    },
+    "consume": {
+      "type": "",
+      "target": "",
+      "amount": null
+    },
+    "ability": "",
+    "actionType": "other",
+    "attackBonus": 0,
+    "chatFlavor": "",
+    "critical": {
+      "threshold": null,
+      "damage": ""
+    },
+    "damage": {
+      "parts": [],
+      "versatile": ""
+    },
+    "formula": "",
+    "save": {
+      "ability": "",
+      "dc": null,
+      "scaling": "spell"
+    },
+    "consumableType": "potion",
+    "baseItem": "",
+    "toolType": "",
+    "properties": {
+      "mgc": true
+    }
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.0.3",
+    "coreVersion": "14.370",
+    "createdTime": 1665873185318,
+    "modifiedTime": 1794239342955,
+    "lastModifiedBy": "packsbuilder0000",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "NFPYHXc4VXcGcg7b",
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!NFPYHXc4VXcGcg7b"
+}

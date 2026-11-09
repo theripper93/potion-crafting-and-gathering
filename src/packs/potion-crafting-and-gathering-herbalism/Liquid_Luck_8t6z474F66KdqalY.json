@@ -1,0 +1,172 @@
+{
+  "name": "Liquid Luck",
+  "type": "consumable",
+  "img": "icons/consumables/potions/bottle-round-ring-teal.webp",
+  "system": {
+    "description": {
+      "value": "<p>Visually indistinguishable from water, but tasting and smelling like the drinker's favourite fruit. Drinking this potion grants the drinker advantage on all deception, Insight and persuasion checks for 3 hours.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Potion Brewing and Ingredient Gathering for DnD 5e",
+    "quantity": 1,
+    "weight": {
+      "value": 0,
+      "units": "lb"
+    },
+    "price": 0,
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "rare",
+    "identified": true,
+    "activation": {
+      "type": "action",
+      "cost": 1,
+      "condition": ""
+    },
+    "duration": {
+      "value": null,
+      "units": ""
+    },
+    "target": {
+      "value": null,
+      "width": null,
+      "units": "",
+      "type": ""
+    },
+    "range": {
+      "value": null,
+      "long": null,
+      "units": ""
+    },
+    "uses": {
+      "value": 1,
+      "max": "1",
+      "per": "charges",
+      "recovery": "",
+      "autoDestroy": true
+    },
+    "consume": {
+      "type": "",
+      "target": "",
+      "amount": null
+    },
+    "ability": null,
+    "actionType": "",
+    "attackBonus": 0,
+    "chatFlavor": "",
+    "critical": {
+      "threshold": null,
+      "damage": ""
+    },
+    "damage": {
+      "parts": [],
+      "versatile": ""
+    },
+    "formula": "",
+    "save": {
+      "ability": "",
+      "dc": null,
+      "scaling": "spell"
+    },
+    "consumableType": "potion"
+  },
+  "effects": [
+    {
+      "origin": "Item.8t6z474F66KdqalY",
+      "duration": {
+        "value": 10800,
+        "units": "seconds",
+        "expiry": "turnStart",
+        "expired": false
+      },
+      "disabled": false,
+      "_id": "XK1hBIdnrcDySaAG",
+      "tint": "#ffffff",
+      "transfer": false,
+      "flags": {
+        "dae": {
+          "selfTarget": false,
+          "selfTargetAlways": false,
+          "stackable": "none",
+          "durationExpression": "",
+          "macroRepeat": "none",
+          "specialDuration": []
+        },
+        "core": {
+          "statusId": ""
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Liquid Luck",
+      "img": "icons/consumables/potions/bottle-round-ring-teal.webp",
+      "type": "base",
+      "system": {
+        "changes": []
+      },
+      "description": "",
+      "statuses": [],
+      "sort": 0,
+      "start": null,
+      "showIcon": 1,
+      "folder": null,
+      "_key": "!items.effects!8t6z474F66KdqalY.XK1hBIdnrcDySaAG"
+    }
+  ],
+  "flags": {
+    "rest-recovery": {
+      "data": {
+        "consumable": {
+          "enabled": true,
+          "dayWorth": false,
+          "type": "water"
+        },
+        "recovery": {
+          "enabled": false
+        }
+      }
+    },
+    "magicitems": {
+      "enabled": false,
+      "equipped": false,
+      "attuned": false,
+      "charges": "0",
+      "chargeType": "c1",
+      "destroy": false,
+      "destroyFlavorText": "reaches 0 charges: it crumbles into ashes and is destroyed.",
+      "rechargeable": false,
+      "recharge": "0",
+      "rechargeType": "t1",
+      "rechargeUnit": "r1",
+      "sorting": "l"
+    }
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.0.3",
+    "coreVersion": "14.370",
+    "createdTime": 1665873875062,
+    "modifiedTime": 1794239342954,
+    "lastModifiedBy": "packsbuilder0000",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "8t6z474F66KdqalY",
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!8t6z474F66KdqalY"
+}

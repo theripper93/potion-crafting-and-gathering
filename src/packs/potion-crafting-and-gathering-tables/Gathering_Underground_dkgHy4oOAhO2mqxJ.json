@@ -1,0 +1,106 @@
+{
+  "name": "Gathering: Underground",
+  "description": "A random table created from the contents of the Plants Folder.",
+  "results": [
+    {
+      "type": "document",
+      "img": "icons/consumables/vegetable/root-potato-radish-white.webp",
+      "weight": 2,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "_id": "kV9ZiCunRZpOivy0",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "1d4"
+          }
+        }
+      },
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Mandrake Root",
+      "documentUuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.B6DIfwy19Ts5ikHU",
+      "description": "",
+      "_key": "!tables.results!dkgHy4oOAhO2mqxJ.kV9ZiCunRZpOivy0"
+    },
+    {
+      "type": "document",
+      "img": "icons/consumables/mushrooms/alien-spotted-blue.webp",
+      "weight": 2,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "_id": "mZqMxOgNCAlaQsmR",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "1d4"
+          }
+        }
+      },
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Mindflayer Stinkhorn",
+      "documentUuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.ebflYPaV5OfihxDW",
+      "description": "",
+      "_key": "!tables.results!dkgHy4oOAhO2mqxJ.mZqMxOgNCAlaQsmR"
+    }
+  ],
+  "formula": "1d2",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "better-rolltables": {
+      "tags": "",
+      "table-type": "better",
+      "table-currency-string": "",
+      "loot-amount-key": "",
+      "loot-actor-name": ""
+    },
+    "hidden-tables": {
+      "hidden": false
+    }
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.0.3",
+    "coreVersion": "14.370",
+    "createdTime": 1665933450716,
+    "modifiedTime": 1794239343061,
+    "lastModifiedBy": "packsbuilder0000",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "dkgHy4oOAhO2mqxJ",
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!tables!dkgHy4oOAhO2mqxJ"
+}

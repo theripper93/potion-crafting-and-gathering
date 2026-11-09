@@ -1,0 +1,1325 @@
+{
+  "name": "The Spicy Poisoner",
+  "ownership": {
+    "default": 0,
+    "rqEOxzm9pWZpMhH4": 0,
+    "QAdDWUaUNK09Iq3x": 0,
+    "GOvXOrkQSzey7yZ5": 0,
+    "56XvGn6U8R9S2vlW": 0,
+    "HHjDcylTiWQFDEbS": 0,
+    "qr1zQ11jcfurK31V": 3
+  },
+  "folder": "jR5pShGKb03nvGBP",
+  "pages": [
+    {
+      "name": "Angel's Powder",
+      "type": "mastercrafted.mastercrafted",
+      "text": {
+        "content": "<p>A hyper fine, bright white powder with a faintly sweet aroma, this powder is to be blown into the face of the target before dispersing harmlessly into the air. The target has to make a DC 15 Charisma Saving throw. On a failed save, the target experiences an altered version of reality where it perceives everyone as trusted friends and becomes extremely suggestible to non-aggressive forms of persuasion and deception as well as to seduction for 1 hour. On a successful save, the target experiences no effects.</p>",
+        "format": 1
+      },
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "mastercrafted": {
+          "img": "icons/commodities/materials/bowl-powder-grey.webp",
+          "ingredients": [
+            {
+              "id": "jKBVIpswcQ6sZEL1",
+              "name": null,
+              "components": [
+                {
+                  "id": "bw0Bjri3sxwFMi7M",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.2Q5eat8DBOS7E7Xf",
+                  "quantity": 1,
+                  "name": "Angel's Trumpet",
+                  "img": "icons/commodities/flowers/lily-grey-orange.webp",
+                  "tags": [],
+                  "resourcePath": ""
+                }
+              ]
+            },
+            {
+              "id": "SyP0GsSGfvvBQ3PG",
+              "name": null,
+              "components": [
+                {
+                  "id": "NtAEt5m9uXGP2bbc",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.jjxoFljmT5atbIT8",
+                  "quantity": 1,
+                  "name": "Dreamlily",
+                  "img": "icons/commodities/flowers/lily-white.webp",
+                  "tags": [],
+                  "resourcePath": ""
+                }
+              ]
+            }
+          ],
+          "ingredientsInspection": "0",
+          "macroName": "",
+          "products": [
+            {
+              "id": "E9olyCkBlNE68y2c",
+              "name": null,
+              "components": [
+                {
+                  "id": "048LOqVAojFkQDsX",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-poisons.Item.LACxgInxIOos3xaf",
+                  "quantity": 1,
+                  "name": "Angel's Powder",
+                  "img": "icons/commodities/materials/bowl-powder-grey.webp",
+                  "tags": [],
+                  "resourcePath": ""
+                }
+              ]
+            }
+          ],
+          "productInspection": "0",
+          "sound": "",
+          "time": null,
+          "require": "",
+          "expression": "",
+          "modifierList": [],
+          "checks": [],
+          "type": "",
+          "requiresStation": false,
+          "requiresMinigame": false,
+          "minigame": {
+            "difficulty": "normal",
+            "canFail": false,
+            "perfect": ""
+          },
+          "timedMode": "",
+          "queueKey": ""
+        }
+      },
+      "_id": "FxhUDSg6AoBEUbXm",
+      "system": {
+        "htmlFields": [
+          "text.content"
+        ],
+        "text": {
+          "format": 1
+        }
+      },
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "sort": 0,
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.370",
+        "systemId": "dnd5e",
+        "systemVersion": "5.2.5",
+        "lastModifiedBy": "TJvRiTp7BS0avsVp",
+        "createdTime": 1794239342822,
+        "modifiedTime": 1794239342822
+      },
+      "_key": "!journal.pages!Y5RCYXMYgofKIy3O.FxhUDSg6AoBEUbXm"
+    },
+    {
+      "name": "Assassin's Blood",
+      "type": "mastercrafted.mastercrafted",
+      "text": {
+        "content": "<p>A creature subjected to this poison must make a DC 10 Constitution saving throw. On a failed save, it takes 6 (1d12) poison damage and is Poisoned for 24 hours. On a successful save, the creature takes half damage and isn’t Poisoned.</p>",
+        "format": 1
+      },
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "mastercrafted": {
+          "img": "icons/consumables/potions/potion-tube-corked-red.webp",
+          "ingredients": [
+            {
+              "id": "cS6fGNtUDlAOBAA4",
+              "name": null,
+              "components": [
+                {
+                  "id": "bzrkIlU8R6vqW00a",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-poisons.Item.v4AeMM9MmplrULaL",
+                  "quantity": 1,
+                  "name": "Poison, Basic (vial)",
+                  "img": "icons/consumables/potions/potion-tube-corked-bubbling-green.webp",
+                  "tags": [],
+                  "resourcePath": ""
+                }
+              ]
+            },
+            {
+              "id": "HLvoBV50YifdvfgA",
+              "name": null,
+              "components": [
+                {
+                  "id": "qPWTbMrZzfpQPMHn",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.XsePsNGNXztjGhqt",
+                  "quantity": 1,
+                  "name": "Moonstalker",
+                  "img": "icons/commodities/flowers/dandelion-pod-blue.webp",
+                  "tags": [],
+                  "resourcePath": ""
+                },
+                {
+                  "id": "T0HsvnLDZ3AJbOtF",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.PpZ5ysLIab4PNiCL",
+                  "quantity": 1,
+                  "name": "Nightshade",
+                  "img": "icons/consumables/plants/leaf-pink.webp",
+                  "tags": [],
+                  "resourcePath": ""
+                }
+              ]
+            }
+          ],
+          "ingredientsInspection": "0",
+          "macroName": "",
+          "products": [
+            {
+              "id": "Cu5agZVDkNPZnQ98",
+              "name": null,
+              "components": [
+                {
+                  "id": "jIf2T80uJxQGlGb4",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-poisons.Item.I5fUKyzt3lPyYjOQ",
+                  "quantity": 1,
+                  "name": "Assassin's Blood (Ingested)",
+                  "img": "icons/consumables/potions/potion-tube-corked-red.webp",
+                  "tags": [],
+                  "resourcePath": ""
+                }
+              ]
+            }
+          ],
+          "productInspection": "0",
+          "sound": "",
+          "time": null,
+          "require": "",
+          "expression": "",
+          "modifierList": [],
+          "checks": [],
+          "type": "",
+          "requiresStation": false,
+          "requiresMinigame": false,
+          "minigame": {
+            "difficulty": "normal",
+            "canFail": false,
+            "perfect": ""
+          },
+          "timedMode": "",
+          "queueKey": ""
+        }
+      },
+      "_id": "uafd2kq3skHwWB1x",
+      "system": {
+        "htmlFields": [
+          "text.content"
+        ],
+        "text": {
+          "format": 1
+        }
+      },
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "sort": 0,
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.370",
+        "systemId": "dnd5e",
+        "systemVersion": "5.2.5",
+        "lastModifiedBy": "TJvRiTp7BS0avsVp",
+        "createdTime": 1794239342822,
+        "modifiedTime": 1794239342822
+      },
+      "_key": "!journal.pages!Y5RCYXMYgofKIy3O.uafd2kq3skHwWB1x"
+    },
+    {
+      "name": "Bane Berry Extract",
+      "type": "mastercrafted.mastercrafted",
+      "text": {
+        "content": "<p>Pink and smelling like strawberries, this is a poison that forces the drinker to make a DC 14 Constitution saving throw. On a failed save, the target becomes poisoned. While poisoned, the target has disadvantage against Strength, Constitution and Dexterity saving throws for 15 minutes. On successful save, the target experience no effects.</p>",
+        "format": 1
+      },
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "mastercrafted": {
+          "img": "icons/consumables/potions/bottle-pear-corked-pink.webp",
+          "ingredients": [
+            {
+              "id": "YRTmX7IknzUWMWyR",
+              "name": null,
+              "components": [
+                {
+                  "id": "xehZcJhS5LTqjrgI",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.5eMY7G5AibuPbPAG",
+                  "quantity": 1,
+                  "name": "Bane Berry",
+                  "img": "icons/commodities/flowers/buds-red-green.webp",
+                  "tags": [],
+                  "resourcePath": ""
+                }
+              ]
+            }
+          ],
+          "ingredientsInspection": "0",
+          "macroName": "",
+          "products": [
+            {
+              "id": "2MDM4t2qB8XcqRXO",
+              "name": null,
+              "components": [
+                {
+                  "id": "kBpaCMYxerfLKfDU",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-poisons.Item.yXlEdxbGry90qtyN",
+                  "quantity": 1,
+                  "name": "Bane Berry Extract",
+                  "img": "icons/consumables/potions/bottle-pear-corked-pink.webp",
+                  "tags": [],
+                  "resourcePath": ""
+                }
+              ]
+            }
+          ],
+          "productInspection": "0",
+          "sound": "",
+          "time": null,
+          "require": "",
+          "expression": "",
+          "modifierList": [],
+          "checks": [],
+          "type": "",
+          "requiresStation": false,
+          "requiresMinigame": false,
+          "minigame": {
+            "difficulty": "normal",
+            "canFail": false,
+            "perfect": ""
+          },
+          "timedMode": "",
+          "queueKey": ""
+        }
+      },
+      "_id": "DHmhsJ9pN6pQJM7U",
+      "system": {
+        "htmlFields": [
+          "text.content"
+        ],
+        "text": {
+          "format": 1
+        }
+      },
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "sort": 0,
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.370",
+        "systemId": "dnd5e",
+        "systemVersion": "5.2.5",
+        "lastModifiedBy": "TJvRiTp7BS0avsVp",
+        "createdTime": 1794239342822,
+        "modifiedTime": 1794239342822
+      },
+      "_key": "!journal.pages!Y5RCYXMYgofKIy3O.DHmhsJ9pN6pQJM7U"
+    },
+    {
+      "name": "Black Paste",
+      "type": "mastercrafted.mastercrafted",
+      "text": {
+        "content": "<p>This poison was specifically designed to resemble leather or boot polish. If a piece of clothing is treated with this poison, it shines like new and forces creatures that wears it for a total of 12 hours (does not have to be consecutive) to make a DC 15 Constitution saving throw. Upon a failed save, the creature receives 1d8 poison damage. Unless the poisoned piece of clothing is removed, the creature will have to repeat making the saving throw every 12 hours for the next 3 months.</p>",
+        "format": 1
+      },
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "mastercrafted": {
+          "img": "icons/tools/laboratory/bowl-liquid-black.webp",
+          "ingredients": [
+            {
+              "id": "OQ3YwJescNxFRY04",
+              "name": null,
+              "components": [
+                {
+                  "id": "g9AURzUruQqA5QTN",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.WeMebyyH2jXTQtTH",
+                  "quantity": 1,
+                  "name": "Black Cap Mushroom",
+                  "img": "icons/consumables/mushrooms/ovate-blue.webp",
+                  "tags": [],
+                  "resourcePath": ""
+                }
+              ]
+            },
+            {
+              "id": "W6jH9QPH6LKOQuPX",
+              "name": null,
+              "components": [
+                {
+                  "id": "ab1dWbQGxDzyZGFS",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.N0AouALqeIy09kCX",
+                  "quantity": 1,
+                  "name": "Black Sap",
+                  "img": "icons/creatures/slimes/slime-movement-pseudopods-blue.webp",
+                  "tags": [],
+                  "resourcePath": ""
+                }
+              ]
+            }
+          ],
+          "ingredientsInspection": "0",
+          "macroName": "",
+          "products": [
+            {
+              "id": "I03rGQqugiiHbLrf",
+              "name": null,
+              "components": [
+                {
+                  "id": "8mR00hu9UQcPlot6",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-poisons.Item.Ah8N6bwh8wFtFByR",
+                  "quantity": 1,
+                  "name": "Black Paste",
+                  "img": "icons/tools/laboratory/bowl-liquid-black.webp",
+                  "tags": [],
+                  "resourcePath": ""
+                }
+              ]
+            }
+          ],
+          "productInspection": "0",
+          "sound": "",
+          "time": null,
+          "require": "",
+          "expression": "",
+          "modifierList": [],
+          "checks": [],
+          "type": "",
+          "requiresStation": false,
+          "requiresMinigame": false,
+          "minigame": {
+            "difficulty": "normal",
+            "canFail": false,
+            "perfect": ""
+          },
+          "timedMode": "",
+          "queueKey": ""
+        }
+      },
+      "_id": "YMiJHvb48hyaurRW",
+      "system": {
+        "htmlFields": [
+          "text.content"
+        ],
+        "text": {
+          "format": 1
+        }
+      },
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "sort": 0,
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.370",
+        "systemId": "dnd5e",
+        "systemVersion": "5.2.5",
+        "lastModifiedBy": "TJvRiTp7BS0avsVp",
+        "createdTime": 1794239342822,
+        "modifiedTime": 1794239342822
+      },
+      "_key": "!journal.pages!Y5RCYXMYgofKIy3O.YMiJHvb48hyaurRW"
+    },
+    {
+      "name": "Directed Delay",
+      "type": "mastercrafted.mastercrafted",
+      "text": {
+        "content": "<p>This black liquid is highly viscous, having the consistency of concentrated molasses. When brought in contact with the blood via an injury or injection, the target has to make a DC 15 Wisdom saving throw. On a failed save, the target experiences the effect of the Slow spell and can remake the saving throw at the end of each turn. On a successful save, the target’s movement speed is reduced by 5 feet for 3 turns.</p>",
+        "format": 1
+      },
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "mastercrafted": {
+          "img": "icons/creatures/slimes/slime-movement-swirling-blue.webp",
+          "ingredients": [
+            {
+              "id": "7pCzh7NsKquiSazI",
+              "name": null,
+              "components": [
+                {
+                  "id": "mS94eH0hVTs4W2cP",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.e9SUSA3TYHv9gxXl",
+                  "quantity": 1,
+                  "name": "Idle Claws",
+                  "img": "icons/commodities/biological/tentacle-yellow.webp",
+                  "tags": [],
+                  "resourcePath": ""
+                }
+              ]
+            },
+            {
+              "id": "ngSMKtHxW5wIZlhP",
+              "name": null,
+              "components": [
+                {
+                  "id": "vLhztrBQARPz6K0m",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.ZTXmBm0pYhuK5AxE",
+                  "quantity": 1,
+                  "name": "Death Cap",
+                  "img": "icons/consumables/mushrooms/conical-bell-yellow.webp",
+                  "tags": [],
+                  "resourcePath": ""
+                }
+              ]
+            }
+          ],
+          "ingredientsInspection": "0",
+          "macroName": "",
+          "products": [
+            {
+              "id": "lGaRx6rjr4I1HHQ8",
+              "name": null,
+              "components": [
+                {
+                  "id": "imvs6fS93EZuL6DJ",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-poisons.Item.0wixBB6YRl7uOcQs",
+                  "quantity": 1,
+                  "name": "Directed Delay",
+                  "img": "icons/creatures/slimes/slime-movement-swirling-blue.webp",
+                  "tags": [],
+                  "resourcePath": ""
+                }
+              ]
+            }
+          ],
+          "productInspection": "0",
+          "sound": "",
+          "time": null,
+          "require": "",
+          "expression": "",
+          "modifierList": [],
+          "checks": [],
+          "type": "",
+          "requiresStation": false,
+          "requiresMinigame": false,
+          "minigame": {
+            "difficulty": "normal",
+            "canFail": false,
+            "perfect": ""
+          },
+          "timedMode": "",
+          "queueKey": ""
+        }
+      },
+      "_id": "MZGY872408kIGqpk",
+      "system": {
+        "htmlFields": [
+          "text.content"
+        ],
+        "text": {
+          "format": 1
+        }
+      },
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "sort": 0,
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.370",
+        "systemId": "dnd5e",
+        "systemVersion": "5.2.5",
+        "lastModifiedBy": "TJvRiTp7BS0avsVp",
+        "createdTime": 1794239342823,
+        "modifiedTime": 1794239342823
+      },
+      "_key": "!journal.pages!Y5RCYXMYgofKIy3O.MZGY872408kIGqpk"
+    },
+    {
+      "name": "Lava Paste",
+      "type": "mastercrafted.mastercrafted",
+      "text": {
+        "content": "<p>Though a mundane looking, yellowish paste, this concoction is anything but. Once applied on skin or clothing, the paste forces the target to make a DC 14 Constitution saving throw. On a failed save, the target takes 2d6 fire damage and becomes vulnerable against fire damage for 1 occasion for the next 12 hours, on a successful save the target takes half damage and does not become vulnerable.</p>",
+        "format": 1
+      },
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "mastercrafted": {
+          "img": "icons/consumables/potions/bottle-conical-corked-yellow.webp",
+          "ingredients": [
+            {
+              "id": "uIhUayCtduiI4C9y",
+              "name": null,
+              "components": [
+                {
+                  "id": "nUfBM3NqHRlT38aj",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.KxyuMr06YyMT9uVI",
+                  "quantity": 1,
+                  "name": "Flame Lily",
+                  "img": "icons/consumables/plants/flax-leaves-spiked-bundle-orange.webp",
+                  "tags": [],
+                  "resourcePath": ""
+                }
+              ]
+            },
+            {
+              "id": "YvxzV0r0yAN2wLet",
+              "name": null,
+              "components": [
+                {
+                  "id": "SZGHqxLR6HEKAihu",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.yg1RFBtdR2AfVS5t",
+                  "quantity": 1,
+                  "name": "Fire Peas",
+                  "img": "icons/consumables/vegetable/lima-beans-pod-brown.webp",
+                  "tags": [],
+                  "resourcePath": ""
+                }
+              ]
+            }
+          ],
+          "ingredientsInspection": "0",
+          "macroName": "",
+          "products": [
+            {
+              "id": "CN8EFQgTISdxx4lk",
+              "name": null,
+              "components": [
+                {
+                  "id": "Yq3EKlFdMWp1Smmh",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-poisons.Item.pbhs9c1MzovfF4po",
+                  "quantity": 1,
+                  "name": "Lava Paste",
+                  "img": "icons/consumables/potions/bottle-conical-corked-yellow.webp",
+                  "tags": [],
+                  "resourcePath": ""
+                }
+              ]
+            }
+          ],
+          "productInspection": "0",
+          "sound": "",
+          "time": null,
+          "require": "",
+          "expression": "",
+          "modifierList": [],
+          "checks": [],
+          "type": "",
+          "requiresStation": false,
+          "requiresMinigame": false,
+          "minigame": {
+            "difficulty": "normal",
+            "canFail": false,
+            "perfect": ""
+          },
+          "timedMode": "",
+          "queueKey": ""
+        }
+      },
+      "_id": "l7wx8rgo6DxgYiXa",
+      "system": {
+        "htmlFields": [
+          "text.content"
+        ],
+        "text": {
+          "format": 1
+        }
+      },
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "sort": 0,
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.370",
+        "systemId": "dnd5e",
+        "systemVersion": "5.2.5",
+        "lastModifiedBy": "TJvRiTp7BS0avsVp",
+        "createdTime": 1794239342823,
+        "modifiedTime": 1794239342823
+      },
+      "_key": "!journal.pages!Y5RCYXMYgofKIy3O.l7wx8rgo6DxgYiXa"
+    },
+    {
+      "name": "Malice",
+      "type": "mastercrafted.mastercrafted",
+      "text": {
+        "content": "<p>A creature subjected to this poison must succeed on a DC 15 Constitution saving throw or become poisoned for 1 hour. The poisoned creature is blinded.\n\nThese poisons are powders or gases that take effect when inhaled. Blowing the powder or releasing the gas subjects creatures in a 5-foot cube to its effect. The resulting cloud dissipates immediately afterward. Holding one's breath is ineffective against inhaled poisons, as they affect nasal membranes, tear ducts, and other parts of the body.</p>",
+        "format": 1
+      },
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "mastercrafted": {
+          "img": "icons/tools/laboratory/mortar-powder-green.webp",
+          "ingredients": [
+            {
+              "id": "fLFDuI9oDCXUIBU0",
+              "name": null,
+              "components": [
+                {
+                  "id": "JoWZAwVtefdGM6uN",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.q56qk1upHBqOeFo0",
+                  "quantity": 1,
+                  "name": "Morning Dew",
+                  "img": "icons/consumables/plants/cilantro-parsley-herb-leaf-green.webp",
+                  "tags": [],
+                  "resourcePath": ""
+                }
+              ]
+            },
+            {
+              "id": "RU3uxAfko0HjBQGb",
+              "name": null,
+              "components": [
+                {
+                  "id": "CaRhDiWTOJikkjfK",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.N0AouALqeIy09kCX",
+                  "quantity": 1,
+                  "name": "Black Sap",
+                  "img": "icons/creatures/slimes/slime-movement-pseudopods-blue.webp",
+                  "tags": [],
+                  "resourcePath": ""
+                }
+              ]
+            }
+          ],
+          "ingredientsInspection": "0",
+          "macroName": "",
+          "products": [
+            {
+              "id": "C3WGSMs1r2btguWs",
+              "name": null,
+              "components": [
+                {
+                  "id": "VEibG4p3EHqmYQZJ",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-poisons.Item.f5gVLMEkaahGfs0c",
+                  "quantity": 1,
+                  "name": "Malice (Inhaled)",
+                  "img": "icons/tools/laboratory/mortar-powder-green.webp",
+                  "tags": [],
+                  "resourcePath": ""
+                }
+              ]
+            }
+          ],
+          "productInspection": "0",
+          "sound": "",
+          "time": null,
+          "require": "",
+          "expression": "",
+          "modifierList": [],
+          "checks": [],
+          "type": "",
+          "requiresStation": false,
+          "requiresMinigame": false,
+          "minigame": {
+            "difficulty": "normal",
+            "canFail": false,
+            "perfect": ""
+          },
+          "timedMode": "",
+          "queueKey": ""
+        }
+      },
+      "_id": "p5s7M61UhmCbQ93M",
+      "system": {
+        "htmlFields": [
+          "text.content"
+        ],
+        "text": {
+          "format": 1
+        }
+      },
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "sort": 0,
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.370",
+        "systemId": "dnd5e",
+        "systemVersion": "5.2.5",
+        "lastModifiedBy": "TJvRiTp7BS0avsVp",
+        "createdTime": 1794239342823,
+        "modifiedTime": 1794239342823
+      },
+      "_key": "!journal.pages!Y5RCYXMYgofKIy3O.p5s7M61UhmCbQ93M"
+    },
+    {
+      "name": "Pale Tincture",
+      "type": "mastercrafted.mastercrafted",
+      "text": {
+        "content": "<p>A creature subjected to this poison must succeed on a DC 16 Constitution saving throw or take 3 (1d6) poison damage and become poisoned. The poisoned creature must repeat the saving throw every 24 hours, taking 3 (1d6) poison damage on a failed save. Until this poison ends, the damage the poison deals can't be healed by any means. After seven successful saving throws, the effect ends and the creature can heal normally.</p>",
+        "format": 1
+      },
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "mastercrafted": {
+          "img": "icons/consumables/potions/bottle-bulb-empty-glass.webp",
+          "ingredients": [
+            {
+              "id": "09qcu5SnixgO5rtW",
+              "name": null,
+              "components": [
+                {
+                  "id": "Z7GvhQz9sYsOY7gq",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.N0AouALqeIy09kCX",
+                  "quantity": 1,
+                  "name": "Black Sap",
+                  "img": "icons/creatures/slimes/slime-movement-pseudopods-blue.webp",
+                  "tags": [],
+                  "resourcePath": ""
+                }
+              ]
+            },
+            {
+              "id": "CL1Wrf4GZwRDGlgW",
+              "name": null,
+              "components": [
+                {
+                  "id": "vfUmUVnOWnSCmMGQ",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.ZTXmBm0pYhuK5AxE",
+                  "quantity": 1,
+                  "name": "Death Cap",
+                  "img": "icons/consumables/mushrooms/conical-bell-yellow.webp",
+                  "tags": [],
+                  "resourcePath": ""
+                }
+              ]
+            }
+          ],
+          "ingredientsInspection": "0",
+          "macroName": "",
+          "products": [
+            {
+              "id": "1qgQswqi221WCXec",
+              "name": null,
+              "components": [
+                {
+                  "id": "fSUu1Wr8bKjnSF8C",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-poisons.Item.6XE396TwhJf3sO2F",
+                  "quantity": 1,
+                  "name": "Pale Tincture (Ingested)",
+                  "img": "icons/consumables/potions/bottle-bulb-empty-glass.webp",
+                  "tags": [],
+                  "resourcePath": ""
+                }
+              ]
+            }
+          ],
+          "productInspection": "0",
+          "sound": "",
+          "time": null,
+          "require": "",
+          "expression": "",
+          "modifierList": [],
+          "checks": [],
+          "type": "",
+          "requiresStation": false,
+          "requiresMinigame": false,
+          "minigame": {
+            "difficulty": "normal",
+            "canFail": false,
+            "perfect": ""
+          },
+          "timedMode": "",
+          "queueKey": ""
+        }
+      },
+      "_id": "21x6A3PqNVazzh5P",
+      "system": {
+        "htmlFields": [
+          "text.content"
+        ],
+        "text": {
+          "format": 1
+        }
+      },
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "sort": 0,
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.370",
+        "systemId": "dnd5e",
+        "systemVersion": "5.2.5",
+        "lastModifiedBy": "TJvRiTp7BS0avsVp",
+        "createdTime": 1794239342823,
+        "modifiedTime": 1794239342823
+      },
+      "_key": "!journal.pages!Y5RCYXMYgofKIy3O.21x6A3PqNVazzh5P"
+    },
+    {
+      "name": "Philter of Love",
+      "type": "mastercrafted.mastercrafted",
+      "text": {
+        "content": "<p>The next time you see a creature within 10 minutes after drinking this philter, you become charmed by that creature for 1 hour. If the creature is of a species and gender you are normally attracted to, you regard it as your true love while you are charmed. This potion's rose-hued, effervescent liquid contains one easy-to-miss bubble shaped like a heart.</p>",
+        "format": 1
+      },
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "mastercrafted": {
+          "img": "icons/consumables/potions/potion-flask-corked-labeled-pink.webp",
+          "ingredients": [
+            {
+              "id": "uQeMo3hAa0uGcPyF",
+              "name": null,
+              "components": [
+                {
+                  "id": "6kz5xl0cNfvmOnAD",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.gM92fpjY9teFQ8ew",
+                  "quantity": 1,
+                  "name": "Fairy Stool",
+                  "img": "icons/consumables/mushrooms/umbontae-pink.webp",
+                  "tags": [],
+                  "resourcePath": ""
+                }
+              ]
+            },
+            {
+              "id": "7fCX1NbqMOGulaJB",
+              "name": null,
+              "components": [
+                {
+                  "id": "kZnKWPwAGxtyfuAV",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.ilkJBDWZgW16fnmd",
+                  "quantity": 1,
+                  "name": "Serpent's Venom",
+                  "img": "icons/magic/acid/dissolve-pool-bubbles.webp",
+                  "tags": [],
+                  "resourcePath": ""
+                }
+              ]
+            }
+          ],
+          "ingredientsInspection": "0",
+          "macroName": "",
+          "products": [
+            {
+              "id": "d6dS0HpKkXIoYFWs",
+              "name": null,
+              "components": [
+                {
+                  "id": "kOy5dSOKNwyodO7M",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-poisons.Item.pH6FTxjthMCzpBWi",
+                  "quantity": 1,
+                  "name": "Philter of Love",
+                  "img": "icons/consumables/potions/potion-flask-corked-labeled-pink.webp",
+                  "tags": [],
+                  "resourcePath": ""
+                }
+              ]
+            }
+          ],
+          "productInspection": "0",
+          "sound": "",
+          "time": null,
+          "require": "",
+          "expression": "",
+          "modifierList": [],
+          "checks": [],
+          "type": "",
+          "requiresStation": false,
+          "requiresMinigame": false,
+          "minigame": {
+            "difficulty": "normal",
+            "canFail": false,
+            "perfect": ""
+          },
+          "timedMode": "",
+          "queueKey": ""
+        }
+      },
+      "_id": "D19p9BarGrmbHCa0",
+      "system": {
+        "htmlFields": [
+          "text.content"
+        ],
+        "text": {
+          "format": 1
+        }
+      },
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "sort": 0,
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.370",
+        "systemId": "dnd5e",
+        "systemVersion": "5.2.5",
+        "lastModifiedBy": "TJvRiTp7BS0avsVp",
+        "createdTime": 1794239342823,
+        "modifiedTime": 1794239342823
+      },
+      "_key": "!journal.pages!Y5RCYXMYgofKIy3O.D19p9BarGrmbHCa0"
+    },
+    {
+      "name": "Potion of Poison",
+      "type": "mastercrafted.mastercrafted",
+      "text": {
+        "content": "<p>This concoction looks, smells, and tastes like a Potion of Healing or other beneficial potion. However, it is actually poison masked by illusion magic. An identify spell reveals its true nature. If you drink it, you take 3d6 poison damage, and you must succeed on a DC 13 Constitution saving throw or be poisoned. At the start of each of your turns while you are poisoned in this way, you take 3d6 poison damage. At the end of each of your turns, you can repeat the saving throw. On a successful save, the poison damage you take on your subsequent turns decreases by 1d6. The poison ends when the damage decreases to 0.</p>",
+        "format": 1
+      },
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "mastercrafted": {
+          "img": "icons/consumables/potions/bottle-bulb-corked-green.webp",
+          "ingredients": [
+            {
+              "id": "psqh3NdAXiEzqVVR",
+              "name": null,
+              "components": [
+                {
+                  "id": "jOZUnkHQWv6t6o7U",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-herbalism.Item.8Mf40znvsETtXOyc",
+                  "quantity": 1,
+                  "name": "Potion of Healing",
+                  "img": "icons/consumables/potions/potion-tube-corked-red.webp",
+                  "tags": [],
+                  "resourcePath": ""
+                }
+              ]
+            },
+            {
+              "id": "mPJlcaC4BoGWbyN1",
+              "name": null,
+              "components": [
+                {
+                  "id": "INtWDcuMdkl9wK8I",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.5eMY7G5AibuPbPAG",
+                  "quantity": 1,
+                  "name": "Bane Berry",
+                  "img": "icons/commodities/flowers/buds-red-green.webp",
+                  "tags": [],
+                  "resourcePath": ""
+                }
+              ]
+            }
+          ],
+          "ingredientsInspection": "0",
+          "macroName": "",
+          "products": [
+            {
+              "id": "VTxKRhM0Qh1EbrAV",
+              "name": null,
+              "components": [
+                {
+                  "id": "fiBlrew2KhO7P5eA",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-poisons.Item.Dnrr2udqlQAVcMSu",
+                  "quantity": 1,
+                  "name": "Potion of Poison",
+                  "img": "icons/consumables/potions/bottle-bulb-corked-green.webp",
+                  "tags": [],
+                  "resourcePath": ""
+                }
+              ]
+            }
+          ],
+          "productInspection": "0",
+          "sound": "",
+          "time": null,
+          "require": "",
+          "expression": "",
+          "modifierList": [],
+          "checks": [],
+          "type": "",
+          "requiresStation": false,
+          "requiresMinigame": false,
+          "minigame": {
+            "difficulty": "normal",
+            "canFail": false,
+            "perfect": ""
+          },
+          "timedMode": "",
+          "queueKey": ""
+        }
+      },
+      "_id": "6gPF0T5pLm5rN0BN",
+      "system": {
+        "htmlFields": [
+          "text.content"
+        ],
+        "text": {
+          "format": 1
+        }
+      },
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "sort": 0,
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.370",
+        "systemId": "dnd5e",
+        "systemVersion": "5.2.5",
+        "lastModifiedBy": "TJvRiTp7BS0avsVp",
+        "createdTime": 1794239342823,
+        "modifiedTime": 1794239342823
+      },
+      "_key": "!journal.pages!Y5RCYXMYgofKIy3O.6gPF0T5pLm5rN0BN"
+    },
+    {
+      "name": "Truth Serum",
+      "type": "mastercrafted.mastercrafted",
+      "text": {
+        "content": "<p>A creature subjected to this poison must succeed on a DC 12 Constitution saving throw or become poisoned for 1 hour. The poisoned creature can’t knowingly speak a lie, as if under the effect of a zone of truth spell.</p>",
+        "format": 1
+      },
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "mastercrafted": {
+          "img": "icons/consumables/potions/potion-flask-corked-blue.webp",
+          "ingredients": [
+            {
+              "id": "J1GPfcLvyaRtgvgT",
+              "name": null,
+              "components": [
+                {
+                  "id": "gInbDREeUbvhv6mp",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.gM92fpjY9teFQ8ew",
+                  "quantity": 1,
+                  "name": "Fairy Stool",
+                  "img": "icons/consumables/mushrooms/umbontae-pink.webp",
+                  "tags": [],
+                  "resourcePath": ""
+                }
+              ]
+            },
+            {
+              "id": "mKTBoABD8b9gZqd7",
+              "name": null,
+              "components": [
+                {
+                  "id": "QSxKm5bkaYQnFJTP",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.ebflYPaV5OfihxDW",
+                  "quantity": 1,
+                  "name": "Mindflayer Stinkhorn",
+                  "img": "icons/consumables/mushrooms/alien-spotted-blue.webp",
+                  "tags": [],
+                  "resourcePath": ""
+                }
+              ]
+            }
+          ],
+          "ingredientsInspection": "0",
+          "macroName": "",
+          "products": [
+            {
+              "id": "j5Yv57u7FBxmgJyM",
+              "name": null,
+              "components": [
+                {
+                  "id": "cDQuZE2Ky4CvTK2f",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-poisons.Item.MTbjywmmGb9FOICv",
+                  "quantity": 1,
+                  "name": "Truth Serum (Ingested)",
+                  "img": "icons/consumables/potions/potion-flask-corked-blue.webp",
+                  "tags": [],
+                  "resourcePath": ""
+                }
+              ]
+            }
+          ],
+          "productInspection": "0",
+          "sound": "",
+          "time": null,
+          "require": "",
+          "expression": "",
+          "modifierList": [],
+          "checks": [],
+          "type": "",
+          "requiresStation": false,
+          "requiresMinigame": false,
+          "minigame": {
+            "difficulty": "normal",
+            "canFail": false,
+            "perfect": ""
+          },
+          "timedMode": "",
+          "queueKey": ""
+        }
+      },
+      "_id": "bLwzkXphATo036ck",
+      "system": {
+        "htmlFields": [
+          "text.content"
+        ],
+        "text": {
+          "format": 1
+        }
+      },
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "sort": 0,
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.370",
+        "systemId": "dnd5e",
+        "systemVersion": "5.2.5",
+        "lastModifiedBy": "TJvRiTp7BS0avsVp",
+        "createdTime": 1794239342823,
+        "modifiedTime": 1794239342823
+      },
+      "_key": "!journal.pages!Y5RCYXMYgofKIy3O.bLwzkXphATo036ck"
+    }
+  ],
+  "flags": {
+    "mastercrafted": {
+      "description": "Contains recipes for creating uncommon poisons",
+      "img": "icons/sundries/books/book-symbol-skull-grey.webp",
+      "ingredientsInspection": "1",
+      "productInspection": "1",
+      "sound": "",
+      "require": "Poisoner's Kit",
+      "macroName": "",
+      "time": null,
+      "timedMode": "parallel",
+      "queueKey": ""
+    }
+  },
+  "categories": [],
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.370",
+    "systemId": "dnd5e",
+    "systemVersion": "5.2.5",
+    "createdTime": 1773072037926,
+    "modifiedTime": 1794239343028,
+    "lastModifiedBy": "TJvRiTp7BS0avsVp"
+  },
+  "_id": "Y5RCYXMYgofKIy3O",
+  "sort": 200000,
+  "_key": "!journal!Y5RCYXMYgofKIy3O"
+}

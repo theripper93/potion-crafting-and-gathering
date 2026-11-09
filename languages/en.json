@@ -1,1 +1,48 @@
-{}
+{
+    "potion-crafting-and-gathering": {
+        "settings": {
+            "importMenu": {
+                "name": "Import Content",
+                "label": "Open Importer",
+                "hint": "Import or update the tables, journals and recipe books of Potion Crafting & Gathering in this world."
+            },
+            "showImportOnStartup": {
+                "name": "Show Importer on Startup",
+                "hint": "Open the content importer when a Gamemaster loads the world."
+            }
+        },
+        "importApp": {
+            "title": "Potion Crafting & Gathering: Import Content",
+            "modules": "Modules",
+            "content": "Content",
+            "packs": {
+                "tables": "Roll Tables",
+                "journal": "Journals",
+                "recipes": "Recipe Books"
+            },
+            "counts": "{imported} / {total} imported",
+            "harvesting": {
+                "label": "Set Creature Harvesting",
+                "hint": "Replaces Gatherer's creature harvesting configuration with harvesting tables for each creature type (Beast, Dragon, Monstrosity, ...), using this module's creature parts. The Creature Harvesting journal and its tables are imported if missing.",
+                "done": "Potion Crafting & Gathering: Gatherer's creature harvesting is now configured."
+            },
+            "update": {
+                "label": "Update Imported Documents",
+                "hint": "Replace documents already in the world with the latest version from the compendium. Ownership, folders, pages or results you added and gathering progress are kept."
+            },
+            "showOnStartup": "Show on Startup",
+            "import": "Import",
+            "done": "Potion Crafting & Gathering: {created} documents imported, {updated} updated. Keep this module enabled, the items are stored in its compendiums."
+        },
+        "versionCheck": {
+            "state": {
+                "ok": "{version}",
+                "missing": "Not installed (requires {required} or later)",
+                "inactive": "{version}, not active",
+                "outdated": "{version}, update to {required} or later"
+            },
+            "outdated": "Potion Crafting & Gathering: {title} {version} is outdated. Update it to {required} or later for the recipes and gathering journals to work.",
+            "unavailable": "Potion Crafting & Gathering: {title} is not installed or not active. The content can still be imported, but crafting or gathering automation needs {title} {required} or later."
+        }
+    }
+}

@@ -1,0 +1,276 @@
+{
+  "name": "Black Sap",
+  "type": "consumable",
+  "img": "icons/creatures/slimes/slime-movement-pseudopods-blue.webp",
+  "effects": [
+    {
+      "origin": "Item.N0AouALqeIy09kCX",
+      "duration": {
+        "value": null,
+        "units": "seconds",
+        "expiry": null,
+        "expired": false
+      },
+      "disabled": false,
+      "_id": "kz3cDuK1jPKGRUIC",
+      "tint": "#ffffff",
+      "transfer": false,
+      "flags": {
+        "dae": {
+          "selfTarget": false,
+          "selfTargetAlways": false,
+          "stackable": "none",
+          "durationExpression": "2d4*3600",
+          "macroRepeat": "none",
+          "specialDuration": []
+        },
+        "core": {
+          "statusId": ""
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Black Sap Poison",
+      "img": "icons/tools/laboratory/bowl-liquid-black.webp",
+      "type": "base",
+      "system": {
+        "changes": [
+          {
+            "key": "StatusEffect",
+            "value": "Convenient Effect: Poisoned",
+            "priority": 20,
+            "type": "custom"
+          }
+        ]
+      },
+      "description": "",
+      "statuses": [],
+      "sort": 0,
+      "start": null,
+      "showIcon": 1,
+      "folder": null,
+      "_key": "!items.effects!N0AouALqeIy09kCX.kz3cDuK1jPKGRUIC"
+    },
+    {
+      "origin": "Item.N0AouALqeIy09kCX",
+      "duration": {
+        "value": null,
+        "units": "seconds",
+        "expiry": null,
+        "expired": false
+      },
+      "disabled": false,
+      "_id": "WFZDrJnatMrqXOmF",
+      "tint": "#ffffff",
+      "transfer": false,
+      "flags": {
+        "dae": {
+          "selfTarget": false,
+          "selfTargetAlways": true,
+          "stackable": "none",
+          "durationExpression": "1d6*3600",
+          "macroRepeat": "none",
+          "specialDuration": []
+        },
+        "core": {
+          "statusId": ""
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Charmed/Frightened Immunity",
+      "img": "icons/tools/laboratory/bowl-liquid-black.webp",
+      "type": "base",
+      "system": {
+        "changes": []
+      },
+      "description": "",
+      "statuses": [],
+      "sort": 0,
+      "start": null,
+      "showIcon": 1,
+      "folder": null,
+      "_key": "!items.effects!N0AouALqeIy09kCX.WFZDrJnatMrqXOmF"
+    }
+  ],
+  "flags": {
+    "ddbimporter": {
+      "dndbeyond": {
+        "type": "Potion",
+        "isConsumable": true,
+        "isContainer": false,
+        "isCustomItem": false,
+        "isHomebrew": false,
+        "isMonkWeapon": false,
+        "isPack": false,
+        "levelInfusionGranted": null,
+        "tags": [],
+        "sources": [
+          {
+            "sourceId": 59,
+            "pageNumber": null,
+            "sourceType": 1
+          }
+        ],
+        "stackable": true
+      },
+      "id": 0,
+      "entityTypeId": 0,
+      "definitionEntityTypeId": 2103445194,
+      "definitionId": 308,
+      "originalName": "Black Sap",
+      "version": "3.1.15"
+    },
+    "magicitems": {
+      "enabled": false,
+      "equipped": false,
+      "attuned": false,
+      "charges": "0",
+      "chargeType": "c1",
+      "destroy": false,
+      "destroyFlavorText": "reaches 0 charges: it crumbles into ashes and is destroyed.",
+      "rechargeable": false,
+      "recharge": "0",
+      "rechargeType": "t1",
+      "rechargeUnit": "r1",
+      "sorting": "l"
+    },
+    "midi-qol": {
+      "onUseMacroName": "",
+      "effectActivation": false
+    },
+    "cf": {
+      "id": "temp_zo17f6frwt9"
+    },
+    "rest-recovery": {
+      "data": {
+        "consumable": {
+          "enabled": false,
+          "dayWorth": false
+        },
+        "recovery": {
+          "enabled": false
+        }
+      }
+    },
+    "midiProperties": {
+      "nodam": false,
+      "fulldam": false,
+      "halfdam": false,
+      "rollOther": false,
+      "critOther": false,
+      "magicdam": false,
+      "magiceffect": false,
+      "concentration": false,
+      "toggleEffect": false
+    }
+  },
+  "system": {
+    "description": {
+      "value": "<p>This tarry substance harvested from the dark boughs of the death's head willow is a powerful intoxicant. It can be smoked as a concentrate or injected directly into the bloodstream. A creature subjected to a dose of black sap cannot be charmed or frightened for 1d6 hours.</p><p>For each dose of black sap consumed, a creature must succeed on a DC 15 Constitution saving throw or become poisoned for 2d4 hours—an effect that is cumulative with multiple doses.</p><section id=\"null\" class=\"secret\"><p>Rarity: Rare (DC 20)</p><p>Gathering: Herbalism Kit (DC 15)</p><p>Quantity: 1d6 doses</p><p>Location: Sites of frequent or large scale death</p><p>Uses (2): Malice, Pale Tincture</p></section>",
+      "chat": "",
+      "unidentified": "Gear"
+    },
+    "source": "Potion Brewing and Ingredient Gathering for DnD 5e",
+    "quantity": 1,
+    "weight": {
+      "value": 0,
+      "units": "lb"
+    },
+    "price": 50,
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "rare",
+    "identified": true,
+    "activation": {
+      "type": "action",
+      "cost": 1,
+      "condition": ""
+    },
+    "duration": {
+      "value": null,
+      "units": ""
+    },
+    "target": {
+      "value": null,
+      "width": null,
+      "units": "",
+      "type": ""
+    },
+    "range": {
+      "value": null,
+      "long": null,
+      "units": ""
+    },
+    "uses": {
+      "value": 1,
+      "max": "1",
+      "per": "charges",
+      "recovery": "",
+      "autoDestroy": true,
+      "autoUse": false
+    },
+    "consume": {
+      "type": "",
+      "target": "",
+      "amount": null
+    },
+    "ability": "",
+    "actionType": "save",
+    "attackBonus": 0,
+    "chatFlavor": "",
+    "critical": {
+      "threshold": null,
+      "damage": ""
+    },
+    "damage": {
+      "parts": [],
+      "versatile": ""
+    },
+    "formula": "",
+    "save": {
+      "ability": "con",
+      "dc": 15,
+      "scaling": "flat"
+    },
+    "consumableType": "poison",
+    "baseItem": "",
+    "toolType": ""
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.0.3",
+    "coreVersion": "14.370",
+    "createdTime": 1665841141180,
+    "modifiedTime": 1794239342891,
+    "lastModifiedBy": "packsbuilder0000",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "N0AouALqeIy09kCX",
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!N0AouALqeIy09kCX"
+}

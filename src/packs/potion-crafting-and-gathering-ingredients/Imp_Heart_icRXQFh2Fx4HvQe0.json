@@ -1,0 +1,43 @@
+{
+  "name": "Imp Heart",
+  "type": "loot",
+  "img": "icons/commodities/biological/organ-heart-red.webp",
+  "system": {
+    "description": {
+      "value": "<section id=\"secret-ErolZlt83ZGRgqLR\" class=\"secret\"><p>Rarity: Rare (DC 20)</p><p>Harvesting: A Knife (DC 15)</p><p>Quantity: 1 heart</p><p>Creature Condition: Dead</p><p>Uses (1): Potion of Longevity</p></section>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Potion Brewing and Ingredient Gathering for DnD 5e",
+    "quantity": 1,
+    "weight": {
+      "value": 0,
+      "units": "lb"
+    },
+    "price": 50,
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "rare",
+    "identified": true
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.0.3",
+    "coreVersion": "14.370",
+    "createdTime": 1665870376763,
+    "modifiedTime": 1794239342896,
+    "lastModifiedBy": "packsbuilder0000",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "icRXQFh2Fx4HvQe0",
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!icRXQFh2Fx4HvQe0"
+}

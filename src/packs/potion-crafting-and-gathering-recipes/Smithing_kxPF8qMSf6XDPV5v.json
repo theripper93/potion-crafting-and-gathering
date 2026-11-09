@@ -1,0 +1,23 @@
+{
+  "_id": "kxPF8qMSf6XDPV5v",
+  "name": "Smithing",
+  "type": "JournalEntry",
+  "color": "#6b6b6b",
+  "sorting": "a",
+  "folder": null,
+  "description": "",
+  "sort": 0,
+  "flags": {},
+  "_stats": {
+    "coreVersion": "14.370",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": 1794241945877,
+    "modifiedTime": 1794241945877,
+    "lastModifiedBy": "packsbuilder0000",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!folders!kxPF8qMSf6XDPV5v"
+}

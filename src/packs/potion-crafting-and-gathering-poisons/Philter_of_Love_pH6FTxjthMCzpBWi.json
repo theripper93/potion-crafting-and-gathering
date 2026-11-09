@@ -1,0 +1,176 @@
+{
+  "name": "Philter of Love",
+  "type": "consumable",
+  "system": {
+    "description": {
+      "value": "<p>The next time you see a creature within 10 minutes after drinking this philter, you become @Compendium[dnd5e.rules.w7eitkpD7QQTB6j0]{charmed} by that creature for 1 hour. If the creature is of a species and gender you are normally attracted to, you regard it as your true love while you are @Compendium[dnd5e.rules.w7eitkpD7QQTB6j0]{charmed}. This potion's rose-hued, effervescent liquid contains one easy-to-miss bubble shaped like a heart.</p>",
+      "chat": "",
+      "unidentified": "Potion"
+    },
+    "source": "Basic Rules, Player's Handbook pg 184",
+    "quantity": 1,
+    "weight": {
+      "value": 0,
+      "units": "lb"
+    },
+    "price": 0,
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "uncommon",
+    "identified": true,
+    "activation": {
+      "type": "action",
+      "cost": 1,
+      "condition": ""
+    },
+    "duration": {
+      "value": 10,
+      "units": "minute"
+    },
+    "target": {
+      "value": null,
+      "width": null,
+      "units": "",
+      "type": ""
+    },
+    "range": {
+      "value": null,
+      "long": null,
+      "units": ""
+    },
+    "uses": {
+      "value": 1,
+      "max": "1",
+      "per": "charges",
+      "recovery": "",
+      "autoDestroy": true,
+      "autoUse": false
+    },
+    "consume": {
+      "type": "",
+      "target": "",
+      "amount": null
+    },
+    "ability": "",
+    "actionType": "other",
+    "attackBonus": 0,
+    "chatFlavor": "",
+    "critical": {
+      "threshold": null,
+      "damage": ""
+    },
+    "damage": {
+      "parts": [],
+      "versatile": ""
+    },
+    "formula": "",
+    "save": {
+      "ability": "",
+      "dc": null,
+      "scaling": "spell"
+    },
+    "consumableType": "potion",
+    "baseItem": "",
+    "toolType": "",
+    "properties": {
+      "mgc": true
+    }
+  },
+  "flags": {
+    "ddbimporter": {
+      "dndbeyond": {
+        "type": "Potion",
+        "filterType": "Potion",
+        "isConsumable": true,
+        "isContainer": false,
+        "isCustomItem": false,
+        "isHomebrew": false,
+        "isMonkWeapon": false,
+        "isPack": false,
+        "levelInfusionGranted": null,
+        "tags": [
+          "Control",
+          "Consumable"
+        ],
+        "sources": [
+          {
+            "sourceId": 1,
+            "pageNumber": null,
+            "sourceType": 2
+          },
+          {
+            "sourceId": 2,
+            "pageNumber": 184,
+            "sourceType": 1
+          }
+        ],
+        "stackable": true
+      },
+      "id": 0,
+      "entityTypeId": 0,
+      "definitionEntityTypeId": 112130694,
+      "definitionId": 4695,
+      "originalName": "Philter of Love",
+      "version": "3.1.17"
+    },
+    "magicitems": {
+      "enabled": true,
+      "charges": "0",
+      "chargeType": "c1",
+      "rechargeable": false,
+      "recharge": "0",
+      "rechargeType": "t2",
+      "rechargeUnit": "r1",
+      "destroy": false,
+      "destroyCheck": "d1",
+      "spells": {},
+      "feats": {},
+      "tables": {},
+      "equipped": false,
+      "attuned": false,
+      "destroyFlavorText": "reaches 0 charges: it crumbles into ashes and is destroyed.",
+      "sorting": "l"
+    },
+    "midi-qol": {
+      "effectActivation": false
+    },
+    "rest-recovery": {
+      "data": {
+        "recovery": {
+          "enabled": false
+        }
+      }
+    },
+    "midiProperties": {
+      "nodam": false,
+      "fulldam": false,
+      "halfdam": false,
+      "rollOther": false,
+      "critOther": false,
+      "magicdam": false,
+      "magiceffect": false,
+      "concentration": false,
+      "toggleEffect": false
+    }
+  },
+  "effects": [],
+  "img": "icons/consumables/potions/potion-flask-corked-labeled-pink.webp",
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.0.3",
+    "coreVersion": "14.370",
+    "createdTime": 1666010238931,
+    "modifiedTime": 1794239342976,
+    "lastModifiedBy": "packsbuilder0000",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "pH6FTxjthMCzpBWi",
+  "_key": "!items!pH6FTxjthMCzpBWi"
+}

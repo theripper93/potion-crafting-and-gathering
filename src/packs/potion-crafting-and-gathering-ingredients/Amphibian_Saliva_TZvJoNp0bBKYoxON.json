@@ -1,0 +1,43 @@
+{
+  "name": "Amphibian Saliva",
+  "type": "loot",
+  "img": "icons/creatures/amphibians/treefrog-underneath-teal.webp",
+  "system": {
+    "description": {
+      "value": "<section id=\"secret-819mBvQTKNccAEXD\" class=\"secret\"><p>Rarity: Uncommon (DC 15)</p><p>Harvesting: Poisoner's Kit (DC 15)</p><p>Quantity: 1d4 vials</p><p>Creature Condition: Dead or Incapacitated</p><p>Uses (1): Potion of Resistance (Force)</p></section>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Potion Brewing and Ingredient Gathering for DnD 5e",
+    "quantity": 1,
+    "weight": {
+      "value": 0,
+      "units": "lb"
+    },
+    "price": 10,
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "uncommon",
+    "identified": true
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.0.3",
+    "coreVersion": "14.370",
+    "createdTime": 1665870235463,
+    "modifiedTime": 1794239342893,
+    "lastModifiedBy": "packsbuilder0000",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "TZvJoNp0bBKYoxON",
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!TZvJoNp0bBKYoxON"
+}

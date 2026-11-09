@@ -1,0 +1,43 @@
+{
+  "name": "Frost Lichen",
+  "type": "loot",
+  "img": "icons/consumables/plants/leaf-broad-blue.webp",
+  "system": {
+    "description": {
+      "value": "<p>An eyeblindingly white lichen that grows on rocks in regions of year long freezing temperatures.</p><section id=\"secret-kTVpHDoKt08yl8tf\" class=\"secret\"><p>Rarity: Uncommon (DC 15)</p><p>Gathering: Herbalism Kit (DC 15)</p><p>Quantity: 1d6 bunches</p><p>Location: Arctic</p><p>Uses (4): Grenade, smoke, Potion of Giant's Strength, Potion of Resistance (Cold), Biza's Breath</p></section>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Potion Brewing and Ingredient Gathering for DnD 5e",
+    "quantity": 1,
+    "weight": {
+      "value": 0,
+      "units": "lb"
+    },
+    "price": 10,
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "uncommon",
+    "identified": true
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.0.3",
+    "coreVersion": "14.370",
+    "createdTime": 1665688528211,
+    "modifiedTime": 1794239342889,
+    "lastModifiedBy": "packsbuilder0000",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "4ybCoZqAMDLiQsmb",
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!4ybCoZqAMDLiQsmb"
+}

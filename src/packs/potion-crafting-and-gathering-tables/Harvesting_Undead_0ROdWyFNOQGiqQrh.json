@@ -1,0 +1,92 @@
+{
+  "name": "Harvesting: Undead",
+  "img": "icons/svg/d20-grey.svg",
+  "formula": "1d4",
+  "replacement": true,
+  "displayRoll": true,
+  "results": [
+    {
+      "type": "document",
+      "documentUuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.OQAPiXDbXeOTP5TD",
+      "name": "Ectoplasm",
+      "img": "icons/magic/unholy/projectile-fireball-agile-purple.webp",
+      "weight": 3,
+      "range": [
+        1,
+        3
+      ],
+      "flags": {
+        "gatherer": {
+          "quantity": "1d4"
+        }
+      },
+      "_id": "A0DLGoB1FBX88tnh",
+      "description": "",
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": 1794240301397,
+        "modifiedTime": 1794240301397,
+        "lastModifiedBy": "TJvRiTp7BS0avsVp",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!0ROdWyFNOQGiqQrh.A0DLGoB1FBX88tnh"
+    },
+    {
+      "type": "document",
+      "documentUuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.0Lapqd8kzpmS0R0z",
+      "name": "Dracula's Blood",
+      "img": "icons/skills/wounds/blood-cells-vessel-red-orange.webp",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "flags": {
+        "gatherer": {
+          "quantity": "1d4"
+        }
+      },
+      "_id": "2XOrZkPsuuAcaBQi",
+      "description": "",
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": 1794240301397,
+        "modifiedTime": 1794240301397,
+        "lastModifiedBy": "TJvRiTp7BS0avsVp",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!0ROdWyFNOQGiqQrh.2XOrZkPsuuAcaBQi"
+    }
+  ],
+  "_id": "0ROdWyFNOQGiqQrh",
+  "description": "",
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TJvRiTp7BS0avsVp": 3
+  },
+  "flags": {},
+  "_stats": {
+    "coreVersion": "14.370",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": 1794240301397,
+    "modifiedTime": 1794240301399,
+    "lastModifiedBy": "TJvRiTp7BS0avsVp",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!0ROdWyFNOQGiqQrh"
+}

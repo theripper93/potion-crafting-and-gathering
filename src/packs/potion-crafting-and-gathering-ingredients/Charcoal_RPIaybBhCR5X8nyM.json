@@ -1,0 +1,43 @@
+{
+  "name": "Charcoal",
+  "type": "loot",
+  "img": "icons/commodities/stone/paver-cobbles-blue.webp",
+  "system": {
+    "description": {
+      "value": "",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "",
+    "quantity": 1,
+    "weight": {
+      "value": 0,
+      "units": "lb"
+    },
+    "price": 0,
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "common",
+    "identified": true
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.0.3",
+    "coreVersion": "14.370",
+    "createdTime": 1665793851356,
+    "modifiedTime": 1794239342892,
+    "lastModifiedBy": "packsbuilder0000",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "RPIaybBhCR5X8nyM",
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!RPIaybBhCR5X8nyM"
+}

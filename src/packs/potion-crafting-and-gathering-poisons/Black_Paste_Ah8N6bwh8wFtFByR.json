@@ -1,0 +1,185 @@
+{
+  "name": "Black Paste",
+  "type": "consumable",
+  "img": "icons/tools/laboratory/bowl-liquid-black.webp",
+  "system": {
+    "description": {
+      "value": "<p>This poison was specifically designed to resemble leather or boot polish. If a piece of clothing is treated with this poison, it shines like new and forces creatures that wears it for a total of 12 hours (does not have to be consecutive) to make a DC 15 Constitution saving throw. Upon a failed save, the creature receives 1d8 poison damage. Unless the poisoned piece of clothing is removed, the creature will have to repeat making the saving throw every 12 hours for the next 3 months.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Potion Brewing and Ingredient Gathering for DnD 5e",
+    "quantity": 1,
+    "weight": {
+      "value": 0,
+      "units": "lb"
+    },
+    "price": 0,
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "uncommon",
+    "identified": true,
+    "activation": {
+      "type": "action",
+      "cost": 1,
+      "condition": ""
+    },
+    "duration": {
+      "value": null,
+      "units": ""
+    },
+    "target": {
+      "value": null,
+      "width": null,
+      "units": "",
+      "type": ""
+    },
+    "range": {
+      "value": null,
+      "long": null,
+      "units": ""
+    },
+    "uses": {
+      "value": 1,
+      "max": "1",
+      "per": "charges",
+      "recovery": "",
+      "autoDestroy": true
+    },
+    "consume": {
+      "type": "",
+      "target": "",
+      "amount": null
+    },
+    "ability": "",
+    "actionType": "save",
+    "attackBonus": 0,
+    "chatFlavor": "",
+    "critical": {
+      "threshold": null,
+      "damage": ""
+    },
+    "damage": {
+      "parts": [
+        [
+          "1d8",
+          "poison"
+        ]
+      ],
+      "versatile": ""
+    },
+    "formula": "",
+    "save": {
+      "ability": "con",
+      "dc": 15,
+      "scaling": "flat"
+    },
+    "consumableType": "poison"
+  },
+  "effects": [
+    {
+      "origin": "Item.themkdhfbwng47zF",
+      "duration": {
+        "value": 43200,
+        "units": "seconds",
+        "expiry": "turnStart",
+        "expired": false
+      },
+      "disabled": false,
+      "_id": "VgEIiI2uyJpwipAX",
+      "tint": "#ffffff",
+      "transfer": false,
+      "flags": {
+        "dae": {
+          "selfTarget": false,
+          "selfTargetAlways": false,
+          "stackable": "none",
+          "durationExpression": "",
+          "specialDuration": []
+        },
+        "core": {
+          "statusId": ""
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Black Paste",
+      "img": "icons/tools/laboratory/bowl-liquid-black.webp",
+      "type": "base",
+      "system": {
+        "changes": []
+      },
+      "description": "",
+      "statuses": [],
+      "sort": 0,
+      "start": null,
+      "showIcon": 1,
+      "folder": null,
+      "_key": "!items.effects!Ah8N6bwh8wFtFByR.VgEIiI2uyJpwipAX"
+    }
+  ],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "magicitems": {
+      "enabled": false,
+      "equipped": false,
+      "attuned": false,
+      "charges": "0",
+      "chargeType": "c1",
+      "destroy": false,
+      "destroyFlavorText": "reaches 0 charges: it crumbles into ashes and is destroyed.",
+      "rechargeable": false,
+      "recharge": "0",
+      "rechargeType": "t1",
+      "rechargeUnit": "r1",
+      "sorting": "l"
+    },
+    "rest-recovery": {
+      "data": {
+        "recovery": {
+          "enabled": false
+        }
+      }
+    },
+    "midi-qol": {
+      "effectActivation": false
+    },
+    "midiProperties": {
+      "nodam": false,
+      "fulldam": false,
+      "halfdam": false,
+      "rollOther": false,
+      "critOther": false,
+      "magicdam": false,
+      "magiceffect": false,
+      "concentration": false,
+      "toggleEffect": false
+    }
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.0.3",
+    "coreVersion": "14.370",
+    "createdTime": 1666101804194,
+    "modifiedTime": 1794239342972,
+    "lastModifiedBy": "packsbuilder0000",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "Ah8N6bwh8wFtFByR",
+  "_key": "!items!Ah8N6bwh8wFtFByR"
+}

@@ -1,0 +1,975 @@
+{
+  "name": "The Budding Herbalist",
+  "ownership": {
+    "default": 0,
+    "rqEOxzm9pWZpMhH4": 0,
+    "QAdDWUaUNK09Iq3x": 0,
+    "GOvXOrkQSzey7yZ5": 0,
+    "56XvGn6U8R9S2vlW": 0,
+    "HHjDcylTiWQFDEbS": 0,
+    "qr1zQ11jcfurK31V": 3
+  },
+  "folder": "pOWf5q8NEqC82nKM",
+  "pages": [
+    {
+      "name": "Antitoxin",
+      "type": "mastercrafted.mastercrafted",
+      "text": {
+        "content": "<p>A creature that drinks this vial of liquid gains advantage on saving throws against poison for 1 hour. It confers no benefit to undead or constructs.</p>",
+        "format": 1
+      },
+      "ownership": {
+        "default": -1,
+        "rqEOxzm9pWZpMhH4": -1,
+        "QAdDWUaUNK09Iq3x": -1,
+        "GOvXOrkQSzey7yZ5": -1,
+        "56XvGn6U8R9S2vlW": -1,
+        "HHjDcylTiWQFDEbS": -1
+      },
+      "flags": {
+        "mastercrafted": {
+          "img": "icons/consumables/potions/potion-tube-corked-blue.webp",
+          "ingredients": [
+            {
+              "id": "O1yXl0bciePEqTQj",
+              "name": null,
+              "components": [
+                {
+                  "id": "lgEIfgsDJ1xxOsc2",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.sgg30hrdXOD3vAGC",
+                  "quantity": 1,
+                  "name": "Everfrost Berry",
+                  "img": "icons/consumables/fruit/berry-shiny-leaf-blue-teal.webp",
+                  "tags": [],
+                  "resourcePath": ""
+                }
+              ]
+            },
+            {
+              "id": "7fxrA5fo0HG0U54Q",
+              "name": null,
+              "components": [
+                {
+                  "id": "LwOTSv5tHUwmSYiK",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.8U61IScvrNcit1ZJ",
+                  "quantity": 1,
+                  "name": "Cat's Tongue",
+                  "img": "icons/consumables/plants/mint-dried-green.webp",
+                  "tags": [],
+                  "resourcePath": ""
+                }
+              ]
+            }
+          ],
+          "ingredientsInspection": "0",
+          "macroName": "",
+          "products": [
+            {
+              "id": "511u6mfot6L4s42Z",
+              "name": null,
+              "components": [
+                {
+                  "id": "e7IG9bJxjRR82iBR",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-herbalism.Item.QQlIKiwfThxbuXiL",
+                  "quantity": 1,
+                  "name": "Antitoxin",
+                  "img": "icons/consumables/potions/potion-tube-corked-blue.webp",
+                  "tags": [],
+                  "resourcePath": ""
+                }
+              ]
+            }
+          ],
+          "productInspection": "0",
+          "sound": "",
+          "time": null,
+          "require": "",
+          "expression": "",
+          "modifierList": [],
+          "checks": [],
+          "type": "",
+          "requiresStation": false,
+          "requiresMinigame": false,
+          "minigame": {
+            "difficulty": "normal",
+            "canFail": false,
+            "perfect": ""
+          },
+          "timedMode": "",
+          "queueKey": ""
+        }
+      },
+      "_id": "ity9cXkFNnQPwxna",
+      "system": {
+        "htmlFields": [
+          "text.content"
+        ],
+        "text": {
+          "format": 1
+        }
+      },
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "sort": 0,
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.370",
+        "systemId": "dnd5e",
+        "systemVersion": "5.2.5",
+        "lastModifiedBy": "TJvRiTp7BS0avsVp",
+        "createdTime": 1794239342727,
+        "modifiedTime": 1794239342727
+      },
+      "_key": "!journal.pages!PAOPwBTXtfBFEHEp.ity9cXkFNnQPwxna"
+    },
+    {
+      "name": "Potion of Healing",
+      "type": "mastercrafted.mastercrafted",
+      "text": {
+        "content": "<p>A character who drinks the magical red fluid in this vial regains 2d4 + 2 hit points. Drinking or administering a potion takes an action.</p>",
+        "format": 1
+      },
+      "ownership": {
+        "default": -1,
+        "rqEOxzm9pWZpMhH4": -1,
+        "QAdDWUaUNK09Iq3x": -1,
+        "GOvXOrkQSzey7yZ5": -1,
+        "56XvGn6U8R9S2vlW": -1,
+        "HHjDcylTiWQFDEbS": -1
+      },
+      "flags": {
+        "mastercrafted": {
+          "img": "icons/consumables/potions/potion-tube-corked-red.webp",
+          "ingredients": [
+            {
+              "id": "mQ10lrJLVWd3vUlN",
+              "name": null,
+              "components": [
+                {
+                  "id": "x1kzynBU75GHyOLT",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.PesWw8Dh27Q7hqCB",
+                  "quantity": 1,
+                  "name": "Red Amanita Mushroom",
+                  "img": "icons/consumables/mushrooms/helm-red-white.webp",
+                  "tags": [],
+                  "resourcePath": ""
+                }
+              ]
+            }
+          ],
+          "ingredientsInspection": "0",
+          "macroName": "",
+          "products": [
+            {
+              "id": "ryO4P7ZOaTEXv04s",
+              "name": null,
+              "components": [
+                {
+                  "id": "MHSl5KpB7jOqDz2l",
+                  "uuid": "Compendium.dnd5e.items.Item.ytlsBjYsZ7OBSEBs",
+                  "quantity": 1,
+                  "name": "Potion of Healing",
+                  "img": "icons/consumables/potions/potion-tube-corked-red.webp",
+                  "tags": [],
+                  "resourcePath": ""
+                }
+              ]
+            }
+          ],
+          "productInspection": "0",
+          "sound": "",
+          "time": null,
+          "require": "",
+          "expression": "",
+          "modifierList": [],
+          "checks": [],
+          "type": "",
+          "requiresStation": false,
+          "requiresMinigame": false,
+          "minigame": {
+            "difficulty": "normal",
+            "canFail": false,
+            "perfect": ""
+          },
+          "timedMode": "",
+          "queueKey": ""
+        }
+      },
+      "_id": "LhT4Ep6lzN7CrkfJ",
+      "system": {
+        "htmlFields": [
+          "text.content"
+        ],
+        "text": {
+          "format": 1
+        }
+      },
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "sort": 0,
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.370",
+        "systemId": "dnd5e",
+        "systemVersion": "5.2.5",
+        "lastModifiedBy": "TJvRiTp7BS0avsVp",
+        "createdTime": 1794239342727,
+        "modifiedTime": 1794239342727
+      },
+      "_key": "!journal.pages!PAOPwBTXtfBFEHEp.LhT4Ep6lzN7CrkfJ"
+    },
+    {
+      "name": "Muroosa Balm",
+      "type": "mastercrafted.mastercrafted",
+      "text": {
+        "content": "<p>This paste made from the muroosa bush is known to help prevent sunburn, but it is also a fire retardant. After spending 1 minute applying a quarter pint of muroosa balm to your skin, you gain resistance against fire damage for 1 hour.</p>",
+        "format": 1
+      },
+      "ownership": {
+        "default": -1,
+        "rqEOxzm9pWZpMhH4": -1,
+        "QAdDWUaUNK09Iq3x": -1,
+        "GOvXOrkQSzey7yZ5": -1,
+        "56XvGn6U8R9S2vlW": -1,
+        "HHjDcylTiWQFDEbS": -1
+      },
+      "flags": {
+        "mastercrafted": {
+          "img": "icons/tools/laboratory/bowl-herbs-green.webp",
+          "ingredients": [
+            {
+              "id": "v2SDqtjombfjpJoC",
+              "name": null,
+              "components": [
+                {
+                  "id": "uNzxobLO8EDECv27",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.KxyuMr06YyMT9uVI",
+                  "quantity": 1,
+                  "name": "Flame Lily",
+                  "img": "icons/consumables/plants/flax-leaves-spiked-bundle-orange.webp",
+                  "tags": [],
+                  "resourcePath": ""
+                }
+              ]
+            },
+            {
+              "id": "h93JXaU4nilfqDK0",
+              "name": null,
+              "components": [
+                {
+                  "id": "9DbT7wFdAjIchbAc",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.sODZElZQJ8PiIvH1",
+                  "quantity": 1,
+                  "name": "Muroosa Twigs",
+                  "img": "icons/consumables/plants/fern-sword-green.webp",
+                  "tags": [],
+                  "resourcePath": ""
+                }
+              ]
+            }
+          ],
+          "ingredientsInspection": "0",
+          "macroName": "",
+          "products": [
+            {
+              "id": "b1minR7ZOnxbBcx8",
+              "name": null,
+              "components": [
+                {
+                  "id": "PF76CRjPSjRDmljz",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-herbalism.Item.Xba0Y9JepZjQ6Kio",
+                  "quantity": 1,
+                  "name": "Muroosa Balm",
+                  "img": "icons/tools/laboratory/bowl-herbs-green.webp",
+                  "tags": [],
+                  "resourcePath": ""
+                }
+              ]
+            }
+          ],
+          "productInspection": "0",
+          "sound": "",
+          "time": null,
+          "require": "",
+          "expression": "",
+          "modifierList": [],
+          "checks": [],
+          "type": "",
+          "requiresStation": false,
+          "requiresMinigame": false,
+          "minigame": {
+            "difficulty": "normal",
+            "canFail": false,
+            "perfect": ""
+          },
+          "timedMode": "",
+          "queueKey": ""
+        }
+      },
+      "_id": "kQePYEhGoWKnhw5X",
+      "system": {
+        "htmlFields": [
+          "text.content"
+        ],
+        "text": {
+          "format": 1
+        }
+      },
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "sort": 0,
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.370",
+        "systemId": "dnd5e",
+        "systemVersion": "5.2.5",
+        "lastModifiedBy": "TJvRiTp7BS0avsVp",
+        "createdTime": 1794239342727,
+        "modifiedTime": 1794239342727
+      },
+      "_key": "!journal.pages!PAOPwBTXtfBFEHEp.kQePYEhGoWKnhw5X"
+    },
+    {
+      "name": "Pepper Peppers",
+      "type": "mastercrafted.mastercrafted",
+      "text": {
+        "content": "<p>A beneficial snack, these pick-me-ups have a fiery heat and a very satisfying crunch. Eating a Pepper Pepper grants the consumer 3 temporary hit points.</p>",
+        "format": 1
+      },
+      "ownership": {
+        "default": -1,
+        "rqEOxzm9pWZpMhH4": -1,
+        "QAdDWUaUNK09Iq3x": -1,
+        "GOvXOrkQSzey7yZ5": -1,
+        "56XvGn6U8R9S2vlW": -1,
+        "HHjDcylTiWQFDEbS": -1
+      },
+      "flags": {
+        "mastercrafted": {
+          "img": "icons/consumables/vegetable/cauliflower-head-white.webp",
+          "ingredients": [
+            {
+              "id": "5OhpNW5XK0SVNWu9",
+              "name": null,
+              "components": [
+                {
+                  "id": "6DJGOLzTF2gTXx3S",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.yg1RFBtdR2AfVS5t",
+                  "quantity": 1,
+                  "name": "Fire Peas",
+                  "img": "icons/consumables/vegetable/lima-beans-pod-brown.webp",
+                  "tags": [],
+                  "resourcePath": ""
+                }
+              ]
+            }
+          ],
+          "ingredientsInspection": "0",
+          "macroName": "",
+          "products": [
+            {
+              "id": "Bm9RTPIX5pfJVaQG",
+              "name": null,
+              "components": [
+                {
+                  "id": "MR5nLdPzNa5AGqJi",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-herbalism.Item.KMS4fSU2cl0eHA8J",
+                  "quantity": "6",
+                  "name": "Pepper Peppers",
+                  "img": "icons/consumables/vegetable/cauliflower-head-white.webp",
+                  "tags": [],
+                  "resourcePath": ""
+                }
+              ]
+            }
+          ],
+          "productInspection": "0",
+          "sound": "",
+          "time": null,
+          "require": "",
+          "expression": "",
+          "modifierList": [],
+          "checks": [],
+          "type": "",
+          "requiresStation": false,
+          "requiresMinigame": false,
+          "minigame": {
+            "difficulty": "normal",
+            "canFail": false,
+            "perfect": ""
+          },
+          "timedMode": "",
+          "queueKey": ""
+        }
+      },
+      "_id": "ADog3VkFytzM0b6x",
+      "system": {
+        "htmlFields": [
+          "text.content"
+        ],
+        "text": {
+          "format": 1
+        }
+      },
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "sort": 0,
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.370",
+        "systemId": "dnd5e",
+        "systemVersion": "5.2.5",
+        "lastModifiedBy": "TJvRiTp7BS0avsVp",
+        "createdTime": 1794239342728,
+        "modifiedTime": 1794239342728
+      },
+      "_key": "!journal.pages!PAOPwBTXtfBFEHEp.ADog3VkFytzM0b6x"
+    },
+    {
+      "name": "Potion of Plantspeak",
+      "type": "mastercrafted.mastercrafted",
+      "text": {
+        "content": "<p>A clear, brown liquid filled with vibrate green twigs and leaves that changes into a pale yellow liquid once opened. Drinking it grants the drinker the ability to communicate with plants for 5 minutes.</p>",
+        "format": 1
+      },
+      "ownership": {
+        "default": -1,
+        "rqEOxzm9pWZpMhH4": -1,
+        "QAdDWUaUNK09Iq3x": -1,
+        "GOvXOrkQSzey7yZ5": -1,
+        "56XvGn6U8R9S2vlW": -1,
+        "HHjDcylTiWQFDEbS": -1
+      },
+      "flags": {
+        "mastercrafted": {
+          "img": "icons/consumables/potions/potion-bottle-corked-stopper-yellow.webp",
+          "ingredients": [
+            {
+              "id": "hHW5Q7HnvDJes7UI",
+              "name": null,
+              "components": [
+                {
+                  "id": "0FXkEyhNRM52Fdlu",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.8U61IScvrNcit1ZJ",
+                  "quantity": 1,
+                  "name": "Cat's Tongue",
+                  "img": "icons/consumables/plants/mint-dried-green.webp",
+                  "tags": [],
+                  "resourcePath": ""
+                }
+              ]
+            },
+            {
+              "id": "eOX2SvwoOaOPyomA",
+              "name": null,
+              "components": [
+                {
+                  "id": "IpUyUAQyKuwIcpo8",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.sODZElZQJ8PiIvH1",
+                  "quantity": 1,
+                  "name": "Muroosa Twigs",
+                  "img": "icons/consumables/plants/fern-sword-green.webp",
+                  "tags": [],
+                  "resourcePath": ""
+                }
+              ]
+            }
+          ],
+          "ingredientsInspection": "0",
+          "macroName": "",
+          "products": [
+            {
+              "id": "1vU2t4ewYhYDnzfZ",
+              "name": null,
+              "components": [
+                {
+                  "id": "VwMMFbzlTFJw42og",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-herbalism.Item.oWgxhdYXSWTGjwjo",
+                  "quantity": 1,
+                  "name": "Potion of Plantspeak",
+                  "img": "icons/consumables/potions/potion-bottle-corked-stopper-yellow.webp",
+                  "tags": [],
+                  "resourcePath": ""
+                }
+              ]
+            }
+          ],
+          "productInspection": "0",
+          "sound": "",
+          "time": null,
+          "require": "",
+          "expression": "",
+          "modifierList": [],
+          "checks": [],
+          "type": "",
+          "requiresStation": false,
+          "requiresMinigame": false,
+          "minigame": {
+            "difficulty": "normal",
+            "canFail": false,
+            "perfect": ""
+          },
+          "timedMode": "",
+          "queueKey": ""
+        }
+      },
+      "_id": "289OcBgwm4aWErM9",
+      "system": {
+        "htmlFields": [
+          "text.content"
+        ],
+        "text": {
+          "format": 1
+        }
+      },
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "sort": 0,
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.370",
+        "systemId": "dnd5e",
+        "systemVersion": "5.2.5",
+        "lastModifiedBy": "TJvRiTp7BS0avsVp",
+        "createdTime": 1794239342728,
+        "modifiedTime": 1794239342728
+      },
+      "_key": "!journal.pages!PAOPwBTXtfBFEHEp.289OcBgwm4aWErM9"
+    },
+    {
+      "name": "Soothing Salve",
+      "type": "mastercrafted.mastercrafted",
+      "text": {
+        "content": "<p>A sticky, sour smelling salve that can be applied to wounds. When you expend hit dice to recover hit points while using this salve, you recover an additional 3 hit points for each hit die expended. This effect lasts for 1 hour after applied.</p>",
+        "format": 1
+      },
+      "ownership": {
+        "default": -1,
+        "rqEOxzm9pWZpMhH4": -1,
+        "QAdDWUaUNK09Iq3x": -1,
+        "GOvXOrkQSzey7yZ5": -1,
+        "56XvGn6U8R9S2vlW": -1,
+        "HHjDcylTiWQFDEbS": -1
+      },
+      "flags": {
+        "mastercrafted": {
+          "img": "icons/consumables/potions/potion-bottle-corked-white.webp",
+          "ingredients": [
+            {
+              "id": "k0k5pUUFFYADrobL",
+              "name": null,
+              "components": [
+                {
+                  "id": "m1iiCyIqJZx7dxWN",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.5SU6evgnA2ocp13r",
+                  "quantity": 1,
+                  "name": "Sourgrass",
+                  "img": "icons/consumables/plants/grass-curcled-bundle-green.webp",
+                  "tags": [],
+                  "resourcePath": ""
+                }
+              ]
+            },
+            {
+              "id": "M8LDkevuiTFWAFdJ",
+              "name": null,
+              "components": [
+                {
+                  "id": "oFHjReYEfvqfizcb",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.vperyfe91D7Y0mWW",
+                  "quantity": 1,
+                  "name": "Acid Dew",
+                  "img": "icons/commodities/biological/tentacle-thorned-green.webp",
+                  "tags": [],
+                  "resourcePath": ""
+                }
+              ]
+            }
+          ],
+          "ingredientsInspection": "0",
+          "macroName": "",
+          "products": [
+            {
+              "id": "A2gFZquitgQB8EKg",
+              "name": null,
+              "components": [
+                {
+                  "id": "4vViQ2CG7Ko4j3Jo",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-herbalism.Item.VAiC2oDr4p49l3ni",
+                  "quantity": 1,
+                  "name": "Soothing Salve",
+                  "img": "icons/consumables/potions/potion-bottle-corked-white.webp",
+                  "tags": [],
+                  "resourcePath": ""
+                }
+              ]
+            }
+          ],
+          "productInspection": "0",
+          "sound": "",
+          "time": null,
+          "require": "",
+          "expression": "",
+          "modifierList": [],
+          "checks": [],
+          "type": "",
+          "requiresStation": false,
+          "requiresMinigame": false,
+          "minigame": {
+            "difficulty": "normal",
+            "canFail": false,
+            "perfect": ""
+          },
+          "timedMode": "",
+          "queueKey": ""
+        }
+      },
+      "_id": "4ZCAMgo1EDWuTfjI",
+      "system": {
+        "htmlFields": [
+          "text.content"
+        ],
+        "text": {
+          "format": 1
+        }
+      },
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "sort": 0,
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.370",
+        "systemId": "dnd5e",
+        "systemVersion": "5.2.5",
+        "lastModifiedBy": "TJvRiTp7BS0avsVp",
+        "createdTime": 1794239342728,
+        "modifiedTime": 1794239342728
+      },
+      "_key": "!journal.pages!PAOPwBTXtfBFEHEp.4ZCAMgo1EDWuTfjI"
+    },
+    {
+      "name": "Quenching Pilther",
+      "type": "mastercrafted.mastercrafted",
+      "text": {
+        "content": "<p>A blue potion that always has 2 ice cubes, a sprig of mint and 2 slices of lemon floating in it. It always cool to the touch. Drinking the potion quenching a person’s thirst completely and removes their need to drink anything for 2 days. This makes it highly sought after near desserts for those who venture on caravans.</p>",
+        "format": 1
+      },
+      "ownership": {
+        "default": -1,
+        "rqEOxzm9pWZpMhH4": -1,
+        "QAdDWUaUNK09Iq3x": -1,
+        "GOvXOrkQSzey7yZ5": -1,
+        "56XvGn6U8R9S2vlW": -1,
+        "HHjDcylTiWQFDEbS": -1
+      },
+      "flags": {
+        "mastercrafted": {
+          "img": "icons/consumables/potions/bottle-conical-corked-labeled-shell-cyan.webp",
+          "ingredients": [
+            {
+              "id": "sH0UZUB1gPgVTpNT",
+              "name": null,
+              "components": [
+                {
+                  "id": "fhq9gcCZ0DNwwtue",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.sODZElZQJ8PiIvH1",
+                  "quantity": 1,
+                  "name": "Muroosa Twigs",
+                  "img": "icons/consumables/plants/fern-sword-green.webp",
+                  "tags": [],
+                  "resourcePath": ""
+                }
+              ]
+            },
+            {
+              "id": "t79qEgjDIPMGkX8h",
+              "name": null,
+              "components": [
+                {
+                  "id": "SQx6OapbtFf2vw5t",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.kUzQnkx0GC5NTHsv",
+                  "quantity": 1,
+                  "name": "Gillyweed",
+                  "img": "icons/consumables/plants/basil-herb-green.webp",
+                  "tags": [],
+                  "resourcePath": ""
+                }
+              ]
+            }
+          ],
+          "ingredientsInspection": "0",
+          "macroName": "",
+          "products": [
+            {
+              "id": "Z4b3utpCQCI9P873",
+              "name": null,
+              "components": [
+                {
+                  "id": "aoS9irF48VemrYdM",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-herbalism.Item.i1n6hdw1K0gxGwTQ",
+                  "quantity": 1,
+                  "name": "Quenching Pilther",
+                  "img": "icons/consumables/potions/bottle-conical-corked-labeled-shell-cyan.webp",
+                  "tags": [],
+                  "resourcePath": ""
+                }
+              ]
+            }
+          ],
+          "productInspection": "0",
+          "sound": "",
+          "time": null,
+          "require": "",
+          "expression": "",
+          "modifierList": [],
+          "checks": [],
+          "type": "",
+          "requiresStation": false,
+          "requiresMinigame": false,
+          "minigame": {
+            "difficulty": "normal",
+            "canFail": false,
+            "perfect": ""
+          },
+          "timedMode": "",
+          "queueKey": ""
+        }
+      },
+      "_id": "ARnAzgUwQlCWrN8o",
+      "system": {
+        "htmlFields": [
+          "text.content"
+        ],
+        "text": {
+          "format": 1
+        }
+      },
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "sort": 0,
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.370",
+        "systemId": "dnd5e",
+        "systemVersion": "5.2.5",
+        "lastModifiedBy": "TJvRiTp7BS0avsVp",
+        "createdTime": 1794239342728,
+        "modifiedTime": 1794239342728
+      },
+      "_key": "!journal.pages!PAOPwBTXtfBFEHEp.ARnAzgUwQlCWrN8o"
+    },
+    {
+      "name": "Willowshade Oil",
+      "type": "mastercrafted.mastercrafted",
+      "text": {
+        "content": "<p>A dark blue oil can be extracted from the fruit of the Willowshade plant. A creature can use its action to apply the oil to another creature that has been petrified for less than 1 minute, causing the petrified condition on that creature to end at the start of what would be that creature’s next turn.</p>",
+        "format": 1
+      },
+      "ownership": {
+        "default": -1,
+        "rqEOxzm9pWZpMhH4": -1,
+        "QAdDWUaUNK09Iq3x": -1,
+        "GOvXOrkQSzey7yZ5": -1,
+        "56XvGn6U8R9S2vlW": -1,
+        "HHjDcylTiWQFDEbS": -1
+      },
+      "flags": {
+        "mastercrafted": {
+          "img": "icons/consumables/potions/potion-bottle-corked-labeled-green.webp",
+          "ingredients": [
+            {
+              "id": "VFuEDBkmAsXxT2mJ",
+              "name": null,
+              "components": [
+                {
+                  "id": "zE2NLxcaE87L6DU7",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.SMab7kAjsYtxGJKJ",
+                  "quantity": 1,
+                  "name": "Willowshade Fruit",
+                  "img": "icons/consumables/fruit/date-ripe-red-green.webp",
+                  "tags": [],
+                  "resourcePath": ""
+                }
+              ]
+            }
+          ],
+          "ingredientsInspection": "0",
+          "macroName": "",
+          "products": [
+            {
+              "id": "FJjuOyqxbrJ5k5IE",
+              "name": null,
+              "components": [
+                {
+                  "id": "RDZSsCx5f1xp085H",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-herbalism.Item.MdAPFn646hCxbo7D",
+                  "quantity": 1,
+                  "name": "Willowshade Oil",
+                  "img": "icons/consumables/potions/potion-bottle-corked-labeled-green.webp",
+                  "tags": [],
+                  "resourcePath": ""
+                }
+              ]
+            }
+          ],
+          "productInspection": "0",
+          "sound": "",
+          "time": null,
+          "require": "",
+          "expression": "",
+          "modifierList": [],
+          "checks": [],
+          "type": "",
+          "requiresStation": false,
+          "requiresMinigame": false,
+          "minigame": {
+            "difficulty": "normal",
+            "canFail": false,
+            "perfect": ""
+          },
+          "timedMode": "",
+          "queueKey": ""
+        }
+      },
+      "_id": "Wi0OKK1upyW9iSV9",
+      "system": {
+        "htmlFields": [
+          "text.content"
+        ],
+        "text": {
+          "format": 1
+        }
+      },
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "sort": 0,
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.370",
+        "systemId": "dnd5e",
+        "systemVersion": "5.2.5",
+        "lastModifiedBy": "TJvRiTp7BS0avsVp",
+        "createdTime": 1794239342728,
+        "modifiedTime": 1794239342728
+      },
+      "_key": "!journal.pages!PAOPwBTXtfBFEHEp.Wi0OKK1upyW9iSV9"
+    }
+  ],
+  "flags": {
+    "mastercrafted": {
+      "description": "Contains recipes for crafting common potions and salves",
+      "img": "icons/sundries/books/book-symbol-leaf-gold-green.webp",
+      "ingredientsInspection": "1",
+      "productInspection": "1",
+      "sound": "",
+      "require": "Herbalism Kit",
+      "macroName": "",
+      "time": null,
+      "timedMode": "parallel",
+      "queueKey": ""
+    }
+  },
+  "categories": [],
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.370",
+    "systemId": "dnd5e",
+    "systemVersion": "5.2.5",
+    "createdTime": 1773072018153,
+    "modifiedTime": 1794239343026,
+    "lastModifiedBy": "TJvRiTp7BS0avsVp"
+  },
+  "_id": "PAOPwBTXtfBFEHEp",
+  "sort": 100000,
+  "_key": "!journal!PAOPwBTXtfBFEHEp"
+}

@@ -1,0 +1,185 @@
+{
+  "name": "Harvesting: Beast",
+  "img": "icons/svg/d20-grey.svg",
+  "formula": "1d18",
+  "replacement": true,
+  "displayRoll": true,
+  "results": [
+    {
+      "type": "document",
+      "documentUuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.RfEtP6JEextGAzXp",
+      "name": "Eagle Claw",
+      "img": "icons/creatures/claws/claw-talons-glowing-orange.webp",
+      "weight": 3,
+      "range": [
+        1,
+        3
+      ],
+      "flags": {
+        "gatherer": {
+          "quantity": "1d8"
+        }
+      },
+      "_id": "oyMWhoIfVqqaxLQk",
+      "description": "",
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": 1794240301393,
+        "modifiedTime": 1794240301393,
+        "lastModifiedBy": "TJvRiTp7BS0avsVp",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!FjFFHe8DvNcW4kC8.oyMWhoIfVqqaxLQk"
+    },
+    {
+      "type": "document",
+      "documentUuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.uze4YQECLH6snte7",
+      "name": "Quipper Scale",
+      "img": "icons/commodities/leather/scales-blue-white.webp",
+      "weight": 4,
+      "range": [
+        4,
+        7
+      ],
+      "flags": {
+        "gatherer": {
+          "quantity": "1d4"
+        }
+      },
+      "_id": "Xe0IJ4It1v4ivYgJ",
+      "description": "",
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": 1794240301393,
+        "modifiedTime": 1794240301393,
+        "lastModifiedBy": "TJvRiTp7BS0avsVp",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!FjFFHe8DvNcW4kC8.Xe0IJ4It1v4ivYgJ"
+    },
+    {
+      "type": "document",
+      "documentUuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.knMK5veO989xYVz1",
+      "name": "Giant Wolf Spider Hair",
+      "img": "icons/creatures/invertebrates/spider-mandibles-brown.webp",
+      "weight": 4,
+      "range": [
+        8,
+        11
+      ],
+      "flags": {
+        "gatherer": {
+          "quantity": "1d8"
+        }
+      },
+      "_id": "kkAQVp0hIlHQi4Dc",
+      "description": "",
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": 1794240301393,
+        "modifiedTime": 1794240301393,
+        "lastModifiedBy": "TJvRiTp7BS0avsVp",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!FjFFHe8DvNcW4kC8.kkAQVp0hIlHQi4Dc"
+    },
+    {
+      "type": "document",
+      "documentUuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.ilkJBDWZgW16fnmd",
+      "name": "Serpent's Venom",
+      "img": "icons/magic/acid/dissolve-pool-bubbles.webp",
+      "weight": 4,
+      "range": [
+        12,
+        15
+      ],
+      "flags": {
+        "gatherer": {
+          "quantity": "1d3"
+        }
+      },
+      "_id": "E4cuDCNIu069Yhnk",
+      "description": "",
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": 1794240301393,
+        "modifiedTime": 1794240301393,
+        "lastModifiedBy": "TJvRiTp7BS0avsVp",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!FjFFHe8DvNcW4kC8.E4cuDCNIu069Yhnk"
+    },
+    {
+      "type": "document",
+      "documentUuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.TZvJoNp0bBKYoxON",
+      "name": "Amphibian Saliva",
+      "img": "icons/creatures/amphibians/treefrog-underneath-teal.webp",
+      "weight": 3,
+      "range": [
+        16,
+        18
+      ],
+      "flags": {
+        "gatherer": {
+          "quantity": "1d4"
+        }
+      },
+      "_id": "wuthwyFCmzDRS6Za",
+      "description": "",
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": 1794240301393,
+        "modifiedTime": 1794240301393,
+        "lastModifiedBy": "TJvRiTp7BS0avsVp",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!FjFFHe8DvNcW4kC8.wuthwyFCmzDRS6Za"
+    }
+  ],
+  "_id": "FjFFHe8DvNcW4kC8",
+  "description": "",
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TJvRiTp7BS0avsVp": 3
+  },
+  "flags": {},
+  "_stats": {
+    "coreVersion": "14.370",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": 1794240301393,
+    "modifiedTime": 1794240301398,
+    "lastModifiedBy": "TJvRiTp7BS0avsVp",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!FjFFHe8DvNcW4kC8"
+}

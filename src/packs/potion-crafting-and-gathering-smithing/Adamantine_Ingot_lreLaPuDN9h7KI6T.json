@@ -1,0 +1,56 @@
+{
+  "_id": "lreLaPuDN9h7KI6T",
+  "name": "Adamantine Ingot",
+  "img": "icons/commodities/metal/ingot-stamped-steel-purple.webp",
+  "type": "loot",
+  "system": {
+    "weight": {
+      "value": 5,
+      "units": "lb"
+    },
+    "price": {
+      "value": 500,
+      "denomination": "gp"
+    },
+    "description": {
+      "value": "",
+      "chat": ""
+    },
+    "identifier": "",
+    "source": {
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "rarities": [],
+    "properties": [],
+    "type": {
+      "value": "",
+      "subtype": ""
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "coreVersion": "14.370",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": 1794241945877,
+    "modifiedTime": 1794241945877,
+    "lastModifiedBy": "packsbuilder0000",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!lreLaPuDN9h7KI6T"
+}

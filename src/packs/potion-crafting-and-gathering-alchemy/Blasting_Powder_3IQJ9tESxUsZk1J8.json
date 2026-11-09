@@ -1,0 +1,83 @@
+{
+  "name": "Blasting Powder",
+  "type": "loot",
+  "img": "icons/commodities/materials/powder-black.webp",
+  "effects": [],
+  "flags": {
+    "ddbimporter": {
+      "dndbeyond": {
+        "type": "Adventuring Gear",
+        "isConsumable": false,
+        "isContainer": false,
+        "isCustomItem": false,
+        "isHomebrew": false,
+        "isMonkWeapon": false,
+        "isPack": false,
+        "levelInfusionGranted": null,
+        "tags": [],
+        "sources": [
+          {
+            "sourceId": 59,
+            "pageNumber": null,
+            "sourceType": 1
+          }
+        ],
+        "stackable": true
+      },
+      "id": 0,
+      "entityTypeId": 0,
+      "definitionEntityTypeId": 2103445194,
+      "definitionId": 311,
+      "originalName": "Blasting Powder",
+      "version": "3.1.15"
+    },
+    "magicitems": {
+      "enabled": false
+    },
+    "midi-qol": {
+      "onUseMacroName": ""
+    },
+    "cf": {
+      "id": "temp_fpw2dzvgdrp"
+    }
+  },
+  "system": {
+    "description": {
+      "value": "<p>This volatile alchemical powder comes in a small pouch. When ignited by an open flame or a fuse, the powder explodes. Each creature within 5 feet of the exploding pouch must make a DC 13 Dexterity saving throw, taking 3d6 bludgeoning damage on a failed save, or half as much damage on a successful one.</p>\n<p>A character can bind multiple pouches of blasting powder together so they explode at the same time. Each additional pouch increases the damage by 1d6 (maximum of 10d6) and the blast radius by 5 feet (maximum of 20 feet).</p>",
+      "chat": "",
+      "unidentified": "Gear"
+    },
+    "source": "Explorer's Guide to Wildemount",
+    "quantity": 1,
+    "weight": {
+      "value": 0,
+      "units": "lb"
+    },
+    "price": 0,
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "",
+    "identified": true,
+    "cost": 0,
+    "baseItem": "",
+    "toolType": ""
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.0.3",
+    "coreVersion": "14.370",
+    "createdTime": 1665861010222,
+    "modifiedTime": 1794239342924,
+    "lastModifiedBy": "packsbuilder0000",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "3IQJ9tESxUsZk1J8",
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!3IQJ9tESxUsZk1J8"
+}

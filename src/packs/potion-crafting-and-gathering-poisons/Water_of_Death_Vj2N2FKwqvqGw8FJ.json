@@ -1,0 +1,130 @@
+{
+  "name": "Water of Death",
+  "type": "consumable",
+  "img": "icons/consumables/drinks/alcohol-spirits-bottle-green.webp",
+  "system": {
+    "description": {
+      "value": "<p>This liquid looks, smells and tastes like water. Even the majority of alchemic and magical tests on this liquid cannot distinguish it from water. Only the spell Identify cast as a level 7 or higher or detailed alchemic test, lasting 24 hours and costing 300 gp, will reveal that this liquid is actually one of the deadliest poisons in existence.</p><p>Made from rare mushrooms, herbs and poisons, any contact with this poison forces the subjected creature to make a DC 20 Constitution saving throw. On a failed save, the creature suffers blindness and deafness for 48 hours and becomes too riddled with pain to move for 24 hours. The creature's maximum hit points is permanently reduced by 2d12 and receives 7d10 poison damage after 12 hours. On a successful save, the creature's maximum hit points is reduced by 2d12 hit points and has blurred vision and muffled hearing for 24 hours.</p><p>The lost maximum hit points can only be restored by healing after ingesting a Potion of Vitality or by a Greater Restoration or a Regenerate spell cast at level 8 or higher.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Potion Brewing and Ingredient Gathering for DnD 5e",
+    "quantity": 1,
+    "weight": {
+      "value": 0,
+      "units": "lb"
+    },
+    "price": 0,
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "veryRare",
+    "identified": true,
+    "activation": {
+      "type": "action",
+      "cost": 1,
+      "condition": ""
+    },
+    "duration": {
+      "value": null,
+      "units": ""
+    },
+    "target": {
+      "value": null,
+      "width": null,
+      "units": "",
+      "type": ""
+    },
+    "range": {
+      "value": null,
+      "long": null,
+      "units": ""
+    },
+    "uses": {
+      "value": 1,
+      "max": "1",
+      "per": "charges",
+      "recovery": "",
+      "autoDestroy": true
+    },
+    "consume": {
+      "type": "",
+      "target": "",
+      "amount": null
+    },
+    "ability": "",
+    "actionType": "save",
+    "attackBonus": 0,
+    "chatFlavor": "",
+    "critical": {
+      "threshold": null,
+      "damage": ""
+    },
+    "damage": {
+      "parts": [],
+      "versatile": ""
+    },
+    "formula": "",
+    "save": {
+      "ability": "con",
+      "dc": 20,
+      "scaling": "flat"
+    },
+    "consumableType": "poison"
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "magicitems": {
+      "enabled": false,
+      "equipped": false,
+      "attuned": false,
+      "charges": "0",
+      "chargeType": "c1",
+      "destroy": false,
+      "destroyFlavorText": "reaches 0 charges: it crumbles into ashes and is destroyed.",
+      "rechargeable": false,
+      "recharge": "0",
+      "rechargeType": "t1",
+      "rechargeUnit": "r1",
+      "sorting": "l"
+    },
+    "rest-recovery": {
+      "data": {
+        "recovery": {
+          "enabled": false
+        }
+      }
+    },
+    "midi-qol": {
+      "effectActivation": false
+    },
+    "midiProperties": {
+      "nodam": false,
+      "fulldam": false,
+      "halfdam": false,
+      "rollOther": false,
+      "critOther": false,
+      "magicdam": false,
+      "magiceffect": false,
+      "concentration": false,
+      "toggleEffect": false
+    }
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.0.3",
+    "coreVersion": "14.370",
+    "createdTime": 1666048415295,
+    "modifiedTime": 1794239342974,
+    "lastModifiedBy": "packsbuilder0000",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "Vj2N2FKwqvqGw8FJ",
+  "_key": "!items!Vj2N2FKwqvqGw8FJ"
+}

@@ -1,0 +1,185 @@
+{
+  "name": "Blight Spores",
+  "type": "consumable",
+  "img": "icons/consumables/mushrooms/umbontae-hot-pink.webp",
+  "system": {
+    "description": {
+      "value": "<p>Bright red spores from Blightshrooms, growing exclusively in caves on the Blightshore and the Eastern side of the Penumbra Range. A creature exposed to a large dose of the spores must succeed a DC 16 Constitution saving throw or be Poisoned for 3d6 hours. While the creature is poisoned, it experiences the same effects as if it were under the Confusion spell. A restoration spell or a dose of antitoxin can remove the effect.</p><section id=\"secret-VKt9eHzE7huhPojb\" class=\"secret\"><p>Rarity: Rare (DC 20)</p><p>Gathering: Herbalism Kit (DC 15)</p><p>Quantity: 1d6 doses</p><p>Location: Blightshore Caves</p><p>Uses (2): Blight Ichor, Devil's Powder</p></section>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Potion Brewing and Ingredient Gathering for DnD 5e",
+    "quantity": 1,
+    "weight": {
+      "value": 0,
+      "units": "lb"
+    },
+    "price": 50,
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "rare",
+    "identified": true,
+    "activation": {
+      "type": "action",
+      "cost": 1,
+      "condition": ""
+    },
+    "duration": {
+      "value": null,
+      "units": ""
+    },
+    "target": {
+      "value": null,
+      "width": null,
+      "units": "",
+      "type": ""
+    },
+    "range": {
+      "value": null,
+      "long": null,
+      "units": ""
+    },
+    "uses": {
+      "value": null,
+      "max": "",
+      "per": "",
+      "recovery": "",
+      "autoDestroy": false
+    },
+    "consume": {
+      "type": "",
+      "target": "",
+      "amount": null
+    },
+    "ability": "",
+    "actionType": "save",
+    "attackBonus": 0,
+    "chatFlavor": "",
+    "critical": {
+      "threshold": null,
+      "damage": ""
+    },
+    "damage": {
+      "parts": [],
+      "versatile": ""
+    },
+    "formula": "",
+    "save": {
+      "ability": "con",
+      "dc": 16,
+      "scaling": "flat"
+    },
+    "consumableType": "poison"
+  },
+  "effects": [
+    {
+      "origin": "Item.hJMFlmpilZ8LpVKE",
+      "duration": {
+        "value": null,
+        "units": "seconds",
+        "expiry": null,
+        "expired": false
+      },
+      "disabled": false,
+      "_id": "si035Qn8x6pwtjzz",
+      "tint": "#ffffff",
+      "transfer": false,
+      "flags": {
+        "dae": {
+          "selfTarget": false,
+          "selfTargetAlways": false,
+          "stackable": "none",
+          "durationExpression": "3d6*3600",
+          "macroRepeat": "none",
+          "specialDuration": []
+        },
+        "core": {
+          "statusId": ""
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Blight Spore Poison",
+      "img": "icons/consumables/mushrooms/umbontae-hot-pink.webp",
+      "type": "base",
+      "system": {
+        "changes": []
+      },
+      "description": "",
+      "statuses": [],
+      "sort": 0,
+      "start": null,
+      "showIcon": 1,
+      "folder": null,
+      "_key": "!items.effects!hJMFlmpilZ8LpVKE.si035Qn8x6pwtjzz"
+    }
+  ],
+  "flags": {
+    "rest-recovery": {
+      "data": {
+        "consumable": {
+          "enabled": false,
+          "dayWorth": false
+        },
+        "recovery": {
+          "enabled": false
+        }
+      }
+    },
+    "magicitems": {
+      "enabled": false,
+      "equipped": false,
+      "attuned": false,
+      "charges": "0",
+      "chargeType": "c1",
+      "destroy": false,
+      "destroyFlavorText": "reaches 0 charges: it crumbles into ashes and is destroyed.",
+      "rechargeable": false,
+      "recharge": "0",
+      "rechargeType": "t1",
+      "rechargeUnit": "r1",
+      "sorting": "l"
+    },
+    "midi-qol": {
+      "effectActivation": false
+    },
+    "midiProperties": {
+      "nodam": false,
+      "fulldam": false,
+      "halfdam": false,
+      "rollOther": false,
+      "critOther": false,
+      "magicdam": false,
+      "magiceffect": false,
+      "concentration": false,
+      "toggleEffect": false
+    }
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.0.3",
+    "coreVersion": "14.370",
+    "createdTime": 1665864107575,
+    "modifiedTime": 1794239342896,
+    "lastModifiedBy": "packsbuilder0000",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "hJMFlmpilZ8LpVKE",
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!hJMFlmpilZ8LpVKE"
+}

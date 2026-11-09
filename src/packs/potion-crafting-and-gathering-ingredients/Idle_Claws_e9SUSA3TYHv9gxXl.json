@@ -1,0 +1,43 @@
+{
+  "name": "Idle Claws",
+  "type": "loot",
+  "img": "icons/commodities/biological/tentacle-yellow.webp",
+  "system": {
+    "description": {
+      "value": "<p>This extremely long lived and slow growing creeper vine is named after its equally long lasting flowers. They form large clusters of claw shaped, slightly fluorescent, turquoise flowers that seem to flower for years. It's been theorized that this plant experiences time at a different rate than the rest of the world. Due to its slow growth, it produces very few seed pods each year. These pods are sought after for their use in potions.</p><section id=\"secret-3qAdJtOYgXb9TzPK\" class=\"secret\"><p>Rarity: Rare (DC 20)</p><p>Gathering: Herbalism Kit (DC 15)</p><p>Quantity: 1d4 pods</p><p>Location: Hills, Mountains</p><p>Uses (3): Potion of Speed, Directed Delay, Potion of Protection</p></section>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Potion Brewing and Ingredient Gathering for DnD 5e",
+    "quantity": 1,
+    "weight": {
+      "value": 0,
+      "units": "lb"
+    },
+    "price": 50,
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "rare",
+    "identified": true
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.0.3",
+    "coreVersion": "14.370",
+    "createdTime": 1665865761243,
+    "modifiedTime": 1794239342895,
+    "lastModifiedBy": "packsbuilder0000",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "e9SUSA3TYHv9gxXl",
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!e9SUSA3TYHv9gxXl"
+}

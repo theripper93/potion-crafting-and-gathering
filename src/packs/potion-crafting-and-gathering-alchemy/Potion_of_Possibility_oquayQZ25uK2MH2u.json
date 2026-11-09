@@ -1,0 +1,168 @@
+{
+  "name": "Potion of Possibility",
+  "type": "consumable",
+  "system": {
+    "description": {
+      "value": "<p>When you drink this clear potion, you gain two Fragments of Possibility, each of which looks like a Tiny, grayish bead of energy that follows you around, staying within 1 foot of you at all times. Each fragment lasts for 8 hours or until used.</p>\n<p>When you make an attack roll, an ability check, or a saving throw, you can expend your fragment to roll an additional d20 and choose which of the d20s to use. Alternatively, when an attack roll is made against you, you can expend your fragment to roll a d20 and choose which of the d20s to use, the one you rolled or the one the attacker rolled.</p>\n<p>If the original d20 roll has advantage or disadvantage, you roll your d20 after advantage or disadvantage has been applied to the original roll.</p>\n<p>While you have one or more Fragments of Possibility from this potion, you can't gain another Fragment of Possibility from any source.</p>\n<p> </p>",
+      "chat": "",
+      "unidentified": "Potion"
+    },
+    "source": "Explorer's Guide to Wildemount pg 268",
+    "quantity": 1,
+    "weight": {
+      "value": 0,
+      "units": "lb"
+    },
+    "price": 0,
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "veryRare",
+    "identified": true,
+    "activation": {
+      "type": "action",
+      "cost": 1,
+      "condition": ""
+    },
+    "duration": {
+      "value": 8,
+      "units": "hour"
+    },
+    "target": {
+      "value": null,
+      "width": null,
+      "units": "",
+      "type": ""
+    },
+    "range": {
+      "value": null,
+      "long": null,
+      "units": ""
+    },
+    "uses": {
+      "value": 1,
+      "max": "1",
+      "per": "charges",
+      "recovery": "",
+      "autoDestroy": true,
+      "autoUse": false
+    },
+    "consume": {
+      "type": "",
+      "target": "",
+      "amount": null
+    },
+    "ability": "",
+    "actionType": "other",
+    "attackBonus": 0,
+    "chatFlavor": "",
+    "critical": {
+      "threshold": null,
+      "damage": ""
+    },
+    "damage": {
+      "parts": [],
+      "versatile": ""
+    },
+    "formula": "",
+    "save": {
+      "ability": "",
+      "dc": null,
+      "scaling": "spell"
+    },
+    "consumableType": "potion",
+    "baseItem": "",
+    "toolType": "",
+    "properties": {
+      "mgc": true
+    }
+  },
+  "flags": {
+    "ddbimporter": {
+      "dndbeyond": {
+        "type": "Potion",
+        "filterType": "Potion",
+        "isConsumable": false,
+        "isContainer": false,
+        "isCustomItem": false,
+        "isHomebrew": false,
+        "isMonkWeapon": false,
+        "isPack": false,
+        "levelInfusionGranted": null,
+        "tags": [],
+        "sources": [
+          {
+            "sourceId": 59,
+            "pageNumber": 268,
+            "sourceType": 1
+          }
+        ],
+        "stackable": true
+      },
+      "id": 0,
+      "entityTypeId": 0,
+      "definitionEntityTypeId": 112130694,
+      "definitionId": 1434355,
+      "originalName": "Potion of Possibility",
+      "version": "3.1.17"
+    },
+    "magicitems": {
+      "enabled": true,
+      "charges": "0",
+      "chargeType": "c1",
+      "rechargeable": false,
+      "recharge": "0",
+      "rechargeType": "t2",
+      "rechargeUnit": "r1",
+      "destroy": false,
+      "destroyCheck": "d1",
+      "spells": {},
+      "feats": {},
+      "tables": {},
+      "equipped": false,
+      "attuned": false,
+      "destroyFlavorText": "reaches 0 charges: it crumbles into ashes and is destroyed.",
+      "sorting": "l"
+    },
+    "rest-recovery": {
+      "data": {
+        "recovery": {
+          "enabled": false
+        }
+      }
+    },
+    "midi-qol": {
+      "effectActivation": false
+    },
+    "midiProperties": {
+      "nodam": false,
+      "fulldam": false,
+      "halfdam": false,
+      "rollOther": false,
+      "critOther": false,
+      "magicdam": false,
+      "magiceffect": false,
+      "concentration": false,
+      "toggleEffect": false
+    }
+  },
+  "effects": [],
+  "img": "icons/consumables/potions/potion-tube-corked-glowing-red.webp",
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.0.3",
+    "coreVersion": "14.370",
+    "createdTime": 1666013362502,
+    "modifiedTime": 1794239342935,
+    "lastModifiedBy": "packsbuilder0000",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "oquayQZ25uK2MH2u",
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!oquayQZ25uK2MH2u"
+}

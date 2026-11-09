@@ -1,0 +1,179 @@
+{
+  "name": "Poison, Basic (vial)",
+  "type": "consumable",
+  "img": "icons/consumables/potions/potion-tube-corked-bubbling-green.webp",
+  "effects": [],
+  "flags": {
+    "ddbimporter": {
+      "dndbeyond": {
+        "type": "Poison",
+        "isConsumable": false,
+        "isContainer": false,
+        "isCustomItem": false,
+        "isHomebrew": false,
+        "isMonkWeapon": false,
+        "isPack": false,
+        "levelInfusionGranted": null,
+        "tags": [
+          "Damage",
+          "Utility",
+          "Combat",
+          "Consumable"
+        ],
+        "sources": [
+          {
+            "sourceId": 1,
+            "pageNumber": null,
+            "sourceType": 2
+          },
+          {
+            "sourceId": 2,
+            "pageNumber": null,
+            "sourceType": 1
+          }
+        ],
+        "stackable": true
+      },
+      "id": 0,
+      "entityTypeId": 0,
+      "definitionEntityTypeId": 2103445194,
+      "definitionId": 68,
+      "originalName": "Poison, Basic (vial)",
+      "version": "3.1.15"
+    },
+    "magicitems": {
+      "enabled": false,
+      "equipped": false,
+      "attuned": false,
+      "charges": "0",
+      "chargeType": "c1",
+      "destroy": false,
+      "destroyFlavorText": "reaches 0 charges: it crumbles into ashes and is destroyed.",
+      "rechargeable": false,
+      "recharge": "0",
+      "rechargeType": "t1",
+      "rechargeUnit": "r1",
+      "sorting": "l"
+    },
+    "midi-qol": {
+      "onUseMacroName": "",
+      "fumbleThreshold": null,
+      "effectActivation": false
+    },
+    "cf": {
+      "id": "temp_jyjlt36rcoa"
+    },
+    "rest-recovery": {
+      "data": {
+        "consumable": {
+          "enabled": false,
+          "dayWorth": false
+        },
+        "recovery": {
+          "enabled": false
+        }
+      }
+    },
+    "midiProperties": {
+      "nodam": false,
+      "fulldam": false,
+      "halfdam": false,
+      "rollOther": false,
+      "critOther": false,
+      "magicdam": false,
+      "magiceffect": false,
+      "concentration": false,
+      "toggleEffect": false
+    }
+  },
+  "system": {
+    "description": {
+      "value": "<p>You can use the poison in this vial to coat one slashing or piercing weapon or up to three pieces of ammunition. Applying the poison takes an action. A creature hit by the @Compendium[dnd5e.rules.w7eitkpD7QQTB6j0]{poisoned} weapon or ammunition must make a DC 10 Constitution saving throw or take 1d4 poison damage. Once applied, the poison retains potency for 1 minute before drying.</p>",
+      "chat": "",
+      "unidentified": "Gear"
+    },
+    "source": "Basic Rules, Player's Handbook",
+    "quantity": 1,
+    "weight": {
+      "value": 0,
+      "units": "lb"
+    },
+    "price": 100,
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "",
+    "identified": true,
+    "activation": {
+      "type": "action",
+      "cost": 1,
+      "condition": ""
+    },
+    "duration": {
+      "value": 1,
+      "units": "minute"
+    },
+    "target": {
+      "value": null,
+      "width": null,
+      "units": "",
+      "type": ""
+    },
+    "range": {
+      "value": null,
+      "long": null,
+      "units": ""
+    },
+    "uses": {
+      "value": 1,
+      "max": "1",
+      "per": "charges",
+      "recovery": "",
+      "autoDestroy": true,
+      "autoUse": false
+    },
+    "consume": {
+      "type": "",
+      "target": "",
+      "amount": null
+    },
+    "ability": "",
+    "actionType": "rsak",
+    "attackBonus": "0",
+    "chatFlavor": "",
+    "critical": {
+      "threshold": null,
+      "damage": ""
+    },
+    "damage": {
+      "parts": [],
+      "versatile": ""
+    },
+    "formula": "",
+    "save": {
+      "ability": "",
+      "dc": null,
+      "scaling": "spell"
+    },
+    "consumableType": "potion",
+    "baseItem": "",
+    "toolType": ""
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.0.3",
+    "coreVersion": "14.370",
+    "createdTime": 1665861052705,
+    "modifiedTime": 1794239342977,
+    "lastModifiedBy": "packsbuilder0000",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "v4AeMM9MmplrULaL",
+  "_key": "!items!v4AeMM9MmplrULaL"
+}

@@ -1,0 +1,241 @@
+{
+  "name": "Potion of Cold Resistance",
+  "type": "consumable",
+  "system": {
+    "description": {
+      "value": "<p>When you drink this potion, you gain resistance to cold damage for 1 hour.</p>",
+      "chat": "",
+      "unidentified": "Potion"
+    },
+    "source": "Basic Rules, Player's Handbook",
+    "quantity": 1,
+    "weight": {
+      "value": 0,
+      "units": "lb"
+    },
+    "price": 0,
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "uncommon",
+    "identified": true,
+    "activation": {
+      "type": "action",
+      "cost": 1,
+      "condition": ""
+    },
+    "duration": {
+      "value": 1,
+      "units": "hour"
+    },
+    "target": {
+      "value": 1,
+      "width": null,
+      "units": "",
+      "type": "creature"
+    },
+    "range": {
+      "value": null,
+      "long": null,
+      "units": "touch"
+    },
+    "uses": {
+      "value": 1,
+      "max": "1",
+      "per": "charges",
+      "recovery": "",
+      "autoDestroy": true,
+      "autoUse": true
+    },
+    "consume": {
+      "type": "",
+      "target": "",
+      "amount": null
+    },
+    "ability": "",
+    "actionType": "other",
+    "attackBonus": 0,
+    "chatFlavor": "",
+    "critical": {
+      "threshold": null,
+      "damage": ""
+    },
+    "damage": {
+      "parts": [],
+      "versatile": ""
+    },
+    "formula": "",
+    "save": {
+      "ability": "",
+      "dc": null,
+      "scaling": "spell"
+    },
+    "consumableType": "potion",
+    "baseItem": "",
+    "toolType": "",
+    "properties": {
+      "mgc": true
+    }
+  },
+  "flags": {
+    "ddbimporter": {
+      "dndbeyond": {
+        "type": "Potion",
+        "filterType": "Potion",
+        "isConsumable": true,
+        "isContainer": false,
+        "isCustomItem": false,
+        "isHomebrew": false,
+        "isMonkWeapon": false,
+        "isPack": false,
+        "levelInfusionGranted": null,
+        "tags": [
+          "Warding",
+          "Consumable"
+        ],
+        "sources": [
+          {
+            "sourceId": 1,
+            "pageNumber": null,
+            "sourceType": 2
+          },
+          {
+            "sourceId": 2,
+            "pageNumber": null,
+            "sourceType": 1
+          }
+        ],
+        "stackable": true
+      },
+      "id": 0,
+      "entityTypeId": 0,
+      "definitionEntityTypeId": 112130694,
+      "definitionId": 5137,
+      "originalName": "Potion of Cold Resistance",
+      "version": "3.1.17",
+      "effectsApplied": true
+    },
+    "magicitems": {
+      "enabled": true,
+      "charges": "0",
+      "chargeType": "c1",
+      "rechargeable": false,
+      "recharge": "0",
+      "rechargeType": "t2",
+      "rechargeUnit": "r1",
+      "destroy": false,
+      "destroyCheck": "d1",
+      "spells": {},
+      "feats": {},
+      "tables": {},
+      "equipped": false,
+      "attuned": false,
+      "destroyFlavorText": "reaches 0 charges: it crumbles into ashes and is destroyed.",
+      "sorting": "l"
+    },
+    "dae": {
+      "alwaysActive": false,
+      "activeEquipped": false,
+      "transfer": false
+    },
+    "rest-recovery": {
+      "data": {
+        "recovery": {
+          "enabled": false
+        }
+      }
+    },
+    "midi-qol": {
+      "effectActivation": false
+    },
+    "midiProperties": {
+      "nodam": false,
+      "fulldam": false,
+      "halfdam": false,
+      "rollOther": false,
+      "critOther": false,
+      "magicdam": false,
+      "magiceffect": false,
+      "concentration": false,
+      "toggleEffect": false
+    }
+  },
+  "effects": [
+    {
+      "duration": {
+        "value": 3600,
+        "units": "seconds",
+        "expiry": "turnStart",
+        "expired": false
+      },
+      "tint": "#ffffff",
+      "transfer": false,
+      "disabled": false,
+      "flags": {
+        "dae": {
+          "transfer": true,
+          "stackable": "none"
+        },
+        "ddbimporter": {
+          "disabled": false,
+          "itemId": 0,
+          "itemEntityTypeId": 0
+        },
+        "midi-qol": {
+          "forceCEOff": true
+        }
+      },
+      "_id": "pfXXUZr2ROHatUPu",
+      "origin": null,
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Potion of Cold Resistance - Consumable Effects",
+      "img": "icons/consumables/potions/bottle-round-corked-yellow.webp",
+      "type": "base",
+      "system": {
+        "changes": [
+          {
+            "key": "system.traits.dr.value",
+            "value": "cold",
+            "priority": 1,
+            "type": "custom"
+          }
+        ]
+      },
+      "description": "",
+      "statuses": [],
+      "sort": 0,
+      "start": null,
+      "showIcon": 1,
+      "folder": null,
+      "_key": "!items.effects!aPRvt8ocEIx90pDC.pfXXUZr2ROHatUPu"
+    }
+  ],
+  "img": "icons/consumables/potions/bottle-round-corked-yellow.webp",
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.0.3",
+    "coreVersion": "14.370",
+    "createdTime": 1666010241439,
+    "modifiedTime": 1794239342933,
+    "lastModifiedBy": "packsbuilder0000",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "aPRvt8ocEIx90pDC",
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!aPRvt8ocEIx90pDC"
+}

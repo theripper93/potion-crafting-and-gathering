@@ -1,0 +1,106 @@
+{
+  "name": "Gathering: Urban Areas",
+  "description": "A random table created from the contents of the Plants Folder.",
+  "results": [
+    {
+      "type": "document",
+      "img": "icons/commodities/flowers/buds-red-green.webp",
+      "weight": 2,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "_id": "ukpBY10OSBJOO0I6",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "2d4"
+          }
+        }
+      },
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Bane Berry",
+      "documentUuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.5eMY7G5AibuPbPAG",
+      "description": "",
+      "_key": "!tables.results!V3Sn8hbdCAz21S9m.ukpBY10OSBJOO0I6"
+    },
+    {
+      "type": "document",
+      "img": "icons/consumables/mushrooms/campanulate-bell-shiny-blue.webp",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "_id": "82CtEzWREbc0zwOe",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "1d12"
+          }
+        }
+      },
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Pixie's Parasol",
+      "documentUuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.WglM0mvztSmJL7Lv",
+      "description": "",
+      "_key": "!tables.results!V3Sn8hbdCAz21S9m.82CtEzWREbc0zwOe"
+    }
+  ],
+  "formula": "1d2",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "better-rolltables": {
+      "tags": "",
+      "table-type": "better",
+      "table-currency-string": "",
+      "loot-amount-key": "",
+      "loot-actor-name": ""
+    },
+    "hidden-tables": {
+      "hidden": false
+    }
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.0.3",
+    "coreVersion": "14.370",
+    "createdTime": 1665933450716,
+    "modifiedTime": 1794239343060,
+    "lastModifiedBy": "packsbuilder0000",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "V3Sn8hbdCAz21S9m",
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!tables!V3Sn8hbdCAz21S9m"
+}

@@ -1,0 +1,304 @@
+{
+  "name": "Gathering: Mountains",
+  "description": "A random table created from the contents of the Plants Folder.",
+  "results": [
+    {
+      "type": "document",
+      "img": "icons/commodities/biological/tentacle-yellow.webp",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "_id": "4YHtVFWVAChKplN5",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "1d4"
+          }
+        }
+      },
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Idle Claws",
+      "documentUuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.e9SUSA3TYHv9gxXl",
+      "description": "",
+      "_key": "!tables.results!ixlXDcsu8V9mhqEG.4YHtVFWVAChKplN5"
+    },
+    {
+      "type": "document",
+      "img": "icons/magic/lightning/barrier-wall-shield-gray.webp",
+      "weight": 2,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "_id": "hZeN2PpoVMjm5s0y",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "1d6"
+          }
+        }
+      },
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Lightning Moss",
+      "documentUuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.MkUnBgXfcD2QwUwN",
+      "description": "",
+      "_key": "!tables.results!ixlXDcsu8V9mhqEG.hZeN2PpoVMjm5s0y"
+    },
+    {
+      "type": "document",
+      "img": "icons/consumables/mushrooms/campanulate-bell-shiny-blue.webp",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "_id": "82CtEzWREbc0zwOe",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "1d12"
+          }
+        }
+      },
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Pixie's Parasol",
+      "documentUuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.WglM0mvztSmJL7Lv",
+      "description": "",
+      "_key": "!tables.results!ixlXDcsu8V9mhqEG.82CtEzWREbc0zwOe"
+    },
+    {
+      "type": "document",
+      "img": "icons/consumables/mushrooms/convex-bolete-brown.webp",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "_id": "T2LkWh4tbpYOalo5",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "1d8"
+          }
+        }
+      },
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Rainbow Mushroom",
+      "documentUuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.O0eT04b4AYt7qvr9",
+      "description": "",
+      "_key": "!tables.results!ixlXDcsu8V9mhqEG.T2LkWh4tbpYOalo5"
+    },
+    {
+      "type": "document",
+      "img": "icons/consumables/plants/thorned-dried-stem-brown.webp",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "_id": "m70PwSxL8N7jQW3U",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "1d6"
+          }
+        }
+      },
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Silverthorn",
+      "documentUuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.IvLk97TKspuqU1eX",
+      "description": "",
+      "_key": "!tables.results!ixlXDcsu8V9mhqEG.m70PwSxL8N7jQW3U"
+    },
+    {
+      "type": "document",
+      "img": "icons/consumables/plants/thorned-curled-vine-green.webp",
+      "weight": 2,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "_id": "hbkj4scS4LrmfDyr",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "2d4"
+          }
+        }
+      },
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Singing Nettle",
+      "documentUuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.ZxuFEfo7SerKMoMR",
+      "description": "",
+      "_key": "!tables.results!ixlXDcsu8V9mhqEG.hbkj4scS4LrmfDyr"
+    },
+    {
+      "type": "document",
+      "img": "icons/consumables/plants/grass-curcled-bundle-green.webp",
+      "weight": 2,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "_id": "tgfwR7EqoxHAq0Ka",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "2d4"
+          }
+        }
+      },
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Sourgrass",
+      "documentUuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.5SU6evgnA2ocp13r",
+      "description": "",
+      "_key": "!tables.results!ixlXDcsu8V9mhqEG.tgfwR7EqoxHAq0Ka"
+    },
+    {
+      "type": "document",
+      "img": "icons/commodities/flowers/strawberry-single-white.webp",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "_id": "P2w9ol9hahPkfjFq",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "1d4"
+          }
+        }
+      },
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Wolfsbane",
+      "documentUuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.Ag50fstRwIuLyrhr",
+      "description": "",
+      "_key": "!tables.results!ixlXDcsu8V9mhqEG.P2w9ol9hahPkfjFq"
+    }
+  ],
+  "formula": "1d8",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "better-rolltables": {
+      "tags": "",
+      "table-type": "better",
+      "table-currency-string": "",
+      "loot-amount-key": "",
+      "loot-actor-name": ""
+    },
+    "hidden-tables": {
+      "hidden": false
+    }
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.0.3",
+    "coreVersion": "14.370",
+    "createdTime": 1665933450716,
+    "modifiedTime": 1794239343061,
+    "lastModifiedBy": "packsbuilder0000",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "ixlXDcsu8V9mhqEG",
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!tables!ixlXDcsu8V9mhqEG"
+}

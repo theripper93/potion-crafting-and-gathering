@@ -1,0 +1,91 @@
+{
+  "name": "Grenade, Smoke",
+  "type": "loot",
+  "img": "icons/weapons/thrown/grenade-round.webp",
+  "effects": [],
+  "flags": {
+    "ddbimporter": {
+      "dndbeyond": {
+        "type": "Adventuring Gear",
+        "isConsumable": false,
+        "isContainer": false,
+        "isCustomItem": false,
+        "isHomebrew": false,
+        "isMonkWeapon": false,
+        "isPack": false,
+        "levelInfusionGranted": null,
+        "tags": [
+          "Control",
+          "Combat"
+        ],
+        "sources": [
+          {
+            "sourceId": 1,
+            "pageNumber": null,
+            "sourceType": 2
+          },
+          {
+            "sourceId": 2,
+            "pageNumber": null,
+            "sourceType": 1
+          }
+        ],
+        "stackable": true
+      },
+      "id": 0,
+      "entityTypeId": 0,
+      "definitionEntityTypeId": 2103445194,
+      "definitionId": 202,
+      "originalName": "Grenade, Smoke",
+      "version": "3.1.15"
+    },
+    "magicitems": {
+      "enabled": false
+    },
+    "midi-qol": {
+      "onUseMacroName": ""
+    },
+    "cf": {
+      "id": "temp_fpw2dzvgdrp"
+    }
+  },
+  "system": {
+    "description": {
+      "value": "<p>As an action, a character can throw a grenade at a point up to 60 feet away. With a grenade launcher, the character can propel the grenade up to 120 <span class=\"No-Break\">feet away.</span></p>\n<p>One round after a <span class=\"Serif-Character-Style_Bold-Serif\">smoke grenade</span> lands, it emits a cloud of smoke that creates a heavily obscured area in a 20-foot radius. A moderate wind (at least 10 miles per hour) disperses the smoke in 4 rounds; a strong wind (20 or more miles per hour) disperses it i<span class=\"No-Break\">n 1 round.</span></p>",
+      "chat": "",
+      "unidentified": "Gear"
+    },
+    "source": "Basic Rules, Player's Handbook",
+    "quantity": 1,
+    "weight": {
+      "value": 2,
+      "units": "lb"
+    },
+    "price": 0,
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "",
+    "identified": true,
+    "cost": 0,
+    "baseItem": "",
+    "toolType": ""
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.0.3",
+    "coreVersion": "14.370",
+    "createdTime": 1665861020997,
+    "modifiedTime": 1794239342935,
+    "lastModifiedBy": "packsbuilder0000",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "raNDRyDaI8fg01G3",
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!raNDRyDaI8fg01G3"
+}

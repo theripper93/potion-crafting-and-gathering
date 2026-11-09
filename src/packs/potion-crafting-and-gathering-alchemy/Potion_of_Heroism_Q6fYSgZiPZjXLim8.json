@@ -1,0 +1,251 @@
+{
+  "name": "Potion of Heroism",
+  "type": "consumable",
+  "system": {
+    "description": {
+      "value": "<p>For 1 hour after drinking it, you gain 10 temporary hit points that last for 1 hour. For the same duration, you are under the effect of the <strong></strong><strong>bless</strong> spell (no concentration required). This blue potion bubbles and steams as if boiling.</p>",
+      "chat": "",
+      "unidentified": "Potion"
+    },
+    "source": "Basic Rules, Player's Handbook pg 188",
+    "quantity": 1,
+    "weight": {
+      "value": 0,
+      "units": "lb"
+    },
+    "price": 0,
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "rare",
+    "identified": true,
+    "activation": {
+      "type": "action",
+      "cost": 1,
+      "condition": ""
+    },
+    "duration": {
+      "value": 1,
+      "units": "hour"
+    },
+    "target": {
+      "value": null,
+      "width": null,
+      "units": "",
+      "type": ""
+    },
+    "range": {
+      "value": null,
+      "long": null,
+      "units": ""
+    },
+    "uses": {
+      "value": 1,
+      "max": "1",
+      "per": "charges",
+      "recovery": "",
+      "autoDestroy": true,
+      "autoUse": false
+    },
+    "consume": {
+      "type": "",
+      "target": "",
+      "amount": null
+    },
+    "ability": "",
+    "actionType": "heal",
+    "attackBonus": 0,
+    "chatFlavor": "",
+    "critical": {
+      "threshold": null,
+      "damage": ""
+    },
+    "damage": {
+      "parts": [],
+      "versatile": ""
+    },
+    "formula": "",
+    "save": {
+      "ability": "",
+      "dc": null,
+      "scaling": "spell"
+    },
+    "consumableType": "potion",
+    "baseItem": "",
+    "toolType": "",
+    "properties": {
+      "mgc": true
+    }
+  },
+  "flags": {
+    "ddbimporter": {
+      "dndbeyond": {
+        "type": "Potion",
+        "filterType": "Potion",
+        "isConsumable": true,
+        "isContainer": false,
+        "isCustomItem": false,
+        "isHomebrew": false,
+        "isMonkWeapon": false,
+        "isPack": false,
+        "levelInfusionGranted": null,
+        "tags": [
+          "Healing",
+          "Buff",
+          "Consumable"
+        ],
+        "sources": [
+          {
+            "sourceId": 1,
+            "pageNumber": null,
+            "sourceType": 2
+          },
+          {
+            "sourceId": 2,
+            "pageNumber": 188,
+            "sourceType": 1
+          }
+        ],
+        "stackable": true
+      },
+      "id": 0,
+      "entityTypeId": 0,
+      "definitionEntityTypeId": 112130694,
+      "definitionId": 4709,
+      "originalName": "Potion of Heroism",
+      "version": "3.1.17"
+    },
+    "magicitems": {
+      "enabled": true,
+      "charges": "0",
+      "chargeType": "c1",
+      "rechargeable": false,
+      "recharge": "0",
+      "rechargeType": "t2",
+      "rechargeUnit": "r1",
+      "destroy": false,
+      "destroyCheck": "d1",
+      "spells": {},
+      "feats": {},
+      "tables": {},
+      "equipped": false,
+      "attuned": false,
+      "destroyFlavorText": "reaches 0 charges: it crumbles into ashes and is destroyed.",
+      "sorting": "l"
+    },
+    "midi-qol": {
+      "onUseMacroName": "",
+      "effectActivation": false
+    },
+    "rest-recovery": {
+      "data": {
+        "recovery": {
+          "enabled": false
+        }
+      }
+    },
+    "midiProperties": {
+      "nodam": false,
+      "fulldam": false,
+      "halfdam": false,
+      "rollOther": false,
+      "critOther": false,
+      "magicdam": false,
+      "magiceffect": false,
+      "concentration": false,
+      "toggleEffect": false
+    }
+  },
+  "effects": [
+    {
+      "_id": "r25a16ze0cCMgeBV",
+      "flags": {
+        "dae": {
+          "stackable": false,
+          "transfer": false,
+          "macroRepeat": "none"
+        },
+        "ActiveAuras": {
+          "isAura": false,
+          "ignoreSelf": false,
+          "hidden": false,
+          "height": false,
+          "alignment": "",
+          "type": "",
+          "aura": "None",
+          "radius": null,
+          "save": "",
+          "savedc": null,
+          "hostile": false,
+          "onlyOnce": false,
+          "time": "None"
+        }
+      },
+      "disabled": false,
+      "duration": {
+        "value": 3600,
+        "units": "seconds",
+        "expiry": "turnStart",
+        "expired": false
+      },
+      "origin": "Item.C8IK7UYrTxcOC8Bx",
+      "tint": "#ffffff",
+      "transfer": false,
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Potion of Heroism",
+      "img": "systems/dnd5e/icons/items/potions/unique-6.jpg",
+      "type": "base",
+      "system": {
+        "changes": [
+          {
+            "key": "system.bonuses.All-Attacks",
+            "value": "+1d4",
+            "priority": 20,
+            "type": "custom"
+          },
+          {
+            "key": "system.bonuses.abilities.check",
+            "value": "+1d4",
+            "priority": 20,
+            "type": "add"
+          }
+        ]
+      },
+      "description": "",
+      "statuses": [],
+      "sort": 0,
+      "start": null,
+      "showIcon": 1,
+      "folder": null,
+      "_key": "!items.effects!Q6fYSgZiPZjXLim8.r25a16ze0cCMgeBV"
+    }
+  ],
+  "img": "icons/consumables/potions/potion-bottle-corked-fancy-orange.webp",
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.0.3",
+    "coreVersion": "14.370",
+    "createdTime": 1666010238981,
+    "modifiedTime": 1794239342930,
+    "lastModifiedBy": "packsbuilder0000",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "Q6fYSgZiPZjXLim8",
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!Q6fYSgZiPZjXLim8"
+}

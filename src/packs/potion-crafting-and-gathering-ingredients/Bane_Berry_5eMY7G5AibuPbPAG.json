@@ -1,0 +1,43 @@
+{
+  "name": "Bane Berry",
+  "type": "loot",
+  "img": "icons/commodities/flowers/buds-red-green.webp",
+  "system": {
+    "description": {
+      "value": "<p>These trees form clusters of small, densely packed, red and white berries without ever flowering. Though they taste delicious, they are toxic and even deadly to children. Due to these trees growing well at the edges of cities, these trees kill dozens of children each year. It's thought that they are a creation of Cyric, Beshaba or Loviatar.</p><section id=\"secret-FZFL4rWFJGEa3ulU\" class=\"secret\"><p>Rarity: Uncommon (DC 15)</p><p>Gathering: Herbalism Kit (DC 15)</p><p>Quantity: 2d4 berries</p><p>Location: Urban areas</p><p>Uses (3): Bane Berry extract, Potion of Poison, Common Herbicide</p></section>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Potion Brewing and Ingredient Gathering for DnD 5e",
+    "quantity": 1,
+    "weight": {
+      "value": 0,
+      "units": "lb"
+    },
+    "price": 10,
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "uncommon",
+    "identified": true
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.0.3",
+    "coreVersion": "14.370",
+    "createdTime": 1665862028532,
+    "modifiedTime": 1794239342889,
+    "lastModifiedBy": "packsbuilder0000",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "5eMY7G5AibuPbPAG",
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!5eMY7G5AibuPbPAG"
+}

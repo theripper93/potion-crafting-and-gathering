@@ -1,0 +1,43 @@
+{
+  "name": "Bloodroot",
+  "type": "loot",
+  "img": "icons/consumables/plants/thorned-dried-stem-red.webp",
+  "system": {
+    "description": {
+      "value": "<p>On first glance, these roots look a lot like purple carrots, but upon being cut or broke ooze a bloodred liquid. If processed properly, this can be used as a long lasting dye or even food colouring. However, improper preparation can instead result in skin irritation or food poisoning.</p><section id=\"secret-GdwA1PmD8CORnwat\" class=\"secret\"><p>Rarity: Uncommon (DC 15)</p><p>Gathering: Herbalism Kit (DC 10)</p><p>Quantity: 1d8 roots</p><p>Location: Grassland, Savanah</p><p>Uses (2): Dracula's Essence, Fake Blood</p></section>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Potion Brewing and Ingredient Gathering for DnD 5e",
+    "quantity": 1,
+    "weight": {
+      "value": 0,
+      "units": "lb"
+    },
+    "price": 10,
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "uncommon",
+    "identified": true
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.0.3",
+    "coreVersion": "14.370",
+    "createdTime": 1665793707937,
+    "modifiedTime": 1794239342893,
+    "lastModifiedBy": "packsbuilder0000",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "S9WUHdPbBP3XPpJO",
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!S9WUHdPbBP3XPpJO"
+}

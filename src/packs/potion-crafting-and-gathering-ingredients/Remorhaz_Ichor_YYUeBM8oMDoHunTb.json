@@ -1,0 +1,43 @@
+{
+  "name": "Remorhaz Ichor",
+  "type": "loot",
+  "img": "icons/creatures/slimes/bubbling-purple.webp",
+  "system": {
+    "description": {
+      "value": "<section id=\"secret-AkoaYyAyQLCWIGq7\" class=\"secret\"><p>Rarity: Rare (DC 20)</p><p>Harvesting: Alchemist's Kit (DC 20)</p><p>Quantity: 1d6, 3d6 vials</p><p>Creature condition: Dead or incapacitated</p><p>Uses (1): Superior Potion of Mana</p></section>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Potion Brewing and Ingredient Gathering for DnD 5e",
+    "quantity": 1,
+    "weight": {
+      "value": 0,
+      "units": "lb"
+    },
+    "price": 50,
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "rare",
+    "identified": true
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.0.3",
+    "coreVersion": "14.370",
+    "createdTime": 1665871092565,
+    "modifiedTime": 1794239342894,
+    "lastModifiedBy": "packsbuilder0000",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "YYUeBM8oMDoHunTb",
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!YYUeBM8oMDoHunTb"
+}

@@ -1,0 +1,73 @@
+{
+  "name": "Gathering: Blightshore",
+  "description": "A random table created from the contents of the Plants Folder.",
+  "results": [
+    {
+      "type": "document",
+      "img": "icons/consumables/mushrooms/umbontae-hot-pink.webp",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "_id": "lMd47cTmoEXC7SdM",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "1d6"
+          }
+        }
+      },
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Blight Spores",
+      "documentUuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.hJMFlmpilZ8LpVKE",
+      "description": "",
+      "_key": "!tables.results!Rk8vgXLFmzJ9wc3u.lMd47cTmoEXC7SdM"
+    }
+  ],
+  "formula": "1d1",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "better-rolltables": {
+      "tags": "",
+      "table-type": "better",
+      "table-currency-string": "",
+      "loot-amount-key": "",
+      "loot-actor-name": ""
+    },
+    "hidden-tables": {
+      "hidden": false
+    }
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.0.3",
+    "coreVersion": "14.370",
+    "createdTime": 1665933450716,
+    "modifiedTime": 1794239343060,
+    "lastModifiedBy": "packsbuilder0000",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "Rk8vgXLFmzJ9wc3u",
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!tables!Rk8vgXLFmzJ9wc3u"
+}

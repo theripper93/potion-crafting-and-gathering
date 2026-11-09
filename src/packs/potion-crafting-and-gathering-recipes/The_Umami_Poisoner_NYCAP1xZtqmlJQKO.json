@@ -1,0 +1,1142 @@
+{
+  "name": "The Umami Poisoner",
+  "ownership": {
+    "default": 0,
+    "rqEOxzm9pWZpMhH4": 0,
+    "QAdDWUaUNK09Iq3x": 0,
+    "GOvXOrkQSzey7yZ5": 0,
+    "56XvGn6U8R9S2vlW": 0,
+    "HHjDcylTiWQFDEbS": 0,
+    "qr1zQ11jcfurK31V": 3
+  },
+  "folder": "jR5pShGKb03nvGBP",
+  "pages": [
+    {
+      "name": "Burnt Orthur Fumes",
+      "type": "mastercrafted.mastercrafted",
+      "text": {
+        "content": "<p>A creature subjected to this poison must succeed on a DC 13 Constitution saving throw or take 10 (3d6) poison damage, and must repeat the saving throw at the start of each of its turns. On each successive failed save, the character takes 3 (1d6) poison damage. After three successful saves, the poison ends.</p>",
+        "format": 1
+      },
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "mastercrafted": {
+          "img": "icons/consumables/potions/bottle-bulb-empty-glass.webp",
+          "ingredients": [
+            {
+              "id": "GbxTjAjEUKqKHEbk",
+              "name": null,
+              "components": [
+                {
+                  "id": "NgQZsAkOZEGKJezq",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.f9G9joeHSclgyXNL",
+                  "quantity": 1,
+                  "name": "Ashblossom",
+                  "img": "icons/commodities/flowers/clover-purple.webp",
+                  "tags": [],
+                  "resourcePath": ""
+                }
+              ]
+            },
+            {
+              "id": "zYFCzWMV5zsZKhFn",
+              "name": null,
+              "components": [
+                {
+                  "id": "MulV6lnVYX4iCy1V",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.XsePsNGNXztjGhqt",
+                  "quantity": 1,
+                  "name": "Moonstalker",
+                  "img": "icons/commodities/flowers/dandelion-pod-blue.webp",
+                  "tags": [],
+                  "resourcePath": ""
+                }
+              ]
+            }
+          ],
+          "ingredientsInspection": "0",
+          "macroName": "",
+          "products": [
+            {
+              "id": "RdVibjYSCUpRgEVm",
+              "name": null,
+              "components": [
+                {
+                  "id": "TleSMOGrjCHWQgZp",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-poisons.Item.HTPPWRpqCtxroDYd",
+                  "quantity": 1,
+                  "name": "Burnt Othur Fumes (Inhaled)",
+                  "img": "icons/consumables/potions/bottle-bulb-empty-glass.webp",
+                  "tags": [],
+                  "resourcePath": ""
+                }
+              ]
+            }
+          ],
+          "productInspection": "0",
+          "sound": "",
+          "time": null,
+          "require": "",
+          "expression": "",
+          "modifierList": [],
+          "checks": [],
+          "type": "",
+          "requiresStation": false,
+          "requiresMinigame": false,
+          "minigame": {
+            "difficulty": "normal",
+            "canFail": false,
+            "perfect": ""
+          },
+          "timedMode": "",
+          "queueKey": ""
+        }
+      },
+      "_id": "K4oRqJs1SLqhcJzG",
+      "system": {
+        "htmlFields": [
+          "text.content"
+        ],
+        "text": {
+          "format": 1
+        }
+      },
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "sort": 0,
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.370",
+        "systemId": "dnd5e",
+        "systemVersion": "5.2.5",
+        "lastModifiedBy": "TJvRiTp7BS0avsVp",
+        "createdTime": 1794239342709,
+        "modifiedTime": 1794239342709
+      },
+      "_key": "!journal.pages!NYCAP1xZtqmlJQKO.K4oRqJs1SLqhcJzG"
+    },
+    {
+      "name": "Devil's Powder",
+      "type": "mastercrafted.mastercrafted",
+      "text": {
+        "content": "<p>A hyper fine, red powder with a faintly smoky aroma, this powder is to be blown into the face of the target before dispersing harmlessly into the air. The target has to make a DC 18 Charisma Saving throw. On a failed save, the target experiences an altered version of reality where it perceives the world as a hellscape inhabited by foul creatures and becomes extremely vulnerable to intimidation, aggressive forms of persuasion and deception for 1 hour. On a successful save, the target becomes slightly paranoid and skittish.</p>",
+        "format": 1
+      },
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "mastercrafted": {
+          "img": "icons/consumables/food/salt-seasoning-spice-pink.webp",
+          "ingredients": [
+            {
+              "id": "bEX1834QOALeyDJ1",
+              "name": null,
+              "components": [
+                {
+                  "id": "fnCcxLxJDxoebUla",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.2Q5eat8DBOS7E7Xf",
+                  "quantity": 1,
+                  "name": "Angel's Trumpet",
+                  "img": "icons/commodities/flowers/lily-grey-orange.webp",
+                  "tags": [],
+                  "resourcePath": ""
+                }
+              ]
+            },
+            {
+              "id": "XxF1GqTZGvhmTZlp",
+              "name": null,
+              "components": [
+                {
+                  "id": "AagpYgNNwiT6DgV5",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.hJMFlmpilZ8LpVKE",
+                  "quantity": 1,
+                  "name": "Blight Spores",
+                  "img": "icons/consumables/mushrooms/umbontae-hot-pink.webp",
+                  "tags": [],
+                  "resourcePath": ""
+                }
+              ]
+            }
+          ],
+          "ingredientsInspection": "0",
+          "macroName": "",
+          "products": [
+            {
+              "id": "6L5Iq1Q3YttvQpxo",
+              "name": null,
+              "components": [
+                {
+                  "id": "tW1HBE4cIzpt0XAD",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-poisons.Item.OlHm63B7QG6Yk8EZ",
+                  "quantity": 1,
+                  "name": "Devil's Powder",
+                  "img": "icons/consumables/food/salt-seasoning-spice-pink.webp",
+                  "tags": [],
+                  "resourcePath": ""
+                }
+              ]
+            }
+          ],
+          "productInspection": "0",
+          "sound": "",
+          "time": null,
+          "require": "",
+          "expression": "",
+          "modifierList": [],
+          "checks": [],
+          "type": "",
+          "requiresStation": false,
+          "requiresMinigame": false,
+          "minigame": {
+            "difficulty": "normal",
+            "canFail": false,
+            "perfect": ""
+          },
+          "timedMode": "",
+          "queueKey": ""
+        }
+      },
+      "_id": "7LcPZ93HTVxeqkRP",
+      "system": {
+        "htmlFields": [
+          "text.content"
+        ],
+        "text": {
+          "format": 1
+        }
+      },
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "sort": 0,
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.370",
+        "systemId": "dnd5e",
+        "systemVersion": "5.2.5",
+        "lastModifiedBy": "TJvRiTp7BS0avsVp",
+        "createdTime": 1794239342710,
+        "modifiedTime": 1794239342710
+      },
+      "_key": "!journal.pages!NYCAP1xZtqmlJQKO.7LcPZ93HTVxeqkRP"
+    },
+    {
+      "name": "Dracula's Essence",
+      "type": "mastercrafted.mastercrafted",
+      "text": {
+        "content": "<p>To be kept in a crystal vial, this poison looks like a small vial of fresh blood, but is always in motion, seemingly trying to escape it vessel. Upon opening the vial, it falls still and turns into a rust coloured liquid. When this potion is drank or comes in contact with the blood vial an injury or injection, it forces the target to make a DC 18 Constitution saving throw. On a success, the target retches the entire content of its stomach and takes 2d8 poison damage.</p>",
+        "format": 1
+      },
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "mastercrafted": {
+          "img": "icons/consumables/potions/vial-cork-red.webp",
+          "ingredients": [
+            {
+              "id": "wsOhZHQB9C7txhsh",
+              "name": null,
+              "components": [
+                {
+                  "id": "YIkR0Ihy5uFsEKps",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.0Lapqd8kzpmS0R0z",
+                  "quantity": 1,
+                  "name": "Dracula's Blood",
+                  "img": "icons/skills/wounds/blood-cells-vessel-red-orange.webp",
+                  "tags": [],
+                  "resourcePath": ""
+                }
+              ]
+            },
+            {
+              "id": "SiaFU1w4bvnuSi3E",
+              "name": null,
+              "components": [
+                {
+                  "id": "MJh9X0Gcogjp2ja8",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.FL1DOoV7dEZ4YmsH",
+                  "quantity": 1,
+                  "name": "Dragon's Blood",
+                  "img": "icons/skills/wounds/blood-drip-droplet-red.webp",
+                  "tags": [],
+                  "resourcePath": ""
+                }
+              ]
+            },
+            {
+              "id": "JZBBbpfyFXZUGLZW",
+              "name": null,
+              "components": [
+                {
+                  "id": "UatjqzMrKTHij7rr",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.S9WUHdPbBP3XPpJO",
+                  "quantity": 1,
+                  "name": "Bloodroot",
+                  "img": "icons/consumables/plants/thorned-dried-stem-red.webp",
+                  "tags": [],
+                  "resourcePath": ""
+                }
+              ]
+            },
+            {
+              "id": "w273zglb50FubRYi",
+              "name": null,
+              "components": [
+                {
+                  "id": "4QehpxpfRsUZYm2w",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.PesWw8Dh27Q7hqCB",
+                  "quantity": 1,
+                  "name": "Red Amanita Mushroom",
+                  "img": "icons/consumables/mushrooms/helm-red-white.webp",
+                  "tags": [],
+                  "resourcePath": ""
+                }
+              ]
+            }
+          ],
+          "ingredientsInspection": "0",
+          "macroName": "",
+          "products": [
+            {
+              "id": "GxkydpFtKYuoW1sI",
+              "name": null,
+              "components": [
+                {
+                  "id": "CzbhWYbebezyQmI5",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-poisons.Item.mguaqQrM3KQ3JTLi",
+                  "quantity": 1,
+                  "name": "Dracula's Essence",
+                  "img": "icons/consumables/potions/vial-cork-red.webp",
+                  "tags": [],
+                  "resourcePath": ""
+                }
+              ]
+            }
+          ],
+          "productInspection": "0",
+          "sound": "",
+          "time": null,
+          "require": "",
+          "expression": "",
+          "modifierList": [],
+          "checks": [],
+          "type": "",
+          "requiresStation": false,
+          "requiresMinigame": false,
+          "minigame": {
+            "difficulty": "normal",
+            "canFail": false,
+            "perfect": ""
+          },
+          "timedMode": "",
+          "queueKey": ""
+        }
+      },
+      "_id": "Mn19pjNXzZMY3IcD",
+      "system": {
+        "htmlFields": [
+          "text.content"
+        ],
+        "text": {
+          "format": 1
+        }
+      },
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "sort": 0,
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.370",
+        "systemId": "dnd5e",
+        "systemVersion": "5.2.5",
+        "lastModifiedBy": "TJvRiTp7BS0avsVp",
+        "createdTime": 1794239342710,
+        "modifiedTime": 1794239342710
+      },
+      "_key": "!journal.pages!NYCAP1xZtqmlJQKO.Mn19pjNXzZMY3IcD"
+    },
+    {
+      "name": "Drow Poison",
+      "type": "mastercrafted.mastercrafted",
+      "text": {
+        "content": "<p>This poison is typically made only by the drow, and only in a place far removed from sunlight. A creature subjected to this poison must succeed on a DC 13 Constitution saving throw or be Poisoned for 1 hour. If the saving throw fails by 5 or more, the creature is also Unconscious while Poisoned in this way. The creature wakes up if it takes damage or if another creature takes an action to shake it awake.</p>",
+        "format": 1
+      },
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "mastercrafted": {
+          "img": "icons/consumables/potions/potion-tube-corked-bubbling-green.webp",
+          "ingredients": [
+            {
+              "id": "9zq7paBxo9YtIMHe",
+              "name": null,
+              "components": [
+                {
+                  "id": "TJvpMeoTfpoRWLRF",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.yCtZ2e5lV2ehnECa",
+                  "quantity": 1,
+                  "name": "Drider Poison",
+                  "img": "icons/skills/toxins/bottle-open-vapors-pink.webp",
+                  "tags": [],
+                  "resourcePath": ""
+                }
+              ]
+            },
+            {
+              "id": "yIWC9zLGpD98E5Ta",
+              "name": null,
+              "components": [
+                {
+                  "id": "5axSbetJqlX2YxS0",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.B6DIfwy19Ts5ikHU",
+                  "quantity": 1,
+                  "name": "Mandrake Root",
+                  "img": "icons/consumables/vegetable/root-potato-radish-white.webp",
+                  "tags": [],
+                  "resourcePath": ""
+                }
+              ]
+            }
+          ],
+          "ingredientsInspection": "0",
+          "macroName": "",
+          "products": [
+            {
+              "id": "DEYsancCOPcA1hC9",
+              "name": null,
+              "components": [
+                {
+                  "id": "WXIYGlhzRFxCrAZy",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-poisons.Item.21ziji4bYhVhTJkQ",
+                  "quantity": 1,
+                  "name": "Drow Poison (Injury)",
+                  "img": "icons/consumables/potions/potion-tube-corked-bubbling-green.webp",
+                  "tags": [],
+                  "resourcePath": ""
+                }
+              ]
+            }
+          ],
+          "productInspection": "0",
+          "sound": "",
+          "time": null,
+          "require": "",
+          "expression": "",
+          "modifierList": [],
+          "checks": [],
+          "type": "",
+          "requiresStation": false,
+          "requiresMinigame": false,
+          "minigame": {
+            "difficulty": "normal",
+            "canFail": false,
+            "perfect": ""
+          },
+          "timedMode": "",
+          "queueKey": ""
+        }
+      },
+      "_id": "NKdDChjib9dniGla",
+      "system": {
+        "htmlFields": [
+          "text.content"
+        ],
+        "text": {
+          "format": 1
+        }
+      },
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "sort": 0,
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.370",
+        "systemId": "dnd5e",
+        "systemVersion": "5.2.5",
+        "lastModifiedBy": "TJvRiTp7BS0avsVp",
+        "createdTime": 1794239342710,
+        "modifiedTime": 1794239342710
+      },
+      "_key": "!journal.pages!NYCAP1xZtqmlJQKO.NKdDChjib9dniGla"
+    },
+    {
+      "name": "Essence of Ether",
+      "type": "mastercrafted.mastercrafted",
+      "text": {
+        "content": "<p>A creature subjected to this poison must succeed on a DC 15 Constitution saving throw or become poisoned for 8 hours. The poisoned creature is unconscious. The creature wakes up if it takes damage or if another creature takes an action to shake it awake.</p>",
+        "format": 1
+      },
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "mastercrafted": {
+          "img": "icons/commodities/materials/bowl-powder-grey.webp",
+          "ingredients": [
+            {
+              "id": "41WB22psLZt6sC96",
+              "name": null,
+              "components": [
+                {
+                  "id": "AHVT2lJLfcPPbKch",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.PpZ5ysLIab4PNiCL",
+                  "quantity": 1,
+                  "name": "Nightshade",
+                  "img": "icons/consumables/plants/leaf-pink.webp",
+                  "tags": [],
+                  "resourcePath": ""
+                }
+              ]
+            },
+            {
+              "id": "FElTNffk6n0F0sId",
+              "name": null,
+              "components": [
+                {
+                  "id": "YIrOqpZ1ajivZEcT",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.B6DIfwy19Ts5ikHU",
+                  "quantity": 1,
+                  "name": "Mandrake Root",
+                  "img": "icons/consumables/vegetable/root-potato-radish-white.webp",
+                  "tags": [],
+                  "resourcePath": ""
+                }
+              ]
+            }
+          ],
+          "ingredientsInspection": "0",
+          "macroName": "",
+          "products": [
+            {
+              "id": "K501PbROoqPmv4FA",
+              "name": null,
+              "components": [
+                {
+                  "id": "jZLEc4UiZ3PjPTHN",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-poisons.Item.APBEyAEY0D23XRCW",
+                  "quantity": 1,
+                  "name": "Essence of Ether (Inhaled)",
+                  "img": "icons/commodities/materials/bowl-powder-grey.webp",
+                  "tags": [],
+                  "resourcePath": ""
+                }
+              ]
+            }
+          ],
+          "productInspection": "0",
+          "sound": "",
+          "time": null,
+          "require": "",
+          "expression": "",
+          "modifierList": [],
+          "checks": [],
+          "type": "",
+          "requiresStation": false,
+          "requiresMinigame": false,
+          "minigame": {
+            "difficulty": "normal",
+            "canFail": false,
+            "perfect": ""
+          },
+          "timedMode": "",
+          "queueKey": ""
+        }
+      },
+      "_id": "X2kkJ0ysyP8LcCiS",
+      "system": {
+        "htmlFields": [
+          "text.content"
+        ],
+        "text": {
+          "format": 1
+        }
+      },
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "sort": 0,
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.370",
+        "systemId": "dnd5e",
+        "systemVersion": "5.2.5",
+        "lastModifiedBy": "TJvRiTp7BS0avsVp",
+        "createdTime": 1794239342710,
+        "modifiedTime": 1794239342710
+      },
+      "_key": "!journal.pages!NYCAP1xZtqmlJQKO.X2kkJ0ysyP8LcCiS"
+    },
+    {
+      "name": "Magebane",
+      "type": "mastercrafted.mastercrafted",
+      "text": {
+        "content": "<p>This potion looks like red wine but smells like old boots. Upon drinking it, the consumer gains the mage slayer feat for 1 minute.</p>",
+        "format": 1
+      },
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "mastercrafted": {
+          "img": "icons/consumables/drinks/wine-amphora-clay-red.webp",
+          "ingredients": [
+            {
+              "id": "MF6u1rH29kTldgqb",
+              "name": null,
+              "components": [
+                {
+                  "id": "8zVoQJVZvJze6mQT",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.Ag50fstRwIuLyrhr",
+                  "quantity": 1,
+                  "name": "Wolfsbane",
+                  "img": "icons/commodities/flowers/strawberry-single-white.webp",
+                  "tags": [],
+                  "resourcePath": ""
+                }
+              ]
+            },
+            {
+              "id": "QDCASZhMdDooGQPK",
+              "name": null,
+              "components": [
+                {
+                  "id": "9fNbrs0q3aAOv6An",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.yCtZ2e5lV2ehnECa",
+                  "quantity": 1,
+                  "name": "Drider Poison",
+                  "img": "icons/skills/toxins/bottle-open-vapors-pink.webp",
+                  "tags": [],
+                  "resourcePath": ""
+                }
+              ]
+            },
+            {
+              "id": "HE6meiYiqXxHIy4t",
+              "name": null,
+              "components": [
+                {
+                  "id": "xMjU3XIhMS8OkLXw",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.ilkJBDWZgW16fnmd",
+                  "quantity": 1,
+                  "name": "Serpent's Venom",
+                  "img": "icons/magic/acid/dissolve-pool-bubbles.webp",
+                  "tags": [],
+                  "resourcePath": ""
+                }
+              ]
+            }
+          ],
+          "ingredientsInspection": "0",
+          "macroName": "",
+          "products": [
+            {
+              "id": "kL9nIsynabyf1Ozl",
+              "name": null,
+              "components": [
+                {
+                  "id": "qlp489Z35J2DO4bC",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-poisons.Item.i2se49eebXjBOmOT",
+                  "quantity": 1,
+                  "name": "Magebane",
+                  "img": "icons/consumables/drinks/wine-amphora-clay-red.webp",
+                  "tags": [],
+                  "resourcePath": ""
+                }
+              ]
+            }
+          ],
+          "productInspection": "0",
+          "sound": "",
+          "time": null,
+          "require": "",
+          "expression": "",
+          "modifierList": [],
+          "checks": [],
+          "type": "",
+          "requiresStation": false,
+          "requiresMinigame": false,
+          "minigame": {
+            "difficulty": "normal",
+            "canFail": false,
+            "perfect": ""
+          },
+          "timedMode": "",
+          "queueKey": ""
+        }
+      },
+      "_id": "6zZuls0y3GbQvpRc",
+      "system": {
+        "htmlFields": [
+          "text.content"
+        ],
+        "text": {
+          "format": 1
+        }
+      },
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "sort": 0,
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.370",
+        "systemId": "dnd5e",
+        "systemVersion": "5.2.5",
+        "lastModifiedBy": "TJvRiTp7BS0avsVp",
+        "createdTime": 1794239342711,
+        "modifiedTime": 1794239342711
+      },
+      "_key": "!journal.pages!NYCAP1xZtqmlJQKO.6zZuls0y3GbQvpRc"
+    },
+    {
+      "name": "Oil of Taggit",
+      "type": "mastercrafted.mastercrafted",
+      "text": {
+        "content": "<p>A creature subjected to this poison must succeed on a DC 13 Constitution saving throw or become Poisoned for 24 hours. The Poisoned creature is Unconscious. The creature wakes up if it takes damage.</p>",
+        "format": 1
+      },
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "mastercrafted": {
+          "img": "icons/consumables/drinks/tea-jug-gourd-brown.webp",
+          "ingredients": [
+            {
+              "id": "KY7lDmXYReHA5iJ1",
+              "name": null,
+              "components": [
+                {
+                  "id": "YiHA2rFSNVguxpA5",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.BdmLXPQWZ023gdiY",
+                  "quantity": 1,
+                  "name": "Oil (flask)",
+                  "img": "icons/sundries/survival/waterskin-leather-brown.webp",
+                  "tags": [],
+                  "resourcePath": ""
+                }
+              ]
+            },
+            {
+              "id": "1vQckc1VUUwuV0Ks",
+              "name": null,
+              "components": [
+                {
+                  "id": "SSKlfG8o2gpjUKUn",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.Ag50fstRwIuLyrhr",
+                  "quantity": 1,
+                  "name": "Wolfsbane",
+                  "img": "icons/commodities/flowers/strawberry-single-white.webp",
+                  "tags": [],
+                  "resourcePath": ""
+                }
+              ]
+            }
+          ],
+          "ingredientsInspection": "0",
+          "macroName": "",
+          "products": [
+            {
+              "id": "TBiv8GGyTZuvs2g1",
+              "name": null,
+              "components": [
+                {
+                  "id": "Js3eNsDvlReyWNwu",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-poisons.Item.2doouzb9Y9KeO8rT",
+                  "quantity": 1,
+                  "name": "Oil of Taggit (Contact)",
+                  "img": "icons/consumables/drinks/tea-jug-gourd-brown.webp",
+                  "tags": [],
+                  "resourcePath": ""
+                }
+              ]
+            }
+          ],
+          "productInspection": "0",
+          "sound": "",
+          "time": null,
+          "require": "",
+          "expression": "",
+          "modifierList": [],
+          "checks": [],
+          "type": "",
+          "requiresStation": false,
+          "requiresMinigame": false,
+          "minigame": {
+            "difficulty": "normal",
+            "canFail": false,
+            "perfect": ""
+          },
+          "timedMode": "",
+          "queueKey": ""
+        }
+      },
+      "_id": "SXU3Xxqu4Nyt3lou",
+      "system": {
+        "htmlFields": [
+          "text.content"
+        ],
+        "text": {
+          "format": 1
+        }
+      },
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "sort": 0,
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.370",
+        "systemId": "dnd5e",
+        "systemVersion": "5.2.5",
+        "lastModifiedBy": "TJvRiTp7BS0avsVp",
+        "createdTime": 1794239342711,
+        "modifiedTime": 1794239342711
+      },
+      "_key": "!journal.pages!NYCAP1xZtqmlJQKO.SXU3Xxqu4Nyt3lou"
+    },
+    {
+      "name": "Thessaltoxin",
+      "type": "mastercrafted.mastercrafted",
+      "text": {
+        "content": "<p>This poison was first created using blood harvested from the artificer Thessalar. A creature subjected to the poison must succeed on a DC 15 Constitution saving throw or take on a new form as if affected by the polymorph spell. The creature’s new form is a random beast or a creature it has seen within the last 24 hours (as chosen by the DM). This transformation lasts until the end of the target’s next long rest. This effect is not subject to dispel magic or remove curse, but a greater restoration spell restores the creature to its original form.</p>",
+        "format": 1
+      },
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "mastercrafted": {
+          "img": "icons/consumables/potions/bottle-round-corked-orante-red.webp",
+          "ingredients": [
+            {
+              "id": "gcoypoM5tZSslm7p",
+              "name": null,
+              "components": [
+                {
+                  "id": "My4mVYQ9kR6ExHQh",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.0Lapqd8kzpmS0R0z",
+                  "quantity": 1,
+                  "name": "Dracula's Blood",
+                  "img": "icons/skills/wounds/blood-cells-vessel-red-orange.webp",
+                  "tags": [],
+                  "resourcePath": ""
+                }
+              ]
+            },
+            {
+              "id": "hQtF6jCwlOMo2JRK",
+              "name": null,
+              "components": [
+                {
+                  "id": "IeTYZb5xvv2G70O9",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.WeMebyyH2jXTQtTH",
+                  "quantity": 1,
+                  "name": "Black Cap Mushroom",
+                  "img": "icons/consumables/mushrooms/ovate-blue.webp",
+                  "tags": [],
+                  "resourcePath": ""
+                }
+              ]
+            }
+          ],
+          "ingredientsInspection": "0",
+          "macroName": "",
+          "products": [
+            {
+              "id": "h9KKgBmCUr9u5JgU",
+              "name": null,
+              "components": [
+                {
+                  "id": "8DTQveIkLuNDhmek",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-poisons.Item.JJzwN0uJzLRrK5LH",
+                  "quantity": 1,
+                  "name": "Thessaltoxin",
+                  "img": "icons/consumables/potions/bottle-round-corked-orante-red.webp",
+                  "tags": [],
+                  "resourcePath": ""
+                }
+              ]
+            }
+          ],
+          "productInspection": "0",
+          "sound": "",
+          "time": null,
+          "require": "",
+          "expression": "",
+          "modifierList": [],
+          "checks": [],
+          "type": "",
+          "requiresStation": false,
+          "requiresMinigame": false,
+          "minigame": {
+            "difficulty": "normal",
+            "canFail": false,
+            "perfect": ""
+          },
+          "timedMode": "",
+          "queueKey": ""
+        }
+      },
+      "_id": "rj0QOYR0J8YCnhe3",
+      "system": {
+        "htmlFields": [
+          "text.content"
+        ],
+        "text": {
+          "format": 1
+        }
+      },
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "sort": 0,
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.370",
+        "systemId": "dnd5e",
+        "systemVersion": "5.2.5",
+        "lastModifiedBy": "TJvRiTp7BS0avsVp",
+        "createdTime": 1794239342711,
+        "modifiedTime": 1794239342711
+      },
+      "_key": "!journal.pages!NYCAP1xZtqmlJQKO.rj0QOYR0J8YCnhe3"
+    },
+    {
+      "name": "Torpor",
+      "type": "mastercrafted.mastercrafted",
+      "text": {
+        "content": "<p>A creature subjected to this poison must succeed on a DC 15 Constitution saving throw or become poisoned for 4d6 hours. The poisoned creature is Incapacitated.</p>",
+        "format": 1
+      },
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "mastercrafted": {
+          "img": "icons/tools/laboratory/bowl-mixing.webp",
+          "ingredients": [
+            {
+              "id": "d04FkJDbg8OBYaLW",
+              "name": null,
+              "components": [
+                {
+                  "id": "tB9MA5k07zi0KUxQ",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.B6DIfwy19Ts5ikHU",
+                  "quantity": 1,
+                  "name": "Mandrake Root",
+                  "img": "icons/consumables/vegetable/root-potato-radish-white.webp",
+                  "tags": [],
+                  "resourcePath": ""
+                }
+              ]
+            },
+            {
+              "id": "StFBmvrsNQvJF5Zg",
+              "name": null,
+              "components": [
+                {
+                  "id": "GGzERNt7BCDTUEJD",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.MkUnBgXfcD2QwUwN",
+                  "quantity": 1,
+                  "name": "Lightning Moss",
+                  "img": "icons/magic/lightning/barrier-wall-shield-gray.webp",
+                  "tags": [],
+                  "resourcePath": ""
+                }
+              ]
+            }
+          ],
+          "ingredientsInspection": "0",
+          "macroName": "",
+          "products": [
+            {
+              "id": "CM8cFpmXKBosp9Ie",
+              "name": null,
+              "components": [
+                {
+                  "id": "8iCxbMLE9XmT7uMQ",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-poisons.Item.DvsP0UXceEf4uoTa",
+                  "quantity": 1,
+                  "name": "Torpor (Ingested)",
+                  "img": "icons/tools/laboratory/bowl-mixing.webp",
+                  "tags": [],
+                  "resourcePath": ""
+                }
+              ]
+            }
+          ],
+          "productInspection": "0",
+          "sound": "",
+          "time": null,
+          "require": "",
+          "expression": "",
+          "modifierList": [],
+          "checks": [],
+          "type": "",
+          "requiresStation": false,
+          "requiresMinigame": false,
+          "minigame": {
+            "difficulty": "normal",
+            "canFail": false,
+            "perfect": ""
+          },
+          "timedMode": "",
+          "queueKey": ""
+        }
+      },
+      "_id": "6TBoFWq6asyGmxEZ",
+      "system": {
+        "htmlFields": [
+          "text.content"
+        ],
+        "text": {
+          "format": 1
+        }
+      },
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "sort": 0,
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.370",
+        "systemId": "dnd5e",
+        "systemVersion": "5.2.5",
+        "lastModifiedBy": "TJvRiTp7BS0avsVp",
+        "createdTime": 1794239342711,
+        "modifiedTime": 1794239342711
+      },
+      "_key": "!journal.pages!NYCAP1xZtqmlJQKO.6TBoFWq6asyGmxEZ"
+    }
+  ],
+  "flags": {
+    "mastercrafted": {
+      "description": "Contains recipes for creating rare poisons",
+      "img": "icons/sundries/books/book-symbol-skull-grey.webp",
+      "ingredientsInspection": "1",
+      "productInspection": "1",
+      "sound": "",
+      "require": "Poisoner's Kit",
+      "macroName": "",
+      "time": null,
+      "timedMode": "parallel",
+      "queueKey": ""
+    }
+  },
+  "categories": [],
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.370",
+    "systemId": "dnd5e",
+    "systemVersion": "5.2.5",
+    "createdTime": 1773072040248,
+    "modifiedTime": 1794239343025,
+    "lastModifiedBy": "TJvRiTp7BS0avsVp"
+  },
+  "_id": "NYCAP1xZtqmlJQKO",
+  "sort": 0,
+  "_key": "!journal!NYCAP1xZtqmlJQKO"
+}

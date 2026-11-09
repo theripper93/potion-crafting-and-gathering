@@ -1,0 +1,154 @@
+{
+  "name": "Harvesting: Elemental",
+  "img": "icons/svg/d20-grey.svg",
+  "formula": "1d8",
+  "replacement": true,
+  "displayRoll": true,
+  "results": [
+    {
+      "type": "document",
+      "documentUuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.oJHIjX6NgapONg7e",
+      "name": "Air Elemental Wisp",
+      "img": "icons/magic/air/fog-gas-smoke-dense-blue.webp",
+      "weight": 2,
+      "range": [
+        1,
+        2
+      ],
+      "flags": {
+        "gatherer": {
+          "quantity": "1d6"
+        }
+      },
+      "_id": "60qtX1XayOnfV00E",
+      "description": "",
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": 1794240301395,
+        "modifiedTime": 1794240301395,
+        "lastModifiedBy": "TJvRiTp7BS0avsVp",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!JAd9O1R5QLMD7B4n.60qtX1XayOnfV00E"
+    },
+    {
+      "type": "document",
+      "documentUuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.Z3AeLcmiknIMJWI0",
+      "name": "Earth Elemental Pebbles",
+      "img": "icons/magic/earth/projectiles-stone-salvo.webp",
+      "weight": 2,
+      "range": [
+        3,
+        4
+      ],
+      "flags": {
+        "gatherer": {
+          "quantity": "1d6"
+        }
+      },
+      "_id": "TPiTBG0MFwIxFkyC",
+      "description": "",
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": 1794240301395,
+        "modifiedTime": 1794240301395,
+        "lastModifiedBy": "TJvRiTp7BS0avsVp",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!JAd9O1R5QLMD7B4n.TPiTBG0MFwIxFkyC"
+    },
+    {
+      "type": "document",
+      "documentUuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.j97S0KQGurQL55do",
+      "name": "Fire Elemental Embers",
+      "img": "icons/magic/fire/explosion-fireball-small-orange.webp",
+      "weight": 2,
+      "range": [
+        5,
+        6
+      ],
+      "flags": {
+        "gatherer": {
+          "quantity": "1d6"
+        }
+      },
+      "_id": "OyN5oOkOgbejma36",
+      "description": "",
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": 1794240301395,
+        "modifiedTime": 1794240301395,
+        "lastModifiedBy": "TJvRiTp7BS0avsVp",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!JAd9O1R5QLMD7B4n.OyN5oOkOgbejma36"
+    },
+    {
+      "type": "document",
+      "documentUuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.cPEvS5IOvDBuvtxw",
+      "name": "Water Elemental Droplets",
+      "img": "icons/magic/water/orb-ice-opaque.webp",
+      "weight": 2,
+      "range": [
+        7,
+        8
+      ],
+      "flags": {
+        "gatherer": {
+          "quantity": "1d6"
+        }
+      },
+      "_id": "6O8X977DEE1xX2dB",
+      "description": "",
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": 1794240301395,
+        "modifiedTime": 1794240301395,
+        "lastModifiedBy": "TJvRiTp7BS0avsVp",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!JAd9O1R5QLMD7B4n.6O8X977DEE1xX2dB"
+    }
+  ],
+  "_id": "JAd9O1R5QLMD7B4n",
+  "description": "",
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TJvRiTp7BS0avsVp": 3
+  },
+  "flags": {},
+  "_stats": {
+    "coreVersion": "14.370",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": 1794240301395,
+    "modifiedTime": 1794240301398,
+    "lastModifiedBy": "TJvRiTp7BS0avsVp",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!JAd9O1R5QLMD7B4n"
+}

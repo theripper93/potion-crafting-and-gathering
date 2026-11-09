@@ -1,0 +1,43 @@
+{
+  "name": "Fire Peas",
+  "type": "loot",
+  "img": "icons/consumables/vegetable/lima-beans-pod-brown.webp",
+  "system": {
+    "description": {
+      "value": "<p>Though the pale blue flowers of this plant may suggest otherwise, the pea pods of this low shrub are scorchingly spicy and a sought after spice in certain areas of the world.</p><section id=\"secret-NjYPK2wh98GhHlQc\" class=\"secret\"><p>Rarity: Uncommon (DC 15)</p><p>Gathering: Herbalism Kit (DC 15)</p><p>Quantity: 1d6 pods</p><p>Location: Desert, Savanah</p><p>Uses (3): Alchemist's Fire, Lava Paste, Pepper Peppers</p></section>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Potion Brewing and Ingredient Gathering for DnD 5e",
+    "quantity": 1,
+    "weight": {
+      "value": 0,
+      "units": "lb"
+    },
+    "price": 10,
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "uncommon",
+    "identified": true
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.0.3",
+    "coreVersion": "14.370",
+    "createdTime": 1665689703449,
+    "modifiedTime": 1794239342900,
+    "lastModifiedBy": "packsbuilder0000",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "yg1RFBtdR2AfVS5t",
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!yg1RFBtdR2AfVS5t"
+}

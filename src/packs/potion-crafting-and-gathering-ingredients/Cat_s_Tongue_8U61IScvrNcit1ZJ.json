@@ -1,0 +1,121 @@
+{
+  "name": "Cat's Tongue",
+  "type": "consumable",
+  "img": "icons/consumables/plants/mint-dried-green.webp",
+  "system": {
+    "description": {
+      "value": "<p>This mid-sized herbaceous plant has bundles of small, 5 bladed, purple/white flowers that quickly turn and ripen into fig sized pods. The pods have a slightly toxic outer shell revealing an inner fruit that has a tard taste and great nutritional properties.</p><section id=\"secret-YUQ93wLMTMI0Qn8c\" class=\"secret\"><p>Rarity: Common (DC 10)</p><p>Gathering: Herbalism Kit (DC 10)</p><p>Quantity: 2d4 pods</p><p>Location: Grassland, Forests</p><p>Uses (6): Potion of Animal Friendship, Potion of Heroism, Antitoxin, Tea of Refreshment, Potion of Vitality, Potion of Plantspeak</p></section>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Potion Brewing and Ingredient Gathering for DnD 5e",
+    "quantity": 1,
+    "weight": {
+      "value": 0,
+      "units": "lb"
+    },
+    "price": 5,
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "common",
+    "identified": true,
+    "activation": {
+      "type": "action",
+      "cost": 1,
+      "condition": ""
+    },
+    "duration": {
+      "value": null,
+      "units": ""
+    },
+    "target": {
+      "value": null,
+      "width": null,
+      "units": "",
+      "type": ""
+    },
+    "range": {
+      "value": null,
+      "long": null,
+      "units": ""
+    },
+    "uses": {
+      "value": 1,
+      "max": "1",
+      "per": "charges",
+      "recovery": "",
+      "autoDestroy": true
+    },
+    "consume": {
+      "type": "",
+      "target": "",
+      "amount": null
+    },
+    "ability": null,
+    "actionType": "",
+    "attackBonus": 0,
+    "chatFlavor": "",
+    "critical": {
+      "threshold": null,
+      "damage": ""
+    },
+    "damage": {
+      "parts": [],
+      "versatile": ""
+    },
+    "formula": "",
+    "save": {
+      "ability": "",
+      "dc": null,
+      "scaling": "spell"
+    },
+    "consumableType": "food"
+  },
+  "effects": [],
+  "flags": {
+    "rest-recovery": {
+      "data": {
+        "consumable": {
+          "enabled": true,
+          "dayWorth": false,
+          "type": "food"
+        },
+        "recovery": {
+          "enabled": false
+        }
+      }
+    },
+    "magicitems": {
+      "enabled": false,
+      "equipped": false,
+      "attuned": false,
+      "charges": "0",
+      "chargeType": "c1",
+      "destroy": false,
+      "destroyFlavorText": "reaches 0 charges: it crumbles into ashes and is destroyed.",
+      "rechargeable": false,
+      "recharge": "0",
+      "rechargeType": "t1",
+      "rechargeUnit": "r1",
+      "sorting": "l"
+    }
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.0.3",
+    "coreVersion": "14.370",
+    "createdTime": 1665687275263,
+    "modifiedTime": 1794239342889,
+    "lastModifiedBy": "packsbuilder0000",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "8U61IScvrNcit1ZJ",
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!8U61IScvrNcit1ZJ"
+}

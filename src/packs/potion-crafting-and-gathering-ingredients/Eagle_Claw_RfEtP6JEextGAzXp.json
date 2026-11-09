@@ -1,0 +1,43 @@
+{
+  "name": "Eagle Claw",
+  "type": "loot",
+  "img": "icons/creatures/claws/claw-talons-glowing-orange.webp",
+  "system": {
+    "description": {
+      "value": "<section id=\"secret-ZbQturV2MuziQHn9\" class=\"secret\"><p>Rarity: Uncommon (DC 15)</p><p>Harvesting: a Knife (DC 10)</p><p>Quantity: 1d8 claws</p><p>Creature Condition: Dead or Incapacitated</p><p>Uses (1): Potion of Speed</p></section>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Potion Brewing and Ingredient Gathering for DnD 5e",
+    "quantity": 1,
+    "weight": {
+      "value": 0,
+      "units": "lb"
+    },
+    "price": 10,
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "uncommon",
+    "identified": true
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.0.3",
+    "coreVersion": "14.370",
+    "createdTime": 1665869636975,
+    "modifiedTime": 1794239342892,
+    "lastModifiedBy": "packsbuilder0000",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "RfEtP6JEextGAzXp",
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!RfEtP6JEextGAzXp"
+}

@@ -1,0 +1,187 @@
+{
+  "name": "Potion of Plantspeak",
+  "type": "consumable",
+  "img": "icons/consumables/potions/potion-bottle-corked-stopper-yellow.webp",
+  "system": {
+    "description": {
+      "value": "<p>A clear, brown liquid filled with vibrate green twigs and leaves that changes into a pale yellow liquid once opened. Drinking it grants the drinker the ability to communicate with plants for 5 minutes.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Potion Brewing and Ingredient Gathering for DnD 5e",
+    "quantity": 1,
+    "weight": {
+      "value": 0,
+      "units": "lb"
+    },
+    "price": 0,
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "common",
+    "identified": true,
+    "activation": {
+      "type": "action",
+      "cost": 1,
+      "condition": ""
+    },
+    "duration": {
+      "value": null,
+      "units": ""
+    },
+    "target": {
+      "value": null,
+      "width": null,
+      "units": "",
+      "type": ""
+    },
+    "range": {
+      "value": null,
+      "long": null,
+      "units": ""
+    },
+    "uses": {
+      "value": 1,
+      "max": "1",
+      "per": "charges",
+      "recovery": "",
+      "autoDestroy": true
+    },
+    "consume": {
+      "type": "",
+      "target": "",
+      "amount": null
+    },
+    "ability": null,
+    "actionType": "",
+    "attackBonus": 0,
+    "chatFlavor": "",
+    "critical": {
+      "threshold": null,
+      "damage": ""
+    },
+    "damage": {
+      "parts": [],
+      "versatile": ""
+    },
+    "formula": "",
+    "save": {
+      "ability": "",
+      "dc": null,
+      "scaling": "spell"
+    },
+    "consumableType": "potion"
+  },
+  "effects": [
+    {
+      "origin": "Item.oWgxhdYXSWTGjwjo",
+      "duration": {
+        "value": 300,
+        "units": "seconds",
+        "expiry": "turnStart",
+        "expired": false
+      },
+      "disabled": false,
+      "_id": "tqFZh92kLxboAmyk",
+      "tint": "#ffffff",
+      "transfer": false,
+      "flags": {
+        "dae": {
+          "selfTarget": false,
+          "selfTargetAlways": true,
+          "stackable": "none",
+          "durationExpression": "",
+          "macroRepeat": "none",
+          "specialDuration": []
+        },
+        "core": {
+          "statusId": ""
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Speak with Plants",
+      "img": "icons/consumables/plants/leaf-veins-glowing-green.webp",
+      "type": "base",
+      "system": {
+        "changes": []
+      },
+      "description": "",
+      "statuses": [],
+      "sort": 0,
+      "start": null,
+      "showIcon": 1,
+      "folder": null,
+      "_key": "!items.effects!oWgxhdYXSWTGjwjo.tqFZh92kLxboAmyk"
+    }
+  ],
+  "flags": {
+    "rest-recovery": {
+      "data": {
+        "consumable": {
+          "enabled": false,
+          "dayWorth": false
+        },
+        "recovery": {
+          "enabled": false
+        }
+      }
+    },
+    "magicitems": {
+      "enabled": true,
+      "equipped": false,
+      "attuned": false,
+      "charges": "3",
+      "chargeType": "c1",
+      "destroy": true,
+      "destroyFlavorText": "",
+      "rechargeable": false,
+      "recharge": "0",
+      "rechargeType": "t1",
+      "rechargeUnit": "r1",
+      "sorting": "l",
+      "spells": {
+        "0": {
+          "id": "2sDWlbkldypsSor1",
+          "name": "Speak with Plants",
+          "pack": "world.ddb-one-shot-spells",
+          "img": "systems/dnd5e/icons/spells/leaf-jade-1.jpg",
+          "baseLevel": "3",
+          "level": "3",
+          "consumption": "3",
+          "upcast": "3",
+          "upcastCost": "1",
+          "flatDc": false
+        }
+      },
+      "destroyCheck": "d1",
+      "destroyType": "dt1"
+    }
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.0.3",
+    "coreVersion": "14.370",
+    "createdTime": 1665689962214,
+    "modifiedTime": 1794239342958,
+    "lastModifiedBy": "packsbuilder0000",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "oWgxhdYXSWTGjwjo",
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!oWgxhdYXSWTGjwjo"
+}

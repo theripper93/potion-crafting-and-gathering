@@ -1,0 +1,91 @@
+{
+  "_id": "WAhiT2aArAFb1x3u",
+  "name": "Mining: Hill",
+  "img": "icons/svg/d20-grey.svg",
+  "formula": "1d7",
+  "replacement": true,
+  "displayRoll": true,
+  "results": [
+    {
+      "_id": "IOsrznHFxqcG7Fzc",
+      "type": "document",
+      "documentUuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-smithing.Item.tDJBsiVrioDPyPMt",
+      "name": "Iron Ore",
+      "img": "icons/commodities/stone/ore-chunk-iron-black.webp",
+      "weight": 4,
+      "range": [
+        1,
+        4
+      ],
+      "drawn": false,
+      "flags": {
+        "gatherer": {
+          "quantity": "1d6"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": 1794241945877,
+        "modifiedTime": 1794241945877,
+        "lastModifiedBy": "packsbuilder0000",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "",
+      "_key": "!tables.results!WAhiT2aArAFb1x3u.IOsrznHFxqcG7Fzc"
+    },
+    {
+      "_id": "UdVopIZDWEDL2ZEJ",
+      "type": "document",
+      "documentUuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-smithing.Item.2bOjOyS9ZidW0zf7",
+      "name": "Silver Ore",
+      "img": "icons/commodities/stone/ore-chunk-silver-gray.webp",
+      "weight": 3,
+      "range": [
+        5,
+        7
+      ],
+      "drawn": false,
+      "flags": {
+        "gatherer": {
+          "quantity": "1d4"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": 1794241945877,
+        "modifiedTime": 1794241945877,
+        "lastModifiedBy": "packsbuilder0000",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "",
+      "_key": "!tables.results!WAhiT2aArAFb1x3u.UdVopIZDWEDL2ZEJ"
+    }
+  ],
+  "description": "",
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "coreVersion": "14.370",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": 1794241945877,
+    "modifiedTime": 1794241945877,
+    "lastModifiedBy": "packsbuilder0000",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!WAhiT2aArAFb1x3u"
+}

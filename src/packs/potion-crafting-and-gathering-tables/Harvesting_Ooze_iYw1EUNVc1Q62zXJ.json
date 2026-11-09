@@ -1,0 +1,61 @@
+{
+  "name": "Harvesting: Ooze",
+  "img": "icons/svg/d20-grey.svg",
+  "formula": "1d3",
+  "replacement": true,
+  "displayRoll": true,
+  "results": [
+    {
+      "type": "document",
+      "documentUuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.I9eoMEsooRxuJqtA",
+      "name": "Grey Ooze Residue",
+      "img": "icons/creatures/slimes/slime-movement-pseudopods-teal.webp",
+      "weight": 3,
+      "range": [
+        1,
+        3
+      ],
+      "flags": {
+        "gatherer": {
+          "quantity": "1d4"
+        }
+      },
+      "_id": "PGwXKNBw2TrRMvqw",
+      "description": "",
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": 1794240301397,
+        "modifiedTime": 1794240301397,
+        "lastModifiedBy": "TJvRiTp7BS0avsVp",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!iYw1EUNVc1Q62zXJ.PGwXKNBw2TrRMvqw"
+    }
+  ],
+  "_id": "iYw1EUNVc1Q62zXJ",
+  "description": "",
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TJvRiTp7BS0avsVp": 3
+  },
+  "flags": {},
+  "_stats": {
+    "coreVersion": "14.370",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": 1794240301397,
+    "modifiedTime": 1794240301399,
+    "lastModifiedBy": "TJvRiTp7BS0avsVp",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!iYw1EUNVc1Q62zXJ"
+}

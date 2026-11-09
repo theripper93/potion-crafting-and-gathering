@@ -1,0 +1,1261 @@
+{
+  "name": "All Plants",
+  "description": "A random table created from the contents of the Plants Folder.",
+  "results": [
+    {
+      "type": "document",
+      "img": "icons/commodities/biological/tentacle-thorned-green.webp",
+      "weight": 2,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "_id": "4XJ14r6znl8bh0cF",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "1d6"
+          }
+        }
+      },
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Acid Dew",
+      "documentUuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.vperyfe91D7Y0mWW",
+      "description": "",
+      "_key": "!tables.results!Qszptw2PDK1MZwj0.4XJ14r6znl8bh0cF"
+    },
+    {
+      "type": "document",
+      "img": "icons/commodities/flowers/lily-grey-orange.webp",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "_id": "6zu70xPFy5xZTOr3",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "1d8"
+          }
+        }
+      },
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Angel's Trumpet",
+      "documentUuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.2Q5eat8DBOS7E7Xf",
+      "description": "",
+      "_key": "!tables.results!Qszptw2PDK1MZwj0.6zu70xPFy5xZTOr3"
+    },
+    {
+      "type": "document",
+      "img": "icons/commodities/flowers/clover-purple.webp",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "_id": "R0CZmwC4xNAqltIT",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "1d6"
+          }
+        }
+      },
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Ashblossom",
+      "documentUuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.f9G9joeHSclgyXNL",
+      "description": "",
+      "_key": "!tables.results!Qszptw2PDK1MZwj0.R0CZmwC4xNAqltIT"
+    },
+    {
+      "type": "document",
+      "img": "icons/commodities/flowers/buds-red-green.webp",
+      "weight": 2,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "_id": "ukpBY10OSBJOO0I6",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "2d4"
+          }
+        }
+      },
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Bane Berry",
+      "documentUuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.5eMY7G5AibuPbPAG",
+      "description": "",
+      "_key": "!tables.results!Qszptw2PDK1MZwj0.ukpBY10OSBJOO0I6"
+    },
+    {
+      "type": "document",
+      "img": "icons/consumables/mushrooms/ovate-blue.webp",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "_id": "Nq9K0VpHRNG9973s",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "1d4"
+          }
+        }
+      },
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Black Cap Mushroom",
+      "documentUuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.WeMebyyH2jXTQtTH",
+      "description": "",
+      "_key": "!tables.results!Qszptw2PDK1MZwj0.Nq9K0VpHRNG9973s"
+    },
+    {
+      "type": "document",
+      "img": "icons/tools/laboratory/bowl-liquid-black.webp",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "_id": "hiIpq5BL3P1b0FSR",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "1d6"
+          }
+        }
+      },
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Black Sap",
+      "documentUuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.N0AouALqeIy09kCX",
+      "description": "",
+      "_key": "!tables.results!Qszptw2PDK1MZwj0.hiIpq5BL3P1b0FSR"
+    },
+    {
+      "type": "document",
+      "img": "icons/consumables/mushrooms/umbontae-hot-pink.webp",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "_id": "lMd47cTmoEXC7SdM",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "1d6"
+          }
+        }
+      },
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Blight Spores",
+      "documentUuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.hJMFlmpilZ8LpVKE",
+      "description": "",
+      "_key": "!tables.results!Qszptw2PDK1MZwj0.lMd47cTmoEXC7SdM"
+    },
+    {
+      "type": "document",
+      "img": "icons/consumables/plants/thorned-dried-stem-red.webp",
+      "weight": 2,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "_id": "w301PsLNumSYWCUb",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "1d8"
+          }
+        }
+      },
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Bloodroot",
+      "documentUuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.S9WUHdPbBP3XPpJO",
+      "description": "",
+      "_key": "!tables.results!Qszptw2PDK1MZwj0.w301PsLNumSYWCUb"
+    },
+    {
+      "type": "document",
+      "img": "icons/consumables/plants/mint-dried-green.webp",
+      "weight": 3,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "_id": "XVOry8UpBOGVpFkl",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "2d4"
+          }
+        }
+      },
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Cat's Tongue",
+      "documentUuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.8U61IScvrNcit1ZJ",
+      "description": "",
+      "_key": "!tables.results!Qszptw2PDK1MZwj0.XVOry8UpBOGVpFkl"
+    },
+    {
+      "type": "document",
+      "img": "icons/consumables/mushrooms/conical-bell-yellow.webp",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "_id": "sXqlox1CCai1Sjfd",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "1d4"
+          }
+        }
+      },
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Death Cap",
+      "documentUuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.ZTXmBm0pYhuK5AxE",
+      "description": "",
+      "_key": "!tables.results!Qszptw2PDK1MZwj0.sXqlox1CCai1Sjfd"
+    },
+    {
+      "type": "document",
+      "img": "icons/commodities/flowers/lily-white.webp",
+      "weight": 3,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "_id": "PYLJHdmou7ZRtOPj",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "2d6"
+          }
+        }
+      },
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Dreamlily",
+      "documentUuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.jjxoFljmT5atbIT8",
+      "description": "",
+      "_key": "!tables.results!Qszptw2PDK1MZwj0.PYLJHdmou7ZRtOPj"
+    },
+    {
+      "type": "document",
+      "img": "icons/consumables/fruit/berry-shiny-leaf-blue-teal.webp",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "_id": "mfRjzFYypJ7mYmyS",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "3d6"
+          }
+        }
+      },
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Everfrost Berry",
+      "documentUuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.sgg30hrdXOD3vAGC",
+      "description": "",
+      "_key": "!tables.results!Qszptw2PDK1MZwj0.mfRjzFYypJ7mYmyS"
+    },
+    {
+      "type": "document",
+      "img": "icons/consumables/mushrooms/umbontae-pink.webp",
+      "weight": 1,
+      "range": [
+        13,
+        13
+      ],
+      "drawn": false,
+      "_id": "sVmMWfGw0GaHdL0v",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "1d4"
+          }
+        }
+      },
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Fairy Stool",
+      "documentUuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.gM92fpjY9teFQ8ew",
+      "description": "",
+      "_key": "!tables.results!Qszptw2PDK1MZwj0.sVmMWfGw0GaHdL0v"
+    },
+    {
+      "type": "document",
+      "img": "icons/consumables/vegetable/lima-beans-pod-brown.webp",
+      "weight": 2,
+      "range": [
+        14,
+        14
+      ],
+      "drawn": false,
+      "_id": "GjlEdgIHgj3ghj9U",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "1d6"
+          }
+        }
+      },
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Fire Peas",
+      "documentUuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.yg1RFBtdR2AfVS5t",
+      "description": "",
+      "_key": "!tables.results!Qszptw2PDK1MZwj0.GjlEdgIHgj3ghj9U"
+    },
+    {
+      "type": "document",
+      "img": "icons/consumables/plants/flax-leaves-spiked-bundle-orange.webp",
+      "weight": 2,
+      "range": [
+        15,
+        15
+      ],
+      "drawn": false,
+      "_id": "DLna4ERNGWc0Zfom",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "1d8"
+          }
+        }
+      },
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Flame Lily",
+      "documentUuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.KxyuMr06YyMT9uVI",
+      "description": "",
+      "_key": "!tables.results!Qszptw2PDK1MZwj0.DLna4ERNGWc0Zfom"
+    },
+    {
+      "type": "document",
+      "img": "icons/consumables/plants/leaf-broad-blue.webp",
+      "weight": 2,
+      "range": [
+        16,
+        16
+      ],
+      "drawn": false,
+      "_id": "XeHi6vU8fK6o51GZ",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "1d6"
+          }
+        }
+      },
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Frost Lichen",
+      "documentUuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.4ybCoZqAMDLiQsmb",
+      "description": "",
+      "_key": "!tables.results!Qszptw2PDK1MZwj0.XeHi6vU8fK6o51GZ"
+    },
+    {
+      "type": "document",
+      "img": "icons/consumables/plants/basil-herb-green.webp",
+      "weight": 3,
+      "range": [
+        17,
+        17
+      ],
+      "drawn": false,
+      "_id": "G3FLdLLR9WaSh6Yi",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "2d4"
+          }
+        }
+      },
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Gillyweed",
+      "documentUuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.kUzQnkx0GC5NTHsv",
+      "description": "",
+      "_key": "!tables.results!Qszptw2PDK1MZwj0.G3FLdLLR9WaSh6Yi"
+    },
+    {
+      "type": "document",
+      "img": "icons/consumables/vegetable/root-parsnip-grey.webp",
+      "weight": 1,
+      "range": [
+        18,
+        18
+      ],
+      "drawn": false,
+      "_id": "qBVPW8fB1iAqwj0c",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "1d4"
+          }
+        }
+      },
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Hagfinger",
+      "documentUuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.qXk27yXG0KVONssI",
+      "description": "",
+      "_key": "!tables.results!Qszptw2PDK1MZwj0.qBVPW8fB1iAqwj0c"
+    },
+    {
+      "type": "document",
+      "img": "icons/commodities/biological/tentacle-yellow.webp",
+      "weight": 1,
+      "range": [
+        19,
+        19
+      ],
+      "drawn": false,
+      "_id": "4YHtVFWVAChKplN5",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "1d4"
+          }
+        }
+      },
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Idle Claws",
+      "documentUuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.e9SUSA3TYHv9gxXl",
+      "description": "",
+      "_key": "!tables.results!Qszptw2PDK1MZwj0.4YHtVFWVAChKplN5"
+    },
+    {
+      "type": "document",
+      "img": "icons/magic/lightning/barrier-wall-shield-gray.webp",
+      "weight": 2,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false,
+      "_id": "hZeN2PpoVMjm5s0y",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "1d6"
+          }
+        }
+      },
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Lightning Moss",
+      "documentUuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.MkUnBgXfcD2QwUwN",
+      "description": "",
+      "_key": "!tables.results!Qszptw2PDK1MZwj0.hZeN2PpoVMjm5s0y"
+    },
+    {
+      "type": "document",
+      "img": "icons/consumables/vegetable/root-potato-radish-white.webp",
+      "weight": 2,
+      "range": [
+        21,
+        21
+      ],
+      "drawn": false,
+      "_id": "kV9ZiCunRZpOivy0",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "1d4"
+          }
+        }
+      },
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Mandrake Root",
+      "documentUuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.B6DIfwy19Ts5ikHU",
+      "description": "",
+      "_key": "!tables.results!Qszptw2PDK1MZwj0.kV9ZiCunRZpOivy0"
+    },
+    {
+      "type": "document",
+      "img": "icons/consumables/mushrooms/alien-spotted-blue.webp",
+      "weight": 2,
+      "range": [
+        22,
+        22
+      ],
+      "drawn": false,
+      "_id": "mZqMxOgNCAlaQsmR",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "1d4"
+          }
+        }
+      },
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Mindflayer Stinkhorn",
+      "documentUuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.ebflYPaV5OfihxDW",
+      "description": "",
+      "_key": "!tables.results!Qszptw2PDK1MZwj0.mZqMxOgNCAlaQsmR"
+    },
+    {
+      "type": "document",
+      "img": "icons/commodities/flowers/dandelion-pod-blue.webp",
+      "weight": 1,
+      "range": [
+        23,
+        23
+      ],
+      "drawn": false,
+      "_id": "qBJaWvSFCWOYf5Y7",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "1d4*2"
+          }
+        }
+      },
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Moonstalker",
+      "documentUuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.XsePsNGNXztjGhqt",
+      "description": "",
+      "_key": "!tables.results!Qszptw2PDK1MZwj0.qBJaWvSFCWOYf5Y7"
+    },
+    {
+      "type": "document",
+      "img": "icons/consumables/plants/cilantro-parsley-herb-leaf-green.webp",
+      "weight": 3,
+      "range": [
+        24,
+        24
+      ],
+      "drawn": false,
+      "_id": "IXqBBB8xHGclKInw",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "2d6"
+          }
+        }
+      },
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Morning Dew",
+      "documentUuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.q56qk1upHBqOeFo0",
+      "description": "",
+      "_key": "!tables.results!Qszptw2PDK1MZwj0.IXqBBB8xHGclKInw"
+    },
+    {
+      "type": "document",
+      "img": "icons/consumables/plants/fern-sword-green.webp",
+      "weight": 2,
+      "range": [
+        25,
+        25
+      ],
+      "drawn": false,
+      "_id": "5Q9zI6Wd8Q7zzCe9",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "1d6"
+          }
+        }
+      },
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Muroosa Twigs",
+      "documentUuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.sODZElZQJ8PiIvH1",
+      "description": "",
+      "_key": "!tables.results!Qszptw2PDK1MZwj0.5Q9zI6Wd8Q7zzCe9"
+    },
+    {
+      "type": "document",
+      "img": "icons/consumables/plants/leaf-pink.webp",
+      "weight": 2,
+      "range": [
+        26,
+        26
+      ],
+      "drawn": false,
+      "_id": "sLYo8s9Av2rWOYtD",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "1d6"
+          }
+        }
+      },
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Nightshade",
+      "documentUuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.PpZ5ysLIab4PNiCL",
+      "description": "",
+      "_key": "!tables.results!Qszptw2PDK1MZwj0.sLYo8s9Av2rWOYtD"
+    },
+    {
+      "type": "document",
+      "img": "icons/magic/nature/leaf-glow-triple-green.webp",
+      "weight": 2,
+      "range": [
+        27,
+        27
+      ],
+      "drawn": false,
+      "_id": "qWDvCtTseyJk0JZE",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "2d6"
+          }
+        }
+      },
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Olisuba Leaf",
+      "documentUuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.pENSKogWx0Tz0fzn",
+      "description": "",
+      "_key": "!tables.results!Qszptw2PDK1MZwj0.qWDvCtTseyJk0JZE"
+    },
+    {
+      "type": "document",
+      "img": "icons/consumables/mushrooms/campanulate-bell-shiny-blue.webp",
+      "weight": 1,
+      "range": [
+        28,
+        28
+      ],
+      "drawn": false,
+      "_id": "82CtEzWREbc0zwOe",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "1d12"
+          }
+        }
+      },
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Pixie's Parasol",
+      "documentUuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.WglM0mvztSmJL7Lv",
+      "description": "",
+      "_key": "!tables.results!Qszptw2PDK1MZwj0.82CtEzWREbc0zwOe"
+    },
+    {
+      "type": "document",
+      "img": "icons/consumables/mushrooms/convex-bolete-brown.webp",
+      "weight": 1,
+      "range": [
+        29,
+        29
+      ],
+      "drawn": false,
+      "_id": "T2LkWh4tbpYOalo5",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "1d8"
+          }
+        }
+      },
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Rainbow Mushroom",
+      "documentUuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.O0eT04b4AYt7qvr9",
+      "description": "",
+      "_key": "!tables.results!Qszptw2PDK1MZwj0.T2LkWh4tbpYOalo5"
+    },
+    {
+      "type": "document",
+      "img": "icons/consumables/mushrooms/helm-red-white.webp",
+      "weight": 3,
+      "range": [
+        30,
+        30
+      ],
+      "drawn": false,
+      "_id": "TZi3YGRPT0U1mDT4",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "2d4"
+          }
+        }
+      },
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Red Amanita Mushroom",
+      "documentUuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.PesWw8Dh27Q7hqCB",
+      "description": "",
+      "_key": "!tables.results!Qszptw2PDK1MZwj0.TZi3YGRPT0U1mDT4"
+    },
+    {
+      "type": "document",
+      "img": "icons/consumables/plants/thorned-dried-stem-brown.webp",
+      "weight": 1,
+      "range": [
+        31,
+        31
+      ],
+      "drawn": false,
+      "_id": "m70PwSxL8N7jQW3U",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "1d6"
+          }
+        }
+      },
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Silverthorn",
+      "documentUuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.IvLk97TKspuqU1eX",
+      "description": "",
+      "_key": "!tables.results!Qszptw2PDK1MZwj0.m70PwSxL8N7jQW3U"
+    },
+    {
+      "type": "document",
+      "img": "icons/consumables/plants/thorned-curled-vine-green.webp",
+      "weight": 2,
+      "range": [
+        32,
+        32
+      ],
+      "drawn": false,
+      "_id": "hbkj4scS4LrmfDyr",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "2d4"
+          }
+        }
+      },
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Singing Nettle",
+      "documentUuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.ZxuFEfo7SerKMoMR",
+      "description": "",
+      "_key": "!tables.results!Qszptw2PDK1MZwj0.hbkj4scS4LrmfDyr"
+    },
+    {
+      "type": "document",
+      "img": "icons/consumables/plants/grass-curcled-bundle-green.webp",
+      "weight": 2,
+      "range": [
+        33,
+        33
+      ],
+      "drawn": false,
+      "_id": "tgfwR7EqoxHAq0Ka",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "2d4"
+          }
+        }
+      },
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Sourgrass",
+      "documentUuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.5SU6evgnA2ocp13r",
+      "description": "",
+      "_key": "!tables.results!Qszptw2PDK1MZwj0.tgfwR7EqoxHAq0Ka"
+    },
+    {
+      "type": "document",
+      "img": "icons/commodities/biological/tentacle-thorned-green.webp",
+      "weight": 2,
+      "range": [
+        34,
+        34
+      ],
+      "drawn": false,
+      "_id": "usstOCRvWx2wUnFi",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "1d6"
+          }
+        }
+      },
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Theki Root",
+      "documentUuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.iO0893B9hiYU7D6X",
+      "description": "",
+      "_key": "!tables.results!Qszptw2PDK1MZwj0.usstOCRvWx2wUnFi"
+    },
+    {
+      "type": "document",
+      "img": "icons/consumables/nuts/cashew-white.webp",
+      "weight": 1,
+      "range": [
+        35,
+        35
+      ],
+      "drawn": false,
+      "_id": "XBO4nJnVMQkl5lJy",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "1d4"
+          }
+        }
+      },
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "White Ghost Orchid Seed",
+      "documentUuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.AvyiJlB22uJt9J5E",
+      "description": "",
+      "_key": "!tables.results!Qszptw2PDK1MZwj0.XBO4nJnVMQkl5lJy"
+    },
+    {
+      "type": "document",
+      "img": "icons/consumables/fruit/date-ripe-red-green.webp",
+      "weight": 2,
+      "range": [
+        36,
+        36
+      ],
+      "drawn": false,
+      "_id": "2H8QNwyGP1N077Jc",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "1d8"
+          }
+        }
+      },
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Willowshade Fruit",
+      "documentUuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.SMab7kAjsYtxGJKJ",
+      "description": "",
+      "_key": "!tables.results!Qszptw2PDK1MZwj0.2H8QNwyGP1N077Jc"
+    },
+    {
+      "type": "document",
+      "img": "icons/commodities/flowers/strawberry-single-white.webp",
+      "weight": 1,
+      "range": [
+        37,
+        37
+      ],
+      "drawn": false,
+      "_id": "P2w9ol9hahPkfjFq",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "1d4"
+          }
+        }
+      },
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Wolfsbane",
+      "documentUuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.Ag50fstRwIuLyrhr",
+      "description": "",
+      "_key": "!tables.results!Qszptw2PDK1MZwj0.P2w9ol9hahPkfjFq"
+    }
+  ],
+  "formula": "1d37",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "better-rolltables": {
+      "tags": "",
+      "table-type": "better",
+      "table-currency-string": "",
+      "loot-amount-key": "",
+      "loot-actor-name": ""
+    },
+    "hidden-tables": {
+      "hidden": false
+    }
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.0.3",
+    "coreVersion": "14.370",
+    "createdTime": 1665933450716,
+    "modifiedTime": 1794239343059,
+    "lastModifiedBy": "packsbuilder0000",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "Qszptw2PDK1MZwj0",
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!tables!Qszptw2PDK1MZwj0"
+}

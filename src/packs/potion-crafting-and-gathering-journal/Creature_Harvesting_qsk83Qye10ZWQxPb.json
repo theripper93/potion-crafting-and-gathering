@@ -1,0 +1,764 @@
+{
+  "name": "Creature Harvesting",
+  "pages": [
+    {
+      "name": "Aberration",
+      "type": "gatherer.gatherer",
+      "sort": 100000,
+      "system": {
+        "htmlFields": [
+          "text.content"
+        ],
+        "table": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-tables.RollTable.wPmovhl0ty8Dxsc8",
+        "require": "",
+        "checks": [
+          "check=skill.med|dc=15"
+        ],
+        "quantity": "1",
+        "text": {
+          "format": 1
+        },
+        "draws": null,
+        "drawsPerActor": null,
+        "time": null,
+        "respawn": "reset",
+        "expression": "",
+        "minigame": {
+          "type": "harvesting",
+          "difficulty": "normal",
+          "canFail": false,
+          "onMap": true,
+          "background": null,
+          "background2": null
+        },
+        "consumeOnFail": true,
+        "modifiers": [],
+        "crit": {
+          "draws": 1,
+          "multiplier": 1,
+          "margin": null
+        },
+        "mishapTable": null,
+        "odds": "show",
+        "state": {
+          "used": 0,
+          "anchor": null,
+          "actors": {}
+        },
+        "discovered": []
+      },
+      "_id": "25myKtlq22P68B6x",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "potion-crafting-and-gathering": {
+          "creatureType": "aberration"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": 1794240301416,
+        "modifiedTime": 1794240483919,
+        "lastModifiedBy": "TJvRiTp7BS0avsVp",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!journal.pages!qsk83Qye10ZWQxPb.25myKtlq22P68B6x"
+    },
+    {
+      "name": "Beast",
+      "type": "gatherer.gatherer",
+      "sort": 200000,
+      "system": {
+        "htmlFields": [
+          "text.content"
+        ],
+        "table": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-tables.RollTable.FjFFHe8DvNcW4kC8",
+        "require": "",
+        "checks": [
+          "check=skill.sur|dc=10"
+        ],
+        "quantity": "1",
+        "text": {
+          "format": 1
+        },
+        "draws": null,
+        "drawsPerActor": null,
+        "time": null,
+        "respawn": "reset",
+        "expression": "",
+        "minigame": {
+          "type": "harvesting",
+          "difficulty": "easy",
+          "canFail": false,
+          "onMap": true,
+          "background": null,
+          "background2": null
+        },
+        "consumeOnFail": true,
+        "modifiers": [],
+        "crit": {
+          "draws": 1,
+          "multiplier": 1,
+          "margin": null
+        },
+        "mishapTable": null,
+        "odds": "show",
+        "state": {
+          "used": 0,
+          "anchor": null,
+          "actors": {}
+        },
+        "discovered": []
+      },
+      "_id": "0h3qFzwv70JdSfnE",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "potion-crafting-and-gathering": {
+          "creatureType": "beast"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": 1794240301416,
+        "modifiedTime": 1794240483920,
+        "lastModifiedBy": "TJvRiTp7BS0avsVp",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!journal.pages!qsk83Qye10ZWQxPb.0h3qFzwv70JdSfnE"
+    },
+    {
+      "name": "Dragon",
+      "type": "gatherer.gatherer",
+      "sort": 300000,
+      "system": {
+        "htmlFields": [
+          "text.content"
+        ],
+        "table": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-tables.RollTable.NuURM6dsljEFA3Ke",
+        "require": "Poisoner's Kit",
+        "checks": [
+          "check=tool.pois|dc=15"
+        ],
+        "quantity": "1",
+        "text": {
+          "format": 1
+        },
+        "draws": null,
+        "drawsPerActor": null,
+        "time": null,
+        "respawn": "reset",
+        "expression": "",
+        "minigame": {
+          "type": "harvesting",
+          "difficulty": "normal",
+          "canFail": false,
+          "onMap": true,
+          "background": null,
+          "background2": null
+        },
+        "consumeOnFail": true,
+        "modifiers": [],
+        "crit": {
+          "draws": 1,
+          "multiplier": 1,
+          "margin": null
+        },
+        "mishapTable": null,
+        "odds": "show",
+        "state": {
+          "used": 0,
+          "anchor": null,
+          "actors": {}
+        },
+        "discovered": []
+      },
+      "_id": "wRe5BnmJWCwH0757",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "potion-crafting-and-gathering": {
+          "creatureType": "dragon"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": 1794240301416,
+        "modifiedTime": 1794240483920,
+        "lastModifiedBy": "TJvRiTp7BS0avsVp",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!journal.pages!qsk83Qye10ZWQxPb.wRe5BnmJWCwH0757"
+    },
+    {
+      "name": "Elemental",
+      "type": "gatherer.gatherer",
+      "sort": 400000,
+      "system": {
+        "htmlFields": [
+          "text.content"
+        ],
+        "table": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-tables.RollTable.JAd9O1R5QLMD7B4n",
+        "require": "Alchemist's Supplies",
+        "checks": [
+          "check=tool.alchemist|dc=15"
+        ],
+        "quantity": "1",
+        "text": {
+          "format": 1
+        },
+        "draws": null,
+        "drawsPerActor": null,
+        "time": null,
+        "respawn": "reset",
+        "expression": "",
+        "minigame": {
+          "type": "harvesting",
+          "difficulty": "normal",
+          "canFail": false,
+          "onMap": true,
+          "background": null,
+          "background2": null
+        },
+        "consumeOnFail": true,
+        "modifiers": [],
+        "crit": {
+          "draws": 1,
+          "multiplier": 1,
+          "margin": null
+        },
+        "mishapTable": null,
+        "odds": "show",
+        "state": {
+          "used": 0,
+          "anchor": null,
+          "actors": {}
+        },
+        "discovered": []
+      },
+      "_id": "l08VfMYfR4Yq1IAB",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "potion-crafting-and-gathering": {
+          "creatureType": "elemental"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": 1794240301416,
+        "modifiedTime": 1794240483920,
+        "lastModifiedBy": "TJvRiTp7BS0avsVp",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!journal.pages!qsk83Qye10ZWQxPb.l08VfMYfR4Yq1IAB"
+    },
+    {
+      "name": "Fiend",
+      "type": "gatherer.gatherer",
+      "sort": 500000,
+      "system": {
+        "htmlFields": [
+          "text.content"
+        ],
+        "table": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-tables.RollTable.ahTO0cpZlgFS2j1X",
+        "require": "",
+        "checks": [
+          "check=skill.sur|dc=15"
+        ],
+        "quantity": "1",
+        "text": {
+          "format": 1
+        },
+        "draws": null,
+        "drawsPerActor": null,
+        "time": null,
+        "respawn": "reset",
+        "expression": "",
+        "minigame": {
+          "type": "harvesting",
+          "difficulty": "normal",
+          "canFail": false,
+          "onMap": true,
+          "background": null,
+          "background2": null
+        },
+        "consumeOnFail": true,
+        "modifiers": [],
+        "crit": {
+          "draws": 1,
+          "multiplier": 1,
+          "margin": null
+        },
+        "mishapTable": null,
+        "odds": "show",
+        "state": {
+          "used": 0,
+          "anchor": null,
+          "actors": {}
+        },
+        "discovered": []
+      },
+      "_id": "35xYqpC26PkDbBM2",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "potion-crafting-and-gathering": {
+          "creatureType": "fiend"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": 1794240301416,
+        "modifiedTime": 1794240483920,
+        "lastModifiedBy": "TJvRiTp7BS0avsVp",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!journal.pages!qsk83Qye10ZWQxPb.35xYqpC26PkDbBM2"
+    },
+    {
+      "name": "Giant",
+      "type": "gatherer.gatherer",
+      "sort": 600000,
+      "system": {
+        "htmlFields": [
+          "text.content"
+        ],
+        "table": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-tables.RollTable.fkXbRIiYxAxB0eAJ",
+        "require": "",
+        "checks": [
+          "check=skill.sur|dc=10"
+        ],
+        "quantity": "1",
+        "text": {
+          "format": 1
+        },
+        "draws": null,
+        "drawsPerActor": null,
+        "time": null,
+        "respawn": "reset",
+        "expression": "",
+        "minigame": {
+          "type": "harvesting",
+          "difficulty": "easy",
+          "canFail": false,
+          "onMap": true,
+          "background": null,
+          "background2": null
+        },
+        "consumeOnFail": true,
+        "modifiers": [],
+        "crit": {
+          "draws": 1,
+          "multiplier": 1,
+          "margin": null
+        },
+        "mishapTable": null,
+        "odds": "show",
+        "state": {
+          "used": 0,
+          "anchor": null,
+          "actors": {}
+        },
+        "discovered": []
+      },
+      "_id": "V6tDBipprpRrtLNy",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "potion-crafting-and-gathering": {
+          "creatureType": "giant"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": 1794240301416,
+        "modifiedTime": 1794240483920,
+        "lastModifiedBy": "TJvRiTp7BS0avsVp",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!journal.pages!qsk83Qye10ZWQxPb.V6tDBipprpRrtLNy"
+    },
+    {
+      "name": "Monstrosity",
+      "type": "gatherer.gatherer",
+      "sort": 700000,
+      "system": {
+        "htmlFields": [
+          "text.content"
+        ],
+        "table": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-tables.RollTable.oRHgaU1aQeWqgvTy",
+        "require": "Poisoner's Kit",
+        "checks": [
+          "check=tool.pois|dc=15"
+        ],
+        "quantity": "1",
+        "text": {
+          "format": 1
+        },
+        "draws": null,
+        "drawsPerActor": null,
+        "time": null,
+        "respawn": "reset",
+        "expression": "",
+        "minigame": {
+          "type": "harvesting",
+          "difficulty": "normal",
+          "canFail": false,
+          "onMap": true,
+          "background": null,
+          "background2": null
+        },
+        "consumeOnFail": true,
+        "modifiers": [],
+        "crit": {
+          "draws": 1,
+          "multiplier": 1,
+          "margin": null
+        },
+        "mishapTable": null,
+        "odds": "show",
+        "state": {
+          "used": 0,
+          "anchor": null,
+          "actors": {}
+        },
+        "discovered": []
+      },
+      "_id": "93CU9x8Y8urp2znz",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "potion-crafting-and-gathering": {
+          "creatureType": "monstrosity"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": 1794240301416,
+        "modifiedTime": 1794240483921,
+        "lastModifiedBy": "TJvRiTp7BS0avsVp",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!journal.pages!qsk83Qye10ZWQxPb.93CU9x8Y8urp2znz"
+    },
+    {
+      "name": "Ooze",
+      "type": "gatherer.gatherer",
+      "sort": 800000,
+      "system": {
+        "htmlFields": [
+          "text.content"
+        ],
+        "table": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-tables.RollTable.iYw1EUNVc1Q62zXJ",
+        "require": "Alchemist's Supplies",
+        "checks": [
+          "check=tool.alchemist|dc=15"
+        ],
+        "quantity": "1",
+        "text": {
+          "format": 1
+        },
+        "draws": null,
+        "drawsPerActor": null,
+        "time": null,
+        "respawn": "reset",
+        "expression": "",
+        "minigame": {
+          "type": "harvesting",
+          "difficulty": "normal",
+          "canFail": false,
+          "onMap": true,
+          "background": null,
+          "background2": null
+        },
+        "consumeOnFail": true,
+        "modifiers": [],
+        "crit": {
+          "draws": 1,
+          "multiplier": 1,
+          "margin": null
+        },
+        "mishapTable": null,
+        "odds": "show",
+        "state": {
+          "used": 0,
+          "anchor": null,
+          "actors": {}
+        },
+        "discovered": []
+      },
+      "_id": "Lg8cSe42jp7z4ljQ",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "potion-crafting-and-gathering": {
+          "creatureType": "ooze"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": 1794240301416,
+        "modifiedTime": 1794240483921,
+        "lastModifiedBy": "TJvRiTp7BS0avsVp",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!journal.pages!qsk83Qye10ZWQxPb.Lg8cSe42jp7z4ljQ"
+    },
+    {
+      "name": "Undead",
+      "type": "gatherer.gatherer",
+      "sort": 900000,
+      "system": {
+        "htmlFields": [
+          "text.content"
+        ],
+        "table": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-tables.RollTable.0ROdWyFNOQGiqQrh",
+        "require": "Alchemist's Supplies",
+        "checks": [
+          "check=tool.alchemist|dc=15"
+        ],
+        "quantity": "1",
+        "text": {
+          "format": 1
+        },
+        "draws": null,
+        "drawsPerActor": null,
+        "time": null,
+        "respawn": "reset",
+        "expression": "",
+        "minigame": {
+          "type": "harvesting",
+          "difficulty": "normal",
+          "canFail": false,
+          "onMap": true,
+          "background": null,
+          "background2": null
+        },
+        "consumeOnFail": true,
+        "modifiers": [],
+        "crit": {
+          "draws": 1,
+          "multiplier": 1,
+          "margin": null
+        },
+        "mishapTable": null,
+        "odds": "show",
+        "state": {
+          "used": 0,
+          "anchor": null,
+          "actors": {}
+        },
+        "discovered": []
+      },
+      "_id": "xejuAZYMk9dS3ei1",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "potion-crafting-and-gathering": {
+          "creatureType": "undead"
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": 1794240301416,
+        "modifiedTime": 1794240483921,
+        "lastModifiedBy": "TJvRiTp7BS0avsVp",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!journal.pages!qsk83Qye10ZWQxPb.xejuAZYMk9dS3ei1"
+    }
+  ],
+  "_id": "qsk83Qye10ZWQxPb",
+  "folder": null,
+  "categories": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TJvRiTp7BS0avsVp": 3
+  },
+  "flags": {},
+  "_stats": {
+    "coreVersion": "14.370",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": 1794240301416,
+    "modifiedTime": 1794240301417,
+    "lastModifiedBy": "TJvRiTp7BS0avsVp",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!journal!qsk83Qye10ZWQxPb"
+}

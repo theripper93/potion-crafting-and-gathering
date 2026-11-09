@@ -1,0 +1,425 @@
+{
+  "name": "The Dankest Herbalist",
+  "ownership": {
+    "default": 0,
+    "rqEOxzm9pWZpMhH4": 0,
+    "QAdDWUaUNK09Iq3x": 0,
+    "GOvXOrkQSzey7yZ5": 0,
+    "56XvGn6U8R9S2vlW": 0,
+    "HHjDcylTiWQFDEbS": 0,
+    "qr1zQ11jcfurK31V": 3
+  },
+  "folder": "pOWf5q8NEqC82nKM",
+  "pages": [
+    {
+      "name": "Potion of Protection",
+      "type": "mastercrafted.mastercrafted",
+      "text": {
+        "content": "<p>A steel grey, mirky liquid with tiny, yellow, green, red, blue, purple, white and black beads floating around in it. Drinking this potion grants the drinker immunity to all status effects apart from prone, grappeled, restrained or unconsious for 1 hour.</p>",
+        "format": 1
+      },
+      "ownership": {
+        "default": -1,
+        "rqEOxzm9pWZpMhH4": -1,
+        "QAdDWUaUNK09Iq3x": -1,
+        "GOvXOrkQSzey7yZ5": -1,
+        "56XvGn6U8R9S2vlW": -1,
+        "HHjDcylTiWQFDEbS": -1
+      },
+      "flags": {
+        "mastercrafted": {
+          "img": "icons/consumables/potions/bottle-corked-empty.webp",
+          "ingredients": [
+            {
+              "id": "0jrFCE3jzugEjMfd",
+              "name": null,
+              "components": [
+                {
+                  "id": "ulhM0WH4hBvyeyue",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.qXk27yXG0KVONssI",
+                  "quantity": 1,
+                  "name": "Hagfinger",
+                  "img": "icons/consumables/vegetable/root-parsnip-grey.webp",
+                  "tags": [],
+                  "resourcePath": ""
+                }
+              ]
+            },
+            {
+              "id": "Wipm969RqsiRSnhF",
+              "name": null,
+              "components": [
+                {
+                  "id": "YFQaR5rsrlSn6geo",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.e9SUSA3TYHv9gxXl",
+                  "quantity": 1,
+                  "name": "Idle Claws",
+                  "img": "icons/commodities/biological/tentacle-yellow.webp",
+                  "tags": [],
+                  "resourcePath": ""
+                }
+              ]
+            },
+            {
+              "id": "WeNM9BDvFj9bJ8Rm",
+              "name": null,
+              "components": [
+                {
+                  "id": "s7krWGXtIMygLyzu",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.AvyiJlB22uJt9J5E",
+                  "quantity": 1,
+                  "name": "White Ghost Orchid Seed",
+                  "img": "icons/consumables/nuts/cashew-white.webp",
+                  "tags": [],
+                  "resourcePath": ""
+                }
+              ]
+            }
+          ],
+          "ingredientsInspection": "0",
+          "macroName": "",
+          "products": [
+            {
+              "id": "ds9AK2a6j7oGxTlK",
+              "name": null,
+              "components": [
+                {
+                  "id": "4YLz9s6uo8ka5PFU",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-herbalism.Item.augf8aBoKEZF6QCw",
+                  "quantity": 1,
+                  "name": "Potion of Protection",
+                  "img": "icons/consumables/potions/bottle-corked-empty.webp",
+                  "tags": [],
+                  "resourcePath": ""
+                }
+              ]
+            }
+          ],
+          "productInspection": "0",
+          "sound": "",
+          "time": null,
+          "require": "",
+          "expression": "",
+          "modifierList": [],
+          "checks": [],
+          "type": "",
+          "requiresStation": false,
+          "requiresMinigame": false,
+          "minigame": {
+            "difficulty": "normal",
+            "canFail": false,
+            "perfect": ""
+          },
+          "timedMode": "",
+          "queueKey": ""
+        }
+      },
+      "_id": "dJV88HdZ0TIDpRUc",
+      "system": {
+        "htmlFields": [
+          "text.content"
+        ],
+        "text": {
+          "format": 1
+        }
+      },
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "sort": 0,
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.370",
+        "systemId": "dnd5e",
+        "systemVersion": "5.2.5",
+        "lastModifiedBy": "TJvRiTp7BS0avsVp",
+        "createdTime": 1794239342655,
+        "modifiedTime": 1794239342655
+      },
+      "_key": "!journal.pages!5I27YMOas1stwQhb.dJV88HdZ0TIDpRUc"
+    },
+    {
+      "name": "Potion of Supreme Healing",
+      "type": "mastercrafted.mastercrafted",
+      "text": {
+        "content": "<p>You regain 10d4 + 20 hit points when you drink this potion. The potion's red liquid glimmers when agitated. It confers no benefit to undead or constructs.</p>",
+        "format": 1
+      },
+      "ownership": {
+        "default": -1,
+        "rqEOxzm9pWZpMhH4": -1,
+        "QAdDWUaUNK09Iq3x": -1,
+        "GOvXOrkQSzey7yZ5": -1,
+        "56XvGn6U8R9S2vlW": -1,
+        "HHjDcylTiWQFDEbS": -1
+      },
+      "flags": {
+        "mastercrafted": {
+          "img": "icons/consumables/potions/potion-flask-stopped-red.webp",
+          "ingredients": [
+            {
+              "id": "0D72nNVxbbEv2vpn",
+              "name": null,
+              "components": [
+                {
+                  "id": "Ub8Q5QG3taD7UISn",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.PesWw8Dh27Q7hqCB",
+                  "quantity": "4",
+                  "name": "Red Amanita Mushroom",
+                  "img": "icons/consumables/mushrooms/helm-red-white.webp",
+                  "tags": [],
+                  "resourcePath": ""
+                }
+              ]
+            }
+          ],
+          "ingredientsInspection": "0",
+          "macroName": "",
+          "products": [
+            {
+              "id": "WPv1gsg4PKjJZSIn",
+              "name": null,
+              "components": [
+                {
+                  "id": "uQl3qesoOfQMjz5H",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-herbalism.Item.xjZZVQclrHZJe1sB",
+                  "quantity": 1,
+                  "name": "Potion of Healing (Supreme)",
+                  "img": "icons/consumables/potions/potion-flask-stopped-red.webp",
+                  "tags": [],
+                  "resourcePath": ""
+                }
+              ]
+            }
+          ],
+          "productInspection": "0",
+          "sound": "",
+          "time": null,
+          "require": "",
+          "expression": "",
+          "modifierList": [],
+          "checks": [],
+          "type": "",
+          "requiresStation": false,
+          "requiresMinigame": false,
+          "minigame": {
+            "difficulty": "normal",
+            "canFail": false,
+            "perfect": ""
+          },
+          "timedMode": "",
+          "queueKey": ""
+        }
+      },
+      "_id": "jPOHMPbNz3OR5iSn",
+      "system": {
+        "htmlFields": [
+          "text.content"
+        ],
+        "text": {
+          "format": 1
+        }
+      },
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "sort": 0,
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.370",
+        "systemId": "dnd5e",
+        "systemVersion": "5.2.5",
+        "lastModifiedBy": "TJvRiTp7BS0avsVp",
+        "createdTime": 1794239342655,
+        "modifiedTime": 1794239342655
+      },
+      "_key": "!journal.pages!5I27YMOas1stwQhb.jPOHMPbNz3OR5iSn"
+    },
+    {
+      "name": "Potion of Vitality",
+      "type": "mastercrafted.mastercrafted",
+      "text": {
+        "content": "<p>This potion's crimson liquid regularly pulses with dull light, calling to mind a heartbeat. Drinking this potion removes all exhaustion from the drinker and cures any diseases and/or poisons affecting them. For the next 24 hours, the drinker has double the normal amount of hit die to expend during short rests and regains the maximum number of hit points for any Hit Die you spend.</p>",
+        "format": 1
+      },
+      "ownership": {
+        "default": -1,
+        "rqEOxzm9pWZpMhH4": -1,
+        "QAdDWUaUNK09Iq3x": -1,
+        "GOvXOrkQSzey7yZ5": -1,
+        "56XvGn6U8R9S2vlW": -1,
+        "HHjDcylTiWQFDEbS": -1
+      },
+      "flags": {
+        "mastercrafted": {
+          "img": "icons/consumables/potions/potion-flask-corled-pink-red.webp",
+          "ingredients": [
+            {
+              "id": "hSPTPRSobTPLoWib",
+              "name": null,
+              "components": [
+                {
+                  "id": "T2vpuU6jTeFI12Do",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.q56qk1upHBqOeFo0",
+                  "quantity": "2",
+                  "name": "Morning Dew",
+                  "img": "icons/consumables/plants/cilantro-parsley-herb-leaf-green.webp",
+                  "tags": [],
+                  "resourcePath": ""
+                }
+              ]
+            },
+            {
+              "id": "vEinLDdbhAGr9a6y",
+              "name": null,
+              "components": [
+                {
+                  "id": "41bn76UTS1zDEHGg",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.8U61IScvrNcit1ZJ",
+                  "quantity": "2",
+                  "name": "Cat's Tongue",
+                  "img": "icons/consumables/plants/mint-dried-green.webp",
+                  "tags": [],
+                  "resourcePath": ""
+                }
+              ]
+            },
+            {
+              "id": "fRwSIRbeMVHKK4KR",
+              "name": null,
+              "components": [
+                {
+                  "id": "9FW88WgGf9hIEM2d",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.pENSKogWx0Tz0fzn",
+                  "quantity": 1,
+                  "name": "Olisuba Leaf",
+                  "img": "icons/magic/nature/leaf-glow-triple-green.webp",
+                  "tags": [],
+                  "resourcePath": ""
+                }
+              ]
+            }
+          ],
+          "ingredientsInspection": "0",
+          "macroName": "",
+          "products": [
+            {
+              "id": "xkaDhw9mn43pj7cK",
+              "name": null,
+              "components": [
+                {
+                  "id": "aHKNct1xxRtvQjYt",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-herbalism.Item.FpMpNmVYcFXPokKI",
+                  "quantity": 1,
+                  "name": "Potion of Vitality",
+                  "img": "icons/consumables/potions/potion-flask-corled-pink-red.webp",
+                  "tags": [],
+                  "resourcePath": ""
+                }
+              ]
+            }
+          ],
+          "productInspection": "0",
+          "sound": "",
+          "time": null,
+          "require": "",
+          "expression": "",
+          "modifierList": [],
+          "checks": [],
+          "type": "",
+          "requiresStation": false,
+          "requiresMinigame": false,
+          "minigame": {
+            "difficulty": "normal",
+            "canFail": false,
+            "perfect": ""
+          },
+          "timedMode": "",
+          "queueKey": ""
+        }
+      },
+      "_id": "4ZqtL3fzeIfufAs8",
+      "system": {
+        "htmlFields": [
+          "text.content"
+        ],
+        "text": {
+          "format": 1
+        }
+      },
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "sort": 0,
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.370",
+        "systemId": "dnd5e",
+        "systemVersion": "5.2.5",
+        "lastModifiedBy": "TJvRiTp7BS0avsVp",
+        "createdTime": 1794239342655,
+        "modifiedTime": 1794239342655
+      },
+      "_key": "!journal.pages!5I27YMOas1stwQhb.4ZqtL3fzeIfufAs8"
+    }
+  ],
+  "flags": {
+    "mastercrafted": {
+      "description": "Contains recipes for crafting very rare potions and salves",
+      "img": "icons/sundries/books/book-symbol-leaf-gold-green.webp",
+      "ingredientsInspection": "1",
+      "productInspection": "1",
+      "sound": "",
+      "require": "Herbalism Kit",
+      "macroName": "",
+      "time": null,
+      "timedMode": "parallel",
+      "queueKey": ""
+    }
+  },
+  "categories": [],
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.370",
+    "systemId": "dnd5e",
+    "systemVersion": "5.2.5",
+    "createdTime": 1773072020880,
+    "modifiedTime": 1794239343024,
+    "lastModifiedBy": "TJvRiTp7BS0avsVp"
+  },
+  "_id": "5I27YMOas1stwQhb",
+  "sort": 300000,
+  "_key": "!journal!5I27YMOas1stwQhb"
+}

@@ -1,0 +1,43 @@
+{
+  "name": "Soothsalt Geode",
+  "type": "loot",
+  "img": "icons/commodities/stone/ore-chunk-copper-orange.webp",
+  "system": {
+    "description": {
+      "value": "<p>A geode covered in a crystalline substance that can be extracted into soothsalts.</p><section id=\"secret-JnKfczsh99uaeTLW\" class=\"secret\"><p>Rarity: Rare (DC 20), Common (DC 10, only in the Miskath pit)</p><p>Gathering: Pickaxe or Crowbar (DC 10) (no modifier)</p><p>Quantity: 1d4 Geodes</p><p>Location: Blightshore</p><p>Uses (1): Soothsalts</p></section>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Potion Brewing and Ingredient Gathering for DnD 5e",
+    "quantity": 1,
+    "weight": {
+      "value": 0,
+      "units": "lb"
+    },
+    "price": 50,
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "rare",
+    "identified": true
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.0.3",
+    "coreVersion": "14.370",
+    "createdTime": 1665868840920,
+    "modifiedTime": 1794239342894,
+    "lastModifiedBy": "packsbuilder0000",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "YfVnagCZGhL6uoH3",
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!YfVnagCZGhL6uoH3"
+}

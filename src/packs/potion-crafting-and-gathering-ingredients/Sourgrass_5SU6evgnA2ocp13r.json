@@ -1,0 +1,43 @@
+{
+  "name": "Sourgrass",
+  "type": "loot",
+  "img": "icons/consumables/plants/grass-curcled-bundle-green.webp",
+  "system": {
+    "description": {
+      "value": "<p>This green, long-bladed grass has a pungent smell and flavor. Humanoids who come within 5 feet of uncut sourgrass must make a successful Constitution saving throw (DC 10) or become overwhelmed with nausea and inflicted with the poisoned condition for 30 seconds.</p><section id=\"secret-lWZ7ACwYutfxjwg5\" class=\"secret\"><p>Rarity: Uncommon (DC 15)</p><p>Gathering: Herbalism Kit (DC 5)</p><p>Quantity: 2d4 clumps</p><p>Location: Grasslands, Mountains</p><p>Uses (4): Soothing Salve, Potion of Growth, Potion of Resistance (Radiant), Greater Antitoxin</p></section>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Potion Brewing and Ingredient Gathering for DnD 5e",
+    "quantity": 1,
+    "weight": {
+      "value": 0,
+      "units": "lb"
+    },
+    "price": 10,
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "uncommon",
+    "identified": true
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.0.3",
+    "coreVersion": "14.370",
+    "createdTime": 1665691050140,
+    "modifiedTime": 1794239342889,
+    "lastModifiedBy": "packsbuilder0000",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "5SU6evgnA2ocp13r",
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!5SU6evgnA2ocp13r"
+}

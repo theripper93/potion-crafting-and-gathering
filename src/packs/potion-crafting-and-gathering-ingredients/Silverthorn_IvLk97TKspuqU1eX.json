@@ -1,0 +1,43 @@
+{
+  "name": "Silverthorn",
+  "type": "loot",
+  "img": "icons/consumables/plants/thorned-dried-stem-brown.webp",
+  "system": {
+    "description": {
+      "value": "<p>This thorny vine is a pale silver color, and is hard as metal. Patches of silverthorn create difficult terrain, and deal 1d6 piercing damage if moved through at normal speed.</p><section id=\"secret-76cAvUFc79goPVKY\" class=\"secret\"><p>Rarity: Rare (DC 20)</p><p>Gathering: Herbalism Kit (DC 15)</p><p>Quantity: 1d6 thorns</p><p>Location: Arctic, Mountains</p><p>Uses (6): Tincture of Werewolf's Bane, Oil of Sharpness, Potion of Vitality, Lesser Potion of Mana, Potion of Mana, Superior Potion of Mana</p></section>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Potion Brewing and Ingredient Gathering for DnD 5e",
+    "quantity": 1,
+    "weight": {
+      "value": 0,
+      "units": "lb"
+    },
+    "price": 50,
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "rare",
+    "identified": true
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.0.3",
+    "coreVersion": "14.370",
+    "createdTime": 1665867683577,
+    "modifiedTime": 1794239342890,
+    "lastModifiedBy": "packsbuilder0000",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "IvLk97TKspuqU1eX",
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!IvLk97TKspuqU1eX"
+}

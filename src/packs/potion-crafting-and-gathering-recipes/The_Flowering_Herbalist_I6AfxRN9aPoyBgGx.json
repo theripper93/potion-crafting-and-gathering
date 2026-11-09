@@ -1,0 +1,943 @@
+{
+  "name": "The Flowering Herbalist",
+  "ownership": {
+    "default": 0,
+    "rqEOxzm9pWZpMhH4": 0,
+    "QAdDWUaUNK09Iq3x": 0,
+    "GOvXOrkQSzey7yZ5": 0,
+    "56XvGn6U8R9S2vlW": 0,
+    "HHjDcylTiWQFDEbS": 0,
+    "qr1zQ11jcfurK31V": 3
+  },
+  "folder": "pOWf5q8NEqC82nKM",
+  "pages": [
+    {
+      "name": "Elixir of Health",
+      "type": "mastercrafted.mastercrafted",
+      "text": {
+        "content": "<p>When you drink this potion, it cures any disease afflicting you, and it removes the blinded, deafened, paralyzed, and poisoned conditions. The clear red liquid has tiny bubbles of light in it. It confers no benefit to undead or constructs.</p>",
+        "format": 1
+      },
+      "ownership": {
+        "default": -1,
+        "rqEOxzm9pWZpMhH4": -1,
+        "QAdDWUaUNK09Iq3x": -1,
+        "GOvXOrkQSzey7yZ5": -1,
+        "56XvGn6U8R9S2vlW": -1,
+        "HHjDcylTiWQFDEbS": -1
+      },
+      "flags": {
+        "mastercrafted": {
+          "img": "icons/consumables/potions/potion-flask-stopped-red.webp",
+          "ingredients": [
+            {
+              "id": "d23VygrmT17vdyIa",
+              "name": null,
+              "components": [
+                {
+                  "id": "9QYbu1nMmBf3Xb4Z",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.gM92fpjY9teFQ8ew",
+                  "quantity": 1,
+                  "name": "Fairy Stool",
+                  "img": "icons/consumables/mushrooms/umbontae-pink.webp",
+                  "tags": [],
+                  "resourcePath": ""
+                }
+              ]
+            },
+            {
+              "id": "dOQ22EjWVPhtrRQY",
+              "name": null,
+              "components": [
+                {
+                  "id": "DlsiwTCOlXpv9jDZ",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.kUzQnkx0GC5NTHsv",
+                  "quantity": 1,
+                  "name": "Gillyweed",
+                  "img": "icons/consumables/plants/basil-herb-green.webp",
+                  "tags": [],
+                  "resourcePath": ""
+                }
+              ]
+            }
+          ],
+          "ingredientsInspection": "0",
+          "macroName": "",
+          "products": [
+            {
+              "id": "AGwjiSplaFQWj4sI",
+              "name": null,
+              "components": [
+                {
+                  "id": "JdgohEhWP2oVHsRq",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-herbalism.Item.Vxsfg5tLaCwyE1TU",
+                  "quantity": 1,
+                  "name": "Elixir of Health",
+                  "img": "icons/consumables/potions/potion-flask-stopped-red.webp",
+                  "tags": [],
+                  "resourcePath": ""
+                }
+              ]
+            }
+          ],
+          "productInspection": "0",
+          "sound": "",
+          "time": null,
+          "require": "",
+          "expression": "",
+          "modifierList": [],
+          "checks": [],
+          "type": "",
+          "requiresStation": false,
+          "requiresMinigame": false,
+          "minigame": {
+            "difficulty": "normal",
+            "canFail": false,
+            "perfect": ""
+          },
+          "timedMode": "",
+          "queueKey": ""
+        }
+      },
+      "_id": "5L3zJkxiSYCvHiXR",
+      "system": {
+        "htmlFields": [
+          "text.content"
+        ],
+        "text": {
+          "format": 1
+        }
+      },
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "sort": 0,
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.370",
+        "systemId": "dnd5e",
+        "systemVersion": "5.2.5",
+        "lastModifiedBy": "TJvRiTp7BS0avsVp",
+        "createdTime": 1794239342691,
+        "modifiedTime": 1794239342691
+      },
+      "_key": "!journal.pages!I6AfxRN9aPoyBgGx.5L3zJkxiSYCvHiXR"
+    },
+    {
+      "name": "Liquid Luck",
+      "type": "mastercrafted.mastercrafted",
+      "text": {
+        "content": "<p>Visually indistinguishable from water, but tasting and smelling like the drinker’s favourite fruit. Drinking this potion grants the drinker advantage on all deception, Insight and persuasion checks for 3 hours.</p>",
+        "format": 1
+      },
+      "ownership": {
+        "default": -1,
+        "rqEOxzm9pWZpMhH4": -1,
+        "QAdDWUaUNK09Iq3x": -1,
+        "GOvXOrkQSzey7yZ5": -1,
+        "56XvGn6U8R9S2vlW": -1,
+        "HHjDcylTiWQFDEbS": -1
+      },
+      "flags": {
+        "mastercrafted": {
+          "img": "icons/consumables/potions/bottle-round-ring-teal.webp",
+          "ingredients": [
+            {
+              "id": "zVfXhHZbpffS49oJ",
+              "name": null,
+              "components": [
+                {
+                  "id": "nU4tCSqXCJdTxsqs",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.O0eT04b4AYt7qvr9",
+                  "quantity": 1,
+                  "name": "Rainbow Mushroom",
+                  "img": "icons/consumables/mushrooms/convex-bolete-brown.webp",
+                  "tags": [],
+                  "resourcePath": ""
+                }
+              ]
+            },
+            {
+              "id": "dIjCPJasZ9NzJ1D6",
+              "name": null,
+              "components": [
+                {
+                  "id": "XNy2dqIfsldzAFPT",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.sODZElZQJ8PiIvH1",
+                  "quantity": 1,
+                  "name": "Muroosa Twigs",
+                  "img": "icons/consumables/plants/fern-sword-green.webp",
+                  "tags": [],
+                  "resourcePath": ""
+                }
+              ]
+            },
+            {
+              "id": "ua6RqtpU6pHsbIP4",
+              "name": null,
+              "components": [
+                {
+                  "id": "kz3kv2QJuHojtASL",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.gM92fpjY9teFQ8ew",
+                  "quantity": 1,
+                  "name": "Fairy Stool",
+                  "img": "icons/consumables/mushrooms/umbontae-pink.webp",
+                  "tags": [],
+                  "resourcePath": ""
+                }
+              ]
+            }
+          ],
+          "ingredientsInspection": "0",
+          "macroName": "",
+          "products": [
+            {
+              "id": "0LiuG08z0YcERlEX",
+              "name": null,
+              "components": [
+                {
+                  "id": "112oADdq4YcVWKbV",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-herbalism.Item.8t6z474F66KdqalY",
+                  "quantity": 1,
+                  "name": "Liquid Luck",
+                  "img": "icons/consumables/potions/bottle-round-ring-teal.webp",
+                  "tags": [],
+                  "resourcePath": ""
+                }
+              ]
+            }
+          ],
+          "productInspection": "0",
+          "sound": "",
+          "time": null,
+          "require": "",
+          "expression": "",
+          "modifierList": [],
+          "checks": [],
+          "type": "",
+          "requiresStation": false,
+          "requiresMinigame": false,
+          "minigame": {
+            "difficulty": "normal",
+            "canFail": false,
+            "perfect": ""
+          },
+          "timedMode": "",
+          "queueKey": ""
+        }
+      },
+      "_id": "9qfISNlcCD9GMwhp",
+      "system": {
+        "htmlFields": [
+          "text.content"
+        ],
+        "text": {
+          "format": 1
+        }
+      },
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "sort": 0,
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.370",
+        "systemId": "dnd5e",
+        "systemVersion": "5.2.5",
+        "lastModifiedBy": "TJvRiTp7BS0avsVp",
+        "createdTime": 1794239342691,
+        "modifiedTime": 1794239342691
+      },
+      "_key": "!journal.pages!I6AfxRN9aPoyBgGx.9qfISNlcCD9GMwhp"
+    },
+    {
+      "name": "Polymorph Potion",
+      "type": "mastercrafted.mastercrafted",
+      "text": {
+        "content": "<p>An almost clear, pale green potion with a constantly morphing projection of a creature floating within. Drinking this potion allows the drinker to use the Polymorph spell on themselves for 15 minutes without concentration.</p>",
+        "format": 1
+      },
+      "ownership": {
+        "default": -1,
+        "rqEOxzm9pWZpMhH4": -1,
+        "QAdDWUaUNK09Iq3x": -1,
+        "GOvXOrkQSzey7yZ5": -1,
+        "56XvGn6U8R9S2vlW": -1,
+        "HHjDcylTiWQFDEbS": -1
+      },
+      "flags": {
+        "mastercrafted": {
+          "img": "icons/consumables/potions/bottle-pear-corked-labeled-green.webp",
+          "ingredients": [
+            {
+              "id": "bb2HHfMBC7fdv7x0",
+              "name": null,
+              "components": [
+                {
+                  "id": "MAIeelijdTX4t6tw",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.O0eT04b4AYt7qvr9",
+                  "quantity": 1,
+                  "name": "Rainbow Mushroom",
+                  "img": "icons/consumables/mushrooms/convex-bolete-brown.webp",
+                  "tags": [],
+                  "resourcePath": ""
+                }
+              ]
+            },
+            {
+              "id": "vdJNX2CdxkCfG4oK",
+              "name": null,
+              "components": [
+                {
+                  "id": "uYUIsXOewkoqoLJi",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.jjxoFljmT5atbIT8",
+                  "quantity": 1,
+                  "name": "Dreamlily",
+                  "img": "icons/commodities/flowers/lily-white.webp",
+                  "tags": [],
+                  "resourcePath": ""
+                }
+              ]
+            },
+            {
+              "id": "6lksyJQlvIXfmC58",
+              "name": null,
+              "components": [
+                {
+                  "id": "D2arrkXBg9hw42tN",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.SMab7kAjsYtxGJKJ",
+                  "quantity": 1,
+                  "name": "Willowshade Fruit",
+                  "img": "icons/consumables/fruit/date-ripe-red-green.webp",
+                  "tags": [],
+                  "resourcePath": ""
+                }
+              ]
+            }
+          ],
+          "ingredientsInspection": "0",
+          "macroName": "",
+          "products": [
+            {
+              "id": "nUiweGI9C55IHo5F",
+              "name": null,
+              "components": [
+                {
+                  "id": "n9MPnmsq1fn7uE0p",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-herbalism.Item.ochw6JbyYtwJUGVn",
+                  "quantity": 1,
+                  "name": "Polymorph Potion",
+                  "img": "icons/consumables/potions/bottle-pear-corked-labeled-green.webp",
+                  "tags": [],
+                  "resourcePath": ""
+                }
+              ]
+            }
+          ],
+          "productInspection": "0",
+          "sound": "",
+          "time": null,
+          "require": "",
+          "expression": "",
+          "modifierList": [],
+          "checks": [],
+          "type": "",
+          "requiresStation": false,
+          "requiresMinigame": false,
+          "minigame": {
+            "difficulty": "normal",
+            "canFail": false,
+            "perfect": ""
+          },
+          "timedMode": "",
+          "queueKey": ""
+        }
+      },
+      "_id": "gIzqQdX7cCAuBR5L",
+      "system": {
+        "htmlFields": [
+          "text.content"
+        ],
+        "text": {
+          "format": 1
+        }
+      },
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "sort": 0,
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.370",
+        "systemId": "dnd5e",
+        "systemVersion": "5.2.5",
+        "lastModifiedBy": "TJvRiTp7BS0avsVp",
+        "createdTime": 1794239342691,
+        "modifiedTime": 1794239342691
+      },
+      "_key": "!journal.pages!I6AfxRN9aPoyBgGx.gIzqQdX7cCAuBR5L"
+    },
+    {
+      "name": "Potion of Restoration",
+      "type": "mastercrafted.mastercrafted",
+      "text": {
+        "content": "<p>A purple potion with images of strands of muscle, blood veins and chunks of organ floating in it. Drinking this potion causes destroyed or missing body parts and/or organs to regrow over a period of a week. This causes severe itching and sometimes rashy pain at the sites of regrowth.</p>",
+        "format": 1
+      },
+      "ownership": {
+        "default": -1,
+        "rqEOxzm9pWZpMhH4": -1,
+        "QAdDWUaUNK09Iq3x": -1,
+        "GOvXOrkQSzey7yZ5": -1,
+        "56XvGn6U8R9S2vlW": -1,
+        "HHjDcylTiWQFDEbS": -1
+      },
+      "flags": {
+        "mastercrafted": {
+          "img": "icons/consumables/potions/flask-corked-purple-glow.webp",
+          "ingredients": [
+            {
+              "id": "5hfqwsqIA7dqvWb9",
+              "name": null,
+              "components": [
+                {
+                  "id": "oCCAODlloVZbxJmJ",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.vperyfe91D7Y0mWW",
+                  "quantity": "2",
+                  "name": "Acid Dew",
+                  "img": "icons/commodities/biological/tentacle-thorned-green.webp",
+                  "tags": [],
+                  "resourcePath": ""
+                }
+              ]
+            },
+            {
+              "id": "yiVRcw18XTyPJvCl",
+              "name": null,
+              "components": [
+                {
+                  "id": "tsRsYTgy1JOjDzeV",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.q56qk1upHBqOeFo0",
+                  "quantity": 1,
+                  "name": "Morning Dew",
+                  "img": "icons/consumables/plants/cilantro-parsley-herb-leaf-green.webp",
+                  "tags": [],
+                  "resourcePath": ""
+                }
+              ]
+            },
+            {
+              "id": "smWTCh3XstpxdXQE",
+              "name": null,
+              "components": [
+                {
+                  "id": "UepGENvZmys4dBS2",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.PesWw8Dh27Q7hqCB",
+                  "quantity": "2",
+                  "name": "Red Amanita Mushroom",
+                  "img": "icons/consumables/mushrooms/helm-red-white.webp",
+                  "tags": [],
+                  "resourcePath": ""
+                }
+              ]
+            }
+          ],
+          "ingredientsInspection": "0",
+          "macroName": "",
+          "products": [
+            {
+              "id": "l7li56aqRkv5ZrB4",
+              "name": null,
+              "components": [
+                {
+                  "id": "9aCGN7Xbx23dOLR4",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-herbalism.Item.AzmqxeFRA4vAO8D5",
+                  "quantity": 1,
+                  "name": "Potion of Restoration",
+                  "img": "icons/consumables/potions/flask-corked-purple-glow.webp",
+                  "tags": [],
+                  "resourcePath": ""
+                }
+              ]
+            }
+          ],
+          "productInspection": "0",
+          "sound": "",
+          "time": null,
+          "require": "",
+          "expression": "",
+          "modifierList": [],
+          "checks": [],
+          "type": "",
+          "requiresStation": false,
+          "requiresMinigame": false,
+          "minigame": {
+            "difficulty": "normal",
+            "canFail": false,
+            "perfect": ""
+          },
+          "timedMode": "",
+          "queueKey": ""
+        }
+      },
+      "_id": "o5gI78XYYEOdWPce",
+      "system": {
+        "htmlFields": [
+          "text.content"
+        ],
+        "text": {
+          "format": 1
+        }
+      },
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "sort": 0,
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.370",
+        "systemId": "dnd5e",
+        "systemVersion": "5.2.5",
+        "lastModifiedBy": "TJvRiTp7BS0avsVp",
+        "createdTime": 1794239342691,
+        "modifiedTime": 1794239342691
+      },
+      "_key": "!journal.pages!I6AfxRN9aPoyBgGx.o5gI78XYYEOdWPce"
+    },
+    {
+      "name": "Potion of Revival",
+      "type": "mastercrafted.mastercrafted",
+      "text": {
+        "content": "<p>An entirely opaque, black potion with a point of light hanging in the middle. Drinking this potion has no effect on live people, but when poured down the throat of a person who died within a minute of administration it revives them, returning them to 1 HP. This does not work if they died of old age nor can it repair any missing body parts.</p>",
+        "format": 1
+      },
+      "ownership": {
+        "default": -1,
+        "rqEOxzm9pWZpMhH4": -1,
+        "QAdDWUaUNK09Iq3x": -1,
+        "GOvXOrkQSzey7yZ5": -1,
+        "56XvGn6U8R9S2vlW": -1,
+        "HHjDcylTiWQFDEbS": -1
+      },
+      "flags": {
+        "mastercrafted": {
+          "img": "icons/consumables/potions/potion-vial-corked-labeled-purple.webp",
+          "ingredients": [
+            {
+              "id": "FtUTs2J7IyVyXOWx",
+              "name": null,
+              "components": [
+                {
+                  "id": "VCZxYJRQ1dxtnmcV",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.vperyfe91D7Y0mWW",
+                  "quantity": 1,
+                  "name": "Acid Dew",
+                  "img": "icons/commodities/biological/tentacle-thorned-green.webp",
+                  "tags": [],
+                  "resourcePath": ""
+                }
+              ]
+            },
+            {
+              "id": "TF31f4DaITh6B0b8",
+              "name": null,
+              "components": [
+                {
+                  "id": "NfsrQRv8Wkuhj93w",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.jjxoFljmT5atbIT8",
+                  "quantity": 1,
+                  "name": "Dreamlily",
+                  "img": "icons/commodities/flowers/lily-white.webp",
+                  "tags": [],
+                  "resourcePath": ""
+                }
+              ]
+            },
+            {
+              "id": "hFeskrAtFbvrQwLp",
+              "name": null,
+              "components": [
+                {
+                  "id": "6hSjblmsKdDwtahc",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.AvyiJlB22uJt9J5E",
+                  "quantity": 1,
+                  "name": "White Ghost Orchid Seed",
+                  "img": "icons/consumables/nuts/cashew-white.webp",
+                  "tags": [],
+                  "resourcePath": ""
+                }
+              ]
+            }
+          ],
+          "ingredientsInspection": "0",
+          "macroName": "",
+          "products": [
+            {
+              "id": "nH0UJchLED6g0Bdk",
+              "name": null,
+              "components": [
+                {
+                  "id": "dOh2P71Sjy10LraS",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-herbalism.Item.3xULlbFXYFbFaVrq",
+                  "quantity": 1,
+                  "name": "Potion of Rivival",
+                  "img": "icons/consumables/potions/potion-vial-corked-labeled-purple.webp",
+                  "tags": [],
+                  "resourcePath": ""
+                }
+              ]
+            }
+          ],
+          "productInspection": "0",
+          "sound": "",
+          "time": null,
+          "require": "",
+          "expression": "",
+          "modifierList": [],
+          "checks": [],
+          "type": "",
+          "requiresStation": false,
+          "requiresMinigame": false,
+          "minigame": {
+            "difficulty": "normal",
+            "canFail": false,
+            "perfect": ""
+          },
+          "timedMode": "",
+          "queueKey": ""
+        }
+      },
+      "_id": "eoI7rqGNihPixrVQ",
+      "system": {
+        "htmlFields": [
+          "text.content"
+        ],
+        "text": {
+          "format": 1
+        }
+      },
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "sort": 0,
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.370",
+        "systemId": "dnd5e",
+        "systemVersion": "5.2.5",
+        "lastModifiedBy": "TJvRiTp7BS0avsVp",
+        "createdTime": 1794239342691,
+        "modifiedTime": 1794239342691
+      },
+      "_key": "!journal.pages!I6AfxRN9aPoyBgGx.eoI7rqGNihPixrVQ"
+    },
+    {
+      "name": "Potion of Superior Healing",
+      "type": "mastercrafted.mastercrafted",
+      "text": {
+        "content": "<p>You regain 8d4 + 8 hit points when you drink this potion. The potion's red liquid glimmers when agitated. It confers no benefit to undead or constructs.</p>",
+        "format": 1
+      },
+      "ownership": {
+        "default": -1,
+        "rqEOxzm9pWZpMhH4": -1,
+        "QAdDWUaUNK09Iq3x": -1,
+        "GOvXOrkQSzey7yZ5": -1,
+        "56XvGn6U8R9S2vlW": -1,
+        "HHjDcylTiWQFDEbS": -1
+      },
+      "flags": {
+        "mastercrafted": {
+          "img": "icons/consumables/potions/bottle-round-corked-red.webp",
+          "ingredients": [
+            {
+              "id": "T7b4wssOnWdvOlm2",
+              "name": null,
+              "components": [
+                {
+                  "id": "zhoJvoH7mucyFRRV",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.PesWw8Dh27Q7hqCB",
+                  "quantity": "3",
+                  "name": "Red Amanita Mushroom",
+                  "img": "icons/consumables/mushrooms/helm-red-white.webp",
+                  "tags": [],
+                  "resourcePath": ""
+                }
+              ]
+            }
+          ],
+          "ingredientsInspection": "0",
+          "macroName": "",
+          "products": [
+            {
+              "id": "U7FOealg9IESoMEp",
+              "name": null,
+              "components": [
+                {
+                  "id": "slqqNNWq9KGNwow5",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-herbalism.Item.rN9kdGbEOgWkqJ0g",
+                  "quantity": 1,
+                  "name": "Potion of Healing (Superior)",
+                  "img": "icons/consumables/potions/bottle-round-corked-red.webp",
+                  "tags": [],
+                  "resourcePath": ""
+                }
+              ]
+            }
+          ],
+          "productInspection": "0",
+          "sound": "",
+          "time": null,
+          "require": "",
+          "expression": "",
+          "modifierList": [],
+          "checks": [],
+          "type": "",
+          "requiresStation": false,
+          "requiresMinigame": false,
+          "minigame": {
+            "difficulty": "normal",
+            "canFail": false,
+            "perfect": ""
+          },
+          "timedMode": "",
+          "queueKey": ""
+        }
+      },
+      "_id": "wr98OiJ0B8egc2sZ",
+      "system": {
+        "htmlFields": [
+          "text.content"
+        ],
+        "text": {
+          "format": 1
+        }
+      },
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "sort": 0,
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.370",
+        "systemId": "dnd5e",
+        "systemVersion": "5.2.5",
+        "lastModifiedBy": "TJvRiTp7BS0avsVp",
+        "createdTime": 1794239342692,
+        "modifiedTime": 1794239342692
+      },
+      "_key": "!journal.pages!I6AfxRN9aPoyBgGx.wr98OiJ0B8egc2sZ"
+    },
+    {
+      "name": "Tincture of Werewolf's Bane",
+      "type": "mastercrafted.mastercrafted",
+      "text": {
+        "content": "<p>Any lycanthrope that drinks this tincture must make a DC 19 Constitution saving throw. On a failed save, the lycanthrope takes 3d10 necrotic damage and must change to its humanoid form if it was not already in that form, after which the lycanthrope cannot change form for 24 hours. On a success, the lycanthrope only takes half that damage.</p>",
+        "format": 1
+      },
+      "ownership": {
+        "default": -1,
+        "rqEOxzm9pWZpMhH4": -1,
+        "QAdDWUaUNK09Iq3x": -1,
+        "GOvXOrkQSzey7yZ5": -1,
+        "56XvGn6U8R9S2vlW": -1,
+        "HHjDcylTiWQFDEbS": -1
+      },
+      "flags": {
+        "mastercrafted": {
+          "img": "icons/consumables/potions/potion-flask-capped-yellow-green.webp",
+          "ingredients": [
+            {
+              "id": "2X8kNp4WBfGeeYTx",
+              "name": null,
+              "components": [
+                {
+                  "id": "b7E2zN7Hr2RSG0Vv",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.Ag50fstRwIuLyrhr",
+                  "quantity": 1,
+                  "name": "Wolfsbane",
+                  "img": "icons/commodities/flowers/strawberry-single-white.webp",
+                  "tags": [],
+                  "resourcePath": ""
+                }
+              ]
+            },
+            {
+              "id": "OPMPw5FMf87fJnbl",
+              "name": null,
+              "components": [
+                {
+                  "id": "6BkWgrABGFOPbTO9",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.IvLk97TKspuqU1eX",
+                  "quantity": 1,
+                  "name": "Silverthorn",
+                  "img": "icons/consumables/plants/thorned-dried-stem-brown.webp",
+                  "tags": [],
+                  "resourcePath": ""
+                }
+              ]
+            }
+          ],
+          "ingredientsInspection": "0",
+          "macroName": "",
+          "products": [
+            {
+              "id": "8kaDNHJO3QJxWhik",
+              "name": null,
+              "components": [
+                {
+                  "id": "NLeJ4wKoX8EYP6sP",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-herbalism.Item.HaoqYzxdcao45krj",
+                  "quantity": 1,
+                  "name": "Tincture of Werewolf's Bane",
+                  "img": "icons/consumables/potions/potion-flask-capped-yellow-green.webp",
+                  "tags": [],
+                  "resourcePath": ""
+                }
+              ]
+            }
+          ],
+          "productInspection": "0",
+          "sound": "",
+          "time": null,
+          "require": "",
+          "expression": "",
+          "modifierList": [],
+          "checks": [],
+          "type": "",
+          "requiresStation": false,
+          "requiresMinigame": false,
+          "minigame": {
+            "difficulty": "normal",
+            "canFail": false,
+            "perfect": ""
+          },
+          "timedMode": "",
+          "queueKey": ""
+        }
+      },
+      "_id": "iJ99JvzU1KTqlXDE",
+      "system": {
+        "htmlFields": [
+          "text.content"
+        ],
+        "text": {
+          "format": 1
+        }
+      },
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "sort": 0,
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.370",
+        "systemId": "dnd5e",
+        "systemVersion": "5.2.5",
+        "lastModifiedBy": "TJvRiTp7BS0avsVp",
+        "createdTime": 1794239342692,
+        "modifiedTime": 1794239342692
+      },
+      "_key": "!journal.pages!I6AfxRN9aPoyBgGx.iJ99JvzU1KTqlXDE"
+    }
+  ],
+  "flags": {
+    "mastercrafted": {
+      "description": "Contains recipes for crafting rare potions and salves",
+      "img": "icons/sundries/books/book-symbol-leaf-gold-green.webp",
+      "ingredientsInspection": "1",
+      "productInspection": "1",
+      "sound": "",
+      "require": "Herbalism Kit",
+      "macroName": "",
+      "time": null,
+      "timedMode": "parallel",
+      "queueKey": ""
+    }
+  },
+  "categories": [],
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.370",
+    "systemId": "dnd5e",
+    "systemVersion": "5.2.5",
+    "createdTime": 1773072023827,
+    "modifiedTime": 1794239343025,
+    "lastModifiedBy": "TJvRiTp7BS0avsVp"
+  },
+  "_id": "I6AfxRN9aPoyBgGx",
+  "sort": 200000,
+  "_key": "!journal!I6AfxRN9aPoyBgGx"
+}

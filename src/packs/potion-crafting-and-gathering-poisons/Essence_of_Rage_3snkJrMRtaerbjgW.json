@@ -1,0 +1,187 @@
+{
+  "name": "Essence of Rage",
+  "type": "consumable",
+  "img": "icons/consumables/potions/flask-corked-yellow-glow.webp",
+  "system": {
+    "description": {
+      "value": "<p>A brown potion with the consistency of mud, it turns into a clear, violently red potion when agitated with more than the lightest touch. Drinking the potion provides the Rage ability of the Barbarian class for 30 seconds. When directly brought in contact with the blood of a creature through injury or injection, it forces the target to make a DC 16 Constitution throw. On a successful save, the target gets the Rage ability of the Barbarian class for 60 seconds. On a failed save, the target is forced into the Rage ability of the Barbarian class for 30 seconds and forced to attack the closest target with melee attacks. Starting on the 2nd turn after the potion is applied, the target can make another Constitution saving throw. On a success, all effects end. This potion has no effect on constructs or the undead.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Potion Brewing and Ingredient Gathering for DnD 5e",
+    "quantity": 1,
+    "weight": {
+      "value": 0,
+      "units": "lb"
+    },
+    "price": 0,
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "veryRare",
+    "identified": true,
+    "activation": {
+      "type": "action",
+      "cost": 1,
+      "condition": ""
+    },
+    "duration": {
+      "value": null,
+      "units": ""
+    },
+    "target": {
+      "value": null,
+      "width": null,
+      "units": "",
+      "type": ""
+    },
+    "range": {
+      "value": null,
+      "long": null,
+      "units": ""
+    },
+    "uses": {
+      "value": 1,
+      "max": "1",
+      "per": "charges",
+      "recovery": "",
+      "autoDestroy": true
+    },
+    "consume": {
+      "type": "",
+      "target": "",
+      "amount": null
+    },
+    "ability": "",
+    "actionType": "save",
+    "attackBonus": 0,
+    "chatFlavor": "",
+    "critical": {
+      "threshold": null,
+      "damage": ""
+    },
+    "damage": {
+      "parts": [],
+      "versatile": ""
+    },
+    "formula": "",
+    "save": {
+      "ability": "con",
+      "dc": 16,
+      "scaling": "flat"
+    },
+    "consumableType": "poison"
+  },
+  "effects": [
+    {
+      "origin": "Item.xOhz3THIXFOm5AJQ",
+      "duration": {
+        "value": 30,
+        "units": "seconds",
+        "expiry": "turnStart",
+        "expired": false
+      },
+      "disabled": false,
+      "_id": "eKVGOpK35GTKIFYT",
+      "tint": "#ffffff",
+      "transfer": false,
+      "flags": {
+        "dae": {
+          "selfTarget": false,
+          "selfTargetAlways": false,
+          "stackable": "none",
+          "durationExpression": "",
+          "specialDuration": []
+        },
+        "core": {
+          "statusId": ""
+        }
+      },
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Essence of Rage",
+      "img": "icons/consumables/potions/flask-corked-yellow-glow.webp",
+      "type": "base",
+      "system": {
+        "changes": [
+          {
+            "key": "macro.CE",
+            "value": "rage",
+            "priority": 20,
+            "type": "custom"
+          }
+        ]
+      },
+      "description": "",
+      "statuses": [],
+      "sort": 0,
+      "start": null,
+      "showIcon": 1,
+      "folder": null,
+      "_key": "!items.effects!3snkJrMRtaerbjgW.eKVGOpK35GTKIFYT"
+    }
+  ],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "magicitems": {
+      "enabled": false,
+      "equipped": false,
+      "attuned": false,
+      "charges": "0",
+      "chargeType": "c1",
+      "destroy": false,
+      "destroyFlavorText": "reaches 0 charges: it crumbles into ashes and is destroyed.",
+      "rechargeable": false,
+      "recharge": "0",
+      "rechargeType": "t1",
+      "rechargeUnit": "r1",
+      "sorting": "l"
+    },
+    "rest-recovery": {
+      "data": {
+        "recovery": {
+          "enabled": false
+        }
+      }
+    },
+    "midi-qol": {
+      "effectActivation": false
+    },
+    "midiProperties": {
+      "nodam": false,
+      "fulldam": false,
+      "halfdam": false,
+      "rollOther": false,
+      "critOther": false,
+      "magicdam": false,
+      "magiceffect": false,
+      "concentration": false,
+      "toggleEffect": false
+    }
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.0.3",
+    "coreVersion": "14.370",
+    "createdTime": 1666048096387,
+    "modifiedTime": 1794239342972,
+    "lastModifiedBy": "packsbuilder0000",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "3snkJrMRtaerbjgW",
+  "_key": "!items!3snkJrMRtaerbjgW"
+}

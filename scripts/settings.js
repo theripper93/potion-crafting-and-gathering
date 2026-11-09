@@ -1,18 +1,33 @@
 import { MODULE_ID } from "./main.js";
+import { ImportApp } from "./app/ImportApp.js";
 
 export function registerSettings() {
+    game.settings.registerMenu(MODULE_ID, "importMenu", {
+        name: `${MODULE_ID}.settings.importMenu.name`,
+        label: `${MODULE_ID}.settings.importMenu.label`,
+        hint: `${MODULE_ID}.settings.importMenu.hint`,
+        icon: "fa-solid fa-file-import",
+        type: ImportApp,
+        restricted: true,
+    });
+
     const settings = {
-        "booksImported": {
-            name: "Import Content on startup",
-            hint: "",
+        "showImportOnStartup": {
             scope: "world",
-            config: true,
+            config: false,
             type: Boolean,
             default: true,
-          }
+        },
     };
 
     registerSettingsArray(settings);
+}
+
+export async function migrateLegacySettings() {
+    const legacy = game.settings.storage.get("world").getSetting(`${MODULE_ID}.booksImported`);
+    if (!legacy) return;
+    await setSetting("showImportOnStartup", JSON.parse(legacy._source.value));
+    await legacy.delete();
 }
 
 export function getSetting(key) {

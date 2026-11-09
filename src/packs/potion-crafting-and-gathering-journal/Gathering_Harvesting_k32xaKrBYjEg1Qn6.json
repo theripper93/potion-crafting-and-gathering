@@ -1,0 +1,978 @@
+{
+  "name": "Gathering & Harvesting",
+  "pages": [
+    {
+      "sort": 100000,
+      "name": "Arctic",
+      "type": "gatherer.gatherer",
+      "_id": "eQrjG6pb7y3lxfUU",
+      "title": {
+        "show": true,
+        "level": 2
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p></p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {
+        "htmlFields": [
+          "text.content"
+        ],
+        "table": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-tables.RollTable.UrhXVaKOH5qBpEi3",
+        "require": "Herbalism Kit",
+        "minigame": {
+          "type": "classic",
+          "difficulty": "hard"
+        },
+        "checks": [
+          "check=tool.herb|dc=15"
+        ]
+      },
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "core": {}
+      },
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": 1794239342415,
+        "modifiedTime": 1794239342415,
+        "lastModifiedBy": "TJvRiTp7BS0avsVp",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!k32xaKrBYjEg1Qn6.eQrjG6pb7y3lxfUU"
+    },
+    {
+      "sort": 100000,
+      "name": "Blightshore",
+      "type": "gatherer.gatherer",
+      "title": {
+        "show": true,
+        "level": 2
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p></p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {
+        "htmlFields": [
+          "text.content"
+        ],
+        "table": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-tables.RollTable.Rk8vgXLFmzJ9wc3u",
+        "require": "Herbalism Kit",
+        "minigame": {
+          "type": "classic",
+          "difficulty": "hard"
+        },
+        "checks": [
+          "check=tool.herb|dc=20"
+        ]
+      },
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "core": {}
+      },
+      "_id": "zcBjFDkrK8qnLf7m",
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": 1794239342435,
+        "modifiedTime": 1794239342435,
+        "lastModifiedBy": "TJvRiTp7BS0avsVp",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!k32xaKrBYjEg1Qn6.zcBjFDkrK8qnLf7m"
+    },
+    {
+      "sort": 100000,
+      "name": "Coast",
+      "type": "gatherer.gatherer",
+      "title": {
+        "show": true,
+        "level": 2
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p></p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {
+        "htmlFields": [
+          "text.content"
+        ],
+        "table": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-tables.RollTable.ExBxGVPNbit8FYIz",
+        "require": "Herbalism Kit",
+        "minigame": {
+          "type": "classic",
+          "difficulty": "hard"
+        },
+        "checks": [
+          "check=tool.herb|dc=10"
+        ]
+      },
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "core": {}
+      },
+      "_id": "40yKrtUaKhSDNIGp",
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": 1794239342445,
+        "modifiedTime": 1794239342445,
+        "lastModifiedBy": "TJvRiTp7BS0avsVp",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!k32xaKrBYjEg1Qn6.40yKrtUaKhSDNIGp"
+    },
+    {
+      "sort": 100000,
+      "name": "Desert",
+      "type": "gatherer.gatherer",
+      "title": {
+        "show": true,
+        "level": 2
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p></p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {
+        "htmlFields": [
+          "text.content"
+        ],
+        "table": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-tables.RollTable.98yWStx4EoQY3Eex",
+        "require": "Herbalism Kit",
+        "minigame": {
+          "type": "classic",
+          "difficulty": "hard"
+        },
+        "checks": [
+          "check=tool.herb|dc=15"
+        ]
+      },
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "core": {}
+      },
+      "_id": "9odk0aLUoyEaKHyW",
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": 1794239342457,
+        "modifiedTime": 1794239342457,
+        "lastModifiedBy": "TJvRiTp7BS0avsVp",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!k32xaKrBYjEg1Qn6.9odk0aLUoyEaKHyW"
+    },
+    {
+      "sort": 100000,
+      "name": "Forests",
+      "type": "gatherer.gatherer",
+      "title": {
+        "show": true,
+        "level": 2
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p></p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {
+        "htmlFields": [
+          "text.content"
+        ],
+        "table": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-tables.RollTable.DMitUeO7hzFz2lmi",
+        "require": "Herbalism Kit",
+        "minigame": {
+          "type": "classic",
+          "difficulty": "hard"
+        },
+        "checks": [
+          "check=tool.herb|dc=10"
+        ]
+      },
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "core": {}
+      },
+      "_id": "ufCuZsRbp2pXSb8o",
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": 1794239342467,
+        "modifiedTime": 1794239342467,
+        "lastModifiedBy": "TJvRiTp7BS0avsVp",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!k32xaKrBYjEg1Qn6.ufCuZsRbp2pXSb8o"
+    },
+    {
+      "sort": 100000,
+      "name": "Grasslands",
+      "type": "gatherer.gatherer",
+      "title": {
+        "show": true,
+        "level": 2
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p></p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {
+        "htmlFields": [
+          "text.content"
+        ],
+        "table": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-tables.RollTable.VYVMhkw2JS3JRl16",
+        "require": "Herbalism Kit",
+        "minigame": {
+          "type": "classic",
+          "difficulty": "hard"
+        },
+        "checks": [
+          "check=tool.herb|dc=10"
+        ]
+      },
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "core": {}
+      },
+      "_id": "9N04bzl7wQiXMRrl",
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": 1794239342475,
+        "modifiedTime": 1794239342475,
+        "lastModifiedBy": "TJvRiTp7BS0avsVp",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!k32xaKrBYjEg1Qn6.9N04bzl7wQiXMRrl"
+    },
+    {
+      "sort": 100000,
+      "name": "Hill",
+      "type": "gatherer.gatherer",
+      "title": {
+        "show": true,
+        "level": 2
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p></p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {
+        "htmlFields": [
+          "text.content"
+        ],
+        "table": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-tables.RollTable.CIvugLRRsEfEe9oN",
+        "require": "Herbalism Kit",
+        "minigame": {
+          "type": "classic",
+          "difficulty": "hard"
+        },
+        "checks": [
+          "check=tool.herb|dc=20"
+        ]
+      },
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "core": {}
+      },
+      "_id": "lNwy08ByPDCZfCHS",
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": 1794239342484,
+        "modifiedTime": 1794239342484,
+        "lastModifiedBy": "TJvRiTp7BS0avsVp",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!k32xaKrBYjEg1Qn6.lNwy08ByPDCZfCHS"
+    },
+    {
+      "sort": 100000,
+      "name": "Mountains",
+      "type": "gatherer.gatherer",
+      "title": {
+        "show": true,
+        "level": 2
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p></p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {
+        "htmlFields": [
+          "text.content"
+        ],
+        "table": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-tables.RollTable.ixlXDcsu8V9mhqEG",
+        "require": "Herbalism Kit",
+        "minigame": {
+          "type": "classic",
+          "difficulty": "hard"
+        },
+        "checks": [
+          "check=tool.herb|dc=15"
+        ]
+      },
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "core": {}
+      },
+      "_id": "2mRRTxAFMOmEHfmy",
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": 1794239342491,
+        "modifiedTime": 1794239342491,
+        "lastModifiedBy": "TJvRiTp7BS0avsVp",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!k32xaKrBYjEg1Qn6.2mRRTxAFMOmEHfmy"
+    },
+    {
+      "sort": 100000,
+      "name": "Savannahs",
+      "type": "gatherer.gatherer",
+      "title": {
+        "show": true,
+        "level": 2
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p></p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {
+        "htmlFields": [
+          "text.content"
+        ],
+        "table": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-tables.RollTable.fHDjKsmVn9rgQJft",
+        "require": "Herbalism Kit",
+        "minigame": {
+          "type": "classic",
+          "difficulty": "hard"
+        },
+        "checks": [
+          "check=tool.herb|dc=10"
+        ]
+      },
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "core": {}
+      },
+      "_id": "5bS0N3ftLnpWHfe5",
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": 1794239342502,
+        "modifiedTime": 1794239342502,
+        "lastModifiedBy": "TJvRiTp7BS0avsVp",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!k32xaKrBYjEg1Qn6.5bS0N3ftLnpWHfe5"
+    },
+    {
+      "sort": 100000,
+      "name": "Swamp",
+      "type": "gatherer.gatherer",
+      "title": {
+        "show": true,
+        "level": 2
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p></p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {
+        "htmlFields": [
+          "text.content"
+        ],
+        "table": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-tables.RollTable.jcwcRtYntdgygpeP",
+        "require": "Herbalism Kit",
+        "minigame": {
+          "type": "classic",
+          "difficulty": "hard"
+        },
+        "checks": [
+          "check=tool.herb|dc=10"
+        ]
+      },
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "core": {}
+      },
+      "_id": "aG1sufUNXvXV2j4M",
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": 1794239342507,
+        "modifiedTime": 1794239342507,
+        "lastModifiedBy": "TJvRiTp7BS0avsVp",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!k32xaKrBYjEg1Qn6.aG1sufUNXvXV2j4M"
+    },
+    {
+      "sort": 100000,
+      "name": "Urban Areas",
+      "type": "gatherer.gatherer",
+      "title": {
+        "show": true,
+        "level": 2
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p></p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {
+        "htmlFields": [
+          "text.content"
+        ],
+        "table": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-tables.RollTable.V3Sn8hbdCAz21S9m",
+        "require": "Herbalism Kit",
+        "minigame": {
+          "type": "classic",
+          "difficulty": "hard"
+        },
+        "checks": [
+          "check=tool.herb|dc=15"
+        ]
+      },
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "core": {}
+      },
+      "_id": "s6Q90i2oREUSQrqw",
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": 1794239342516,
+        "modifiedTime": 1794239342516,
+        "lastModifiedBy": "TJvRiTp7BS0avsVp",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!k32xaKrBYjEg1Qn6.s6Q90i2oREUSQrqw"
+    },
+    {
+      "sort": 100000,
+      "name": "Underground",
+      "type": "gatherer.gatherer",
+      "title": {
+        "show": true,
+        "level": 2
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p></p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {
+        "htmlFields": [
+          "text.content"
+        ],
+        "table": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-tables.RollTable.dkgHy4oOAhO2mqxJ",
+        "require": "Herbalism Kit",
+        "minigame": {
+          "type": "classic",
+          "difficulty": "hard"
+        },
+        "checks": [
+          "check=tool.herb|dc=15"
+        ]
+      },
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "core": {}
+      },
+      "_id": "rIqirP9OQOKXwFJb",
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": 1794239342523,
+        "modifiedTime": 1794239342523,
+        "lastModifiedBy": "TJvRiTp7BS0avsVp",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!k32xaKrBYjEg1Qn6.rIqirP9OQOKXwFJb"
+    },
+    {
+      "sort": 100000,
+      "name": "Volcanos",
+      "type": "gatherer.gatherer",
+      "title": {
+        "show": true,
+        "level": 2
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p></p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {
+        "htmlFields": [
+          "text.content"
+        ],
+        "table": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-tables.RollTable.AzUAaxT1dM4dn0Xv",
+        "require": "Herbalism Kit",
+        "minigame": {
+          "type": "classic",
+          "difficulty": "hard"
+        },
+        "checks": [
+          "check=tool.herb|dc=20"
+        ]
+      },
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "core": {}
+      },
+      "_id": "2y4m0vGRMmI7T3jD",
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": 1794239342529,
+        "modifiedTime": 1794239342529,
+        "lastModifiedBy": "TJvRiTp7BS0avsVp",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!k32xaKrBYjEg1Qn6.2y4m0vGRMmI7T3jD"
+    },
+    {
+      "sort": -100000,
+      "name": "Welcome",
+      "type": "text",
+      "_id": "TU72H3HbSOrR56CR",
+      "title": {
+        "show": false,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>Hello! This is a little module I put together to create a crafting system in Foundry using the <a href=\"https://www.gmbinder.com/share/-MNG6P6I8-1tJM3aroaV\">Potion Crafting and Gathering</a> supplement. This is my first time packaging content up like this, so it'll be a little messy for a while. Regardless, enjoy!</p><p></p><h2>Required modules</h2><ul><li><p>Gatherer for gathering</p><ul><li><p>Better Roll Tables for gathering in quantities</p></li></ul></li><li><p>Mastercrafted for crafting</p></li></ul><p></p><h2>Recommended modules</h2><ul><li><p>midiQOL for automatic rolling of stuff</p></li><li><p>Dynamic Active Effects for applying effects when a player eats a mushroom or drinks a potion</p></li><li><p>Rest Recovery 5e so edible ingredients count towards sating hunger</p><p></p></li></ul><h2>Setup</h2><p>For Gatherer nodes to work, you'll need to import the Potion Crafting and Gathering Tables compendium to your world.</p><p>For crafting, create a placeholder recipe book in Mastercrafted, then right click and import the desired book from the Recipes folder included with this module</p><p></p><h2>Credits</h2><ul><li><p>Content is by <a href=\"https://www.patreon.com/user/posts?u=78783518\">piccolo917</a></p></li><li><p>Gatherer and Mastercrafted modules by <a href=\"https://www.patreon.com/theripper93/posts\">theripper93</a></p></li><li><p>Nerd work by <a href=\"http://www.actionjay.com/\">action_jay</a></p></li></ul>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!k32xaKrBYjEg1Qn6.TU72H3HbSOrR56CR"
+    },
+    {
+      "_id": "a4R6U2VRPimvWFtM",
+      "name": "Mining: Mountains",
+      "type": "gatherer.gatherer",
+      "sort": 200000,
+      "ownership": {
+        "default": -1
+      },
+      "system": {
+        "table": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-tables.RollTable.EKKXTpSUyJPjEaCM",
+        "require": "",
+        "minigame": {
+          "type": "mining",
+          "difficulty": "normal",
+          "canFail": false,
+          "onMap": true,
+          "background": null,
+          "background2": null
+        },
+        "checks": [
+          "check=skill.ath|dc=12"
+        ],
+        "text": {
+          "format": 1
+        },
+        "quantity": "1",
+        "draws": null,
+        "drawsPerActor": null,
+        "time": null,
+        "respawn": "reset",
+        "expression": "",
+        "consumeOnFail": true,
+        "modifiers": [],
+        "crit": {
+          "draws": 1,
+          "multiplier": 1,
+          "margin": null
+        },
+        "mishapTable": null,
+        "odds": "show",
+        "state": {
+          "used": 0,
+          "anchor": null,
+          "actors": {}
+        },
+        "discovered": []
+      },
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": 1794241945877,
+        "modifiedTime": 1794241945877,
+        "lastModifiedBy": "packsbuilder0000",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!journal.pages!k32xaKrBYjEg1Qn6.a4R6U2VRPimvWFtM"
+    },
+    {
+      "_id": "fCEj6hoLQZu7BBqJ",
+      "name": "Mining: Underground",
+      "type": "gatherer.gatherer",
+      "sort": 300000,
+      "ownership": {
+        "default": -1
+      },
+      "system": {
+        "table": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-tables.RollTable.i97DDEbSrMQyCV68",
+        "require": "",
+        "minigame": {
+          "type": "mining",
+          "difficulty": "normal",
+          "canFail": false,
+          "onMap": true,
+          "background": null,
+          "background2": null
+        },
+        "checks": [
+          "check=skill.ath|dc=12"
+        ],
+        "text": {
+          "format": 1
+        },
+        "quantity": "1",
+        "draws": null,
+        "drawsPerActor": null,
+        "time": null,
+        "respawn": "reset",
+        "expression": "",
+        "consumeOnFail": true,
+        "modifiers": [],
+        "crit": {
+          "draws": 1,
+          "multiplier": 1,
+          "margin": null
+        },
+        "mishapTable": null,
+        "odds": "show",
+        "state": {
+          "used": 0,
+          "anchor": null,
+          "actors": {}
+        },
+        "discovered": []
+      },
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": 1794241945877,
+        "modifiedTime": 1794241945877,
+        "lastModifiedBy": "packsbuilder0000",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!journal.pages!k32xaKrBYjEg1Qn6.fCEj6hoLQZu7BBqJ"
+    },
+    {
+      "_id": "EuplutzLObcl6dfy",
+      "name": "Mining: Hill",
+      "type": "gatherer.gatherer",
+      "sort": 400000,
+      "ownership": {
+        "default": -1
+      },
+      "system": {
+        "table": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-tables.RollTable.WAhiT2aArAFb1x3u",
+        "require": "",
+        "minigame": {
+          "type": "mining",
+          "difficulty": "normal",
+          "canFail": false,
+          "onMap": true,
+          "background": null,
+          "background2": null
+        },
+        "checks": [
+          "check=skill.ath|dc=12"
+        ],
+        "text": {
+          "format": 1
+        },
+        "quantity": "1",
+        "draws": null,
+        "drawsPerActor": null,
+        "time": null,
+        "respawn": "reset",
+        "expression": "",
+        "consumeOnFail": true,
+        "modifiers": [],
+        "crit": {
+          "draws": 1,
+          "multiplier": 1,
+          "margin": null
+        },
+        "mishapTable": null,
+        "odds": "show",
+        "state": {
+          "used": 0,
+          "anchor": null,
+          "actors": {}
+        },
+        "discovered": []
+      },
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": 1794241945877,
+        "modifiedTime": 1794241945877,
+        "lastModifiedBy": "packsbuilder0000",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!journal.pages!k32xaKrBYjEg1Qn6.EuplutzLObcl6dfy"
+    }
+  ],
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.0.3",
+    "coreVersion": "14.370",
+    "createdTime": 1665937586890,
+    "modifiedTime": 1794239342985,
+    "lastModifiedBy": "packsbuilder0000",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "k32xaKrBYjEg1Qn6",
+  "categories": [],
+  "_key": "!journal!k32xaKrBYjEg1Qn6"
+}

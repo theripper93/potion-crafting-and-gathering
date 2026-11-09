@@ -1,0 +1,2249 @@
+{
+  "_id": "DnEsa3uRqhzxWpCK",
+  "name": "The Tempered Blade",
+  "folder": "kxPF8qMSf6XDPV5v",
+  "ownership": {
+    "default": 0
+  },
+  "pages": [
+    {
+      "_id": "7OjXSxtFWsmX1ldV",
+      "name": "Iron Ingot",
+      "type": "mastercrafted.mastercrafted",
+      "sort": 100000,
+      "ownership": {
+        "default": -1
+      },
+      "text": {
+        "content": "",
+        "format": 1
+      },
+      "flags": {
+        "mastercrafted": {
+          "ingredientsInspection": "0",
+          "macroName": "",
+          "productInspection": "0",
+          "sound": "",
+          "time": null,
+          "require": "",
+          "expression": "",
+          "modifierList": [],
+          "type": "smithing",
+          "requiresStation": false,
+          "requiresMinigame": true,
+          "minigame": {
+            "difficulty": "easy",
+            "canFail": false,
+            "perfect": ""
+          },
+          "timedMode": "",
+          "queueKey": "",
+          "img": "icons/commodities/metal/ingot-iron.webp",
+          "checks": [
+            "check=tool.smith|dc=10"
+          ],
+          "ingredients": [
+            {
+              "id": "599G5axtvs4tniY0",
+              "name": null,
+              "components": [
+                {
+                  "id": "fqIspgof1IGEdpSE",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-smithing.Item.tDJBsiVrioDPyPMt",
+                  "quantity": 3,
+                  "name": "Iron Ore",
+                  "img": "icons/commodities/stone/ore-chunk-iron-black.webp",
+                  "tags": [],
+                  "resourcePath": "",
+                  "mode": "some",
+                  "currency": ""
+                }
+              ]
+            },
+            {
+              "id": "THwb7mtzQZpQyD7j",
+              "name": null,
+              "components": [
+                {
+                  "id": "TKPYTWimBL6XyTvh",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.RPIaybBhCR5X8nyM",
+                  "quantity": 1,
+                  "name": "Charcoal",
+                  "img": "icons/commodities/stone/paver-cobbles-blue.webp",
+                  "tags": [],
+                  "resourcePath": "",
+                  "mode": "some",
+                  "currency": ""
+                }
+              ]
+            }
+          ],
+          "products": [
+            {
+              "id": "NT69qX9arUUB3j4A",
+              "name": null,
+              "components": [
+                {
+                  "id": "gTYuEFxMq6YAHYh8",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-smithing.Item.kvmUwMVKwvxGu0wY",
+                  "quantity": 1,
+                  "name": "Iron Ingot",
+                  "img": "icons/commodities/metal/ingot-iron.webp",
+                  "tags": [],
+                  "resourcePath": "",
+                  "mode": "some",
+                  "currency": ""
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "system": {
+        "text": {
+          "format": 1
+        }
+      },
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": 1794241945877,
+        "modifiedTime": 1794241945877,
+        "lastModifiedBy": "packsbuilder0000",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!journal.pages!DnEsa3uRqhzxWpCK.7OjXSxtFWsmX1ldV"
+    },
+    {
+      "_id": "Zy8AfIE7Uf3wIYdh",
+      "name": "Steel Ingot",
+      "type": "mastercrafted.mastercrafted",
+      "sort": 200000,
+      "ownership": {
+        "default": -1
+      },
+      "text": {
+        "content": "",
+        "format": 1
+      },
+      "flags": {
+        "mastercrafted": {
+          "ingredientsInspection": "0",
+          "macroName": "",
+          "productInspection": "0",
+          "sound": "",
+          "time": null,
+          "require": "",
+          "expression": "",
+          "modifierList": [],
+          "type": "smithing",
+          "requiresStation": false,
+          "requiresMinigame": true,
+          "minigame": {
+            "difficulty": "normal",
+            "canFail": false,
+            "perfect": ""
+          },
+          "timedMode": "",
+          "queueKey": "",
+          "img": "icons/commodities/metal/ingot-steel.webp",
+          "checks": [
+            "check=tool.smith|dc=12"
+          ],
+          "ingredients": [
+            {
+              "id": "lubbfzdn6XMGgxcH",
+              "name": null,
+              "components": [
+                {
+                  "id": "dqqEcZbpCNH8naJz",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-smithing.Item.kvmUwMVKwvxGu0wY",
+                  "quantity": 1,
+                  "name": "Iron Ingot",
+                  "img": "icons/commodities/metal/ingot-iron.webp",
+                  "tags": [],
+                  "resourcePath": "",
+                  "mode": "some",
+                  "currency": ""
+                }
+              ]
+            },
+            {
+              "id": "ZY6WLtVpN8AHvvCf",
+              "name": null,
+              "components": [
+                {
+                  "id": "76pQ69BjWk1YszxK",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.RPIaybBhCR5X8nyM",
+                  "quantity": 2,
+                  "name": "Charcoal",
+                  "img": "icons/commodities/stone/paver-cobbles-blue.webp",
+                  "tags": [],
+                  "resourcePath": "",
+                  "mode": "some",
+                  "currency": ""
+                }
+              ]
+            }
+          ],
+          "products": [
+            {
+              "id": "qYkrQRa78P9OjD08",
+              "name": null,
+              "components": [
+                {
+                  "id": "RDrI1Lh7kvyed38v",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-smithing.Item.VpOFLK9Y2V39oOu0",
+                  "quantity": 1,
+                  "name": "Steel Ingot",
+                  "img": "icons/commodities/metal/ingot-steel.webp",
+                  "tags": [],
+                  "resourcePath": "",
+                  "mode": "some",
+                  "currency": ""
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "system": {
+        "text": {
+          "format": 1
+        }
+      },
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": 1794241945877,
+        "modifiedTime": 1794241945877,
+        "lastModifiedBy": "packsbuilder0000",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!journal.pages!DnEsa3uRqhzxWpCK.Zy8AfIE7Uf3wIYdh"
+    },
+    {
+      "_id": "7vI4lRqVQZ60Cm07",
+      "name": "Silver Ingot",
+      "type": "mastercrafted.mastercrafted",
+      "sort": 300000,
+      "ownership": {
+        "default": -1
+      },
+      "text": {
+        "content": "",
+        "format": 1
+      },
+      "flags": {
+        "mastercrafted": {
+          "ingredientsInspection": "0",
+          "macroName": "",
+          "productInspection": "0",
+          "sound": "",
+          "time": null,
+          "require": "",
+          "expression": "",
+          "modifierList": [],
+          "type": "smithing",
+          "requiresStation": false,
+          "requiresMinigame": true,
+          "minigame": {
+            "difficulty": "normal",
+            "canFail": false,
+            "perfect": ""
+          },
+          "timedMode": "",
+          "queueKey": "",
+          "img": "icons/commodities/metal/ingot-silver.webp",
+          "checks": [
+            "check=tool.smith|dc=12"
+          ],
+          "ingredients": [
+            {
+              "id": "83vJAw9WRie2t4wS",
+              "name": null,
+              "components": [
+                {
+                  "id": "el97cclen69u3KNo",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-smithing.Item.2bOjOyS9ZidW0zf7",
+                  "quantity": 3,
+                  "name": "Silver Ore",
+                  "img": "icons/commodities/stone/ore-chunk-silver-gray.webp",
+                  "tags": [],
+                  "resourcePath": "",
+                  "mode": "some",
+                  "currency": ""
+                }
+              ]
+            },
+            {
+              "id": "hzQkbHirzj6rw471",
+              "name": null,
+              "components": [
+                {
+                  "id": "CZ9Oa1K78106H3YP",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.RPIaybBhCR5X8nyM",
+                  "quantity": 1,
+                  "name": "Charcoal",
+                  "img": "icons/commodities/stone/paver-cobbles-blue.webp",
+                  "tags": [],
+                  "resourcePath": "",
+                  "mode": "some",
+                  "currency": ""
+                }
+              ]
+            }
+          ],
+          "products": [
+            {
+              "id": "eIRhfpCbaLGRay8d",
+              "name": null,
+              "components": [
+                {
+                  "id": "bJYz1mX6JQQZxb3G",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-smithing.Item.BraqvPGEcS6srKnj",
+                  "quantity": 1,
+                  "name": "Silver Ingot",
+                  "img": "icons/commodities/metal/ingot-silver.webp",
+                  "tags": [],
+                  "resourcePath": "",
+                  "mode": "some",
+                  "currency": ""
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "system": {
+        "text": {
+          "format": 1
+        }
+      },
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": 1794241945877,
+        "modifiedTime": 1794241945877,
+        "lastModifiedBy": "packsbuilder0000",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!journal.pages!DnEsa3uRqhzxWpCK.7vI4lRqVQZ60Cm07"
+    },
+    {
+      "_id": "o43aYQ3XJXaWLanj",
+      "name": "Mithral Ingot",
+      "type": "mastercrafted.mastercrafted",
+      "sort": 400000,
+      "ownership": {
+        "default": -1
+      },
+      "text": {
+        "content": "",
+        "format": 1
+      },
+      "flags": {
+        "mastercrafted": {
+          "ingredientsInspection": "0",
+          "macroName": "",
+          "productInspection": "0",
+          "sound": "",
+          "time": null,
+          "require": "",
+          "expression": "",
+          "modifierList": [],
+          "type": "smithing",
+          "requiresStation": false,
+          "requiresMinigame": true,
+          "minigame": {
+            "difficulty": "normal",
+            "canFail": false,
+            "perfect": ""
+          },
+          "timedMode": "",
+          "queueKey": "",
+          "img": "icons/commodities/metal/ingot-teal.webp",
+          "checks": [
+            "check=tool.smith|dc=15"
+          ],
+          "ingredients": [
+            {
+              "id": "UdiuHANXQfIRMG7G",
+              "name": null,
+              "components": [
+                {
+                  "id": "i0KvKMyHpyW2Buam",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-smithing.Item.aQR62PfiZlyNpILz",
+                  "quantity": 3,
+                  "name": "Mithral Ore",
+                  "img": "icons/commodities/stone/ore-chunk-blue.webp",
+                  "tags": [],
+                  "resourcePath": "",
+                  "mode": "some",
+                  "currency": ""
+                }
+              ]
+            },
+            {
+              "id": "zK4BDL61fXBg95v2",
+              "name": null,
+              "components": [
+                {
+                  "id": "hCq533u4ndYSM5dD",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.j97S0KQGurQL55do",
+                  "quantity": 1,
+                  "name": "Fire Elemental Embers",
+                  "img": "icons/magic/fire/explosion-fireball-small-orange.webp",
+                  "tags": [],
+                  "resourcePath": "",
+                  "mode": "some",
+                  "currency": ""
+                }
+              ]
+            }
+          ],
+          "products": [
+            {
+              "id": "JRFjpR0SPydmZ4CT",
+              "name": null,
+              "components": [
+                {
+                  "id": "nOfRdITX9aYSGuJy",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-smithing.Item.XGtuUwMLrOUyjQMF",
+                  "quantity": 1,
+                  "name": "Mithral Ingot",
+                  "img": "icons/commodities/metal/ingot-teal.webp",
+                  "tags": [],
+                  "resourcePath": "",
+                  "mode": "some",
+                  "currency": ""
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "system": {
+        "text": {
+          "format": 1
+        }
+      },
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": 1794241945877,
+        "modifiedTime": 1794241945877,
+        "lastModifiedBy": "packsbuilder0000",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!journal.pages!DnEsa3uRqhzxWpCK.o43aYQ3XJXaWLanj"
+    },
+    {
+      "_id": "j1to4eUHBPrQ6lHW",
+      "name": "Adamantine Ingot",
+      "type": "mastercrafted.mastercrafted",
+      "sort": 500000,
+      "ownership": {
+        "default": -1
+      },
+      "text": {
+        "content": "",
+        "format": 1
+      },
+      "flags": {
+        "mastercrafted": {
+          "ingredientsInspection": "0",
+          "macroName": "",
+          "productInspection": "0",
+          "sound": "",
+          "time": null,
+          "require": "",
+          "expression": "",
+          "modifierList": [],
+          "type": "smithing",
+          "requiresStation": false,
+          "requiresMinigame": true,
+          "minigame": {
+            "difficulty": "hard",
+            "canFail": false,
+            "perfect": ""
+          },
+          "timedMode": "",
+          "queueKey": "",
+          "img": "icons/commodities/metal/ingot-stamped-steel-purple.webp",
+          "checks": [
+            "check=tool.smith|dc=18"
+          ],
+          "ingredients": [
+            {
+              "id": "KjYyMAYJlxZOVMSA",
+              "name": null,
+              "components": [
+                {
+                  "id": "RRUg2xH0hMMqDjI5",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-smithing.Item.wzBTmy2Dx2F4Vu6L",
+                  "quantity": 3,
+                  "name": "Adamantine Ore",
+                  "img": "icons/commodities/stone/ore-chunk-purple-brown.webp",
+                  "tags": [],
+                  "resourcePath": "",
+                  "mode": "some",
+                  "currency": ""
+                }
+              ]
+            },
+            {
+              "id": "bujY4RXjEpkJ7c7W",
+              "name": null,
+              "components": [
+                {
+                  "id": "7MJQ8LX5agFQ68Ww",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-alchemy.Item.3IQJ9tESxUsZk1J8",
+                  "quantity": 1,
+                  "name": "Blasting Powder",
+                  "img": "icons/commodities/materials/powder-black.webp",
+                  "tags": [],
+                  "resourcePath": "",
+                  "mode": "some",
+                  "currency": ""
+                }
+              ]
+            }
+          ],
+          "products": [
+            {
+              "id": "kEJhZtoTrZPXWWqT",
+              "name": null,
+              "components": [
+                {
+                  "id": "uqEQJcKJ3zYHBeMY",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-smithing.Item.lreLaPuDN9h7KI6T",
+                  "quantity": 1,
+                  "name": "Adamantine Ingot",
+                  "img": "icons/commodities/metal/ingot-stamped-steel-purple.webp",
+                  "tags": [],
+                  "resourcePath": "",
+                  "mode": "some",
+                  "currency": ""
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "system": {
+        "text": {
+          "format": 1
+        }
+      },
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": 1794241945877,
+        "modifiedTime": 1794241945877,
+        "lastModifiedBy": "packsbuilder0000",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!journal.pages!DnEsa3uRqhzxWpCK.j1to4eUHBPrQ6lHW"
+    },
+    {
+      "_id": "u4xjIwldDQXPGCxF",
+      "name": "Dragonsteel Ingot",
+      "type": "mastercrafted.mastercrafted",
+      "sort": 600000,
+      "ownership": {
+        "default": -1
+      },
+      "text": {
+        "content": "",
+        "format": 1
+      },
+      "flags": {
+        "mastercrafted": {
+          "ingredientsInspection": "0",
+          "macroName": "",
+          "productInspection": "0",
+          "sound": "",
+          "time": null,
+          "require": "",
+          "expression": "",
+          "modifierList": [],
+          "type": "smithing",
+          "requiresStation": false,
+          "requiresMinigame": true,
+          "minigame": {
+            "difficulty": "hard",
+            "canFail": false,
+            "perfect": ""
+          },
+          "timedMode": "",
+          "queueKey": "",
+          "img": "icons/commodities/metal/ingot-hammered-copper.webp",
+          "checks": [
+            "check=tool.smith|dc=18"
+          ],
+          "ingredients": [
+            {
+              "id": "zrwYHNWsBHXgWcrp",
+              "name": null,
+              "components": [
+                {
+                  "id": "TY5NUbLv1QTjBVqr",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-smithing.Item.VpOFLK9Y2V39oOu0",
+                  "quantity": 1,
+                  "name": "Steel Ingot",
+                  "img": "icons/commodities/metal/ingot-steel.webp",
+                  "tags": [],
+                  "resourcePath": "",
+                  "mode": "some",
+                  "currency": ""
+                }
+              ]
+            },
+            {
+              "id": "jBHER0HHhjmToQSk",
+              "name": null,
+              "components": [
+                {
+                  "id": "5Q85M0Ryc9nZsjnb",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.FL1DOoV7dEZ4YmsH",
+                  "quantity": 1,
+                  "name": "Dragon's Blood",
+                  "img": "icons/skills/wounds/blood-drip-droplet-red.webp",
+                  "tags": [],
+                  "resourcePath": "",
+                  "mode": "some",
+                  "currency": ""
+                }
+              ]
+            },
+            {
+              "id": "cAaJpIewpFEqP4FD",
+              "name": null,
+              "components": [
+                {
+                  "id": "dTcJ0iGedXeKFPqu",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.j97S0KQGurQL55do",
+                  "quantity": 1,
+                  "name": "Fire Elemental Embers",
+                  "img": "icons/magic/fire/explosion-fireball-small-orange.webp",
+                  "tags": [],
+                  "resourcePath": "",
+                  "mode": "some",
+                  "currency": ""
+                }
+              ]
+            }
+          ],
+          "products": [
+            {
+              "id": "aOF23XcV4qgKn9BB",
+              "name": null,
+              "components": [
+                {
+                  "id": "FBKv8zaz3Z4YSdGo",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-smithing.Item.191wvPsxeXd7ksFR",
+                  "quantity": 1,
+                  "name": "Dragonsteel Ingot",
+                  "img": "icons/commodities/metal/ingot-hammered-copper.webp",
+                  "tags": [],
+                  "resourcePath": "",
+                  "mode": "some",
+                  "currency": ""
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "system": {
+        "text": {
+          "format": 1
+        }
+      },
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": 1794241945877,
+        "modifiedTime": 1794241945877,
+        "lastModifiedBy": "packsbuilder0000",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!journal.pages!DnEsa3uRqhzxWpCK.u4xjIwldDQXPGCxF"
+    },
+    {
+      "_id": "hXD2OhifDtBFztq7",
+      "name": "Blade Blank",
+      "type": "mastercrafted.mastercrafted",
+      "sort": 700000,
+      "ownership": {
+        "default": -1
+      },
+      "text": {
+        "content": "",
+        "format": 1
+      },
+      "flags": {
+        "mastercrafted": {
+          "ingredientsInspection": "0",
+          "macroName": "",
+          "productInspection": "0",
+          "sound": "",
+          "time": null,
+          "require": "",
+          "expression": "",
+          "modifierList": [],
+          "type": "smithing",
+          "requiresStation": false,
+          "requiresMinigame": true,
+          "minigame": {
+            "difficulty": "normal",
+            "canFail": false,
+            "perfect": ""
+          },
+          "timedMode": "",
+          "queueKey": "",
+          "img": "icons/commodities/metal/plating-metal-rod-steel.webp",
+          "checks": [
+            "check=tool.smith|dc=12"
+          ],
+          "ingredients": [
+            {
+              "id": "KzZEwHjZU53XZHLn",
+              "name": null,
+              "components": [
+                {
+                  "id": "6TwTIIetgNDRw6uN",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-smithing.Item.VpOFLK9Y2V39oOu0",
+                  "quantity": 1,
+                  "name": "Steel Ingot",
+                  "img": "icons/commodities/metal/ingot-steel.webp",
+                  "tags": [],
+                  "resourcePath": "",
+                  "mode": "some",
+                  "currency": ""
+                }
+              ]
+            },
+            {
+              "id": "jcIzzY9NjNpy1i2V",
+              "name": null,
+              "components": [
+                {
+                  "id": "fmM7AZQbyQDP4MBP",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.RPIaybBhCR5X8nyM",
+                  "quantity": 2,
+                  "name": "Charcoal",
+                  "img": "icons/commodities/stone/paver-cobbles-blue.webp",
+                  "tags": [],
+                  "resourcePath": "",
+                  "mode": "some",
+                  "currency": ""
+                }
+              ]
+            }
+          ],
+          "products": [
+            {
+              "id": "JAeCiJRcgOSzEdAc",
+              "name": null,
+              "components": [
+                {
+                  "id": "bCSrLQvECdNEGdAE",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-smithing.Item.rJRh8186C30YATlf",
+                  "quantity": 1,
+                  "name": "Blade Blank",
+                  "img": "icons/commodities/metal/plating-metal-rod-steel.webp",
+                  "tags": [],
+                  "resourcePath": "",
+                  "mode": "some",
+                  "currency": ""
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "system": {
+        "text": {
+          "format": 1
+        }
+      },
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": 1794241945877,
+        "modifiedTime": 1794241945877,
+        "lastModifiedBy": "packsbuilder0000",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!journal.pages!DnEsa3uRqhzxWpCK.hXD2OhifDtBFztq7"
+    },
+    {
+      "_id": "FieGa1xxm2wkmAl9",
+      "name": "Hilt Fittings",
+      "type": "mastercrafted.mastercrafted",
+      "sort": 800000,
+      "ownership": {
+        "default": -1
+      },
+      "text": {
+        "content": "",
+        "format": 1
+      },
+      "flags": {
+        "mastercrafted": {
+          "ingredientsInspection": "0",
+          "macroName": "",
+          "productInspection": "0",
+          "sound": "",
+          "time": null,
+          "require": "",
+          "expression": "",
+          "modifierList": [],
+          "type": "smithing",
+          "requiresStation": false,
+          "requiresMinigame": true,
+          "minigame": {
+            "difficulty": "easy",
+            "canFail": false,
+            "perfect": ""
+          },
+          "timedMode": "",
+          "queueKey": "",
+          "img": "icons/commodities/metal/clasp-steel.webp",
+          "checks": [
+            "check=tool.smith|dc=10"
+          ],
+          "ingredients": [
+            {
+              "id": "LDgKAE97AEmWPpns",
+              "name": null,
+              "components": [
+                {
+                  "id": "S58llN1R7KXI6uUo",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-smithing.Item.tDJBsiVrioDPyPMt",
+                  "quantity": 2,
+                  "name": "Iron Ore",
+                  "img": "icons/commodities/stone/ore-chunk-iron-black.webp",
+                  "tags": [],
+                  "resourcePath": "",
+                  "mode": "some",
+                  "currency": ""
+                }
+              ]
+            },
+            {
+              "id": "dHMqcsOZQO9QN8rk",
+              "name": null,
+              "components": [
+                {
+                  "id": "QSx1yyDRR9FyiKO4",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.RPIaybBhCR5X8nyM",
+                  "quantity": 1,
+                  "name": "Charcoal",
+                  "img": "icons/commodities/stone/paver-cobbles-blue.webp",
+                  "tags": [],
+                  "resourcePath": "",
+                  "mode": "some",
+                  "currency": ""
+                }
+              ]
+            }
+          ],
+          "products": [
+            {
+              "id": "ffo7MMeOL7khOPOJ",
+              "name": null,
+              "components": [
+                {
+                  "id": "LOEtylX6MVL2VdYE",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-smithing.Item.TbdyLqkiUDCqWLIp",
+                  "quantity": 1,
+                  "name": "Hilt Fittings",
+                  "img": "icons/commodities/metal/clasp-steel.webp",
+                  "tags": [],
+                  "resourcePath": "",
+                  "mode": "some",
+                  "currency": ""
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "system": {
+        "text": {
+          "format": 1
+        }
+      },
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": 1794241945877,
+        "modifiedTime": 1794241945877,
+        "lastModifiedBy": "packsbuilder0000",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!journal.pages!DnEsa3uRqhzxWpCK.FieGa1xxm2wkmAl9"
+    },
+    {
+      "_id": "4FoE3aksZY2ds88k",
+      "name": "Tempered Blade",
+      "type": "mastercrafted.mastercrafted",
+      "sort": 900000,
+      "ownership": {
+        "default": -1
+      },
+      "text": {
+        "content": "",
+        "format": 1
+      },
+      "flags": {
+        "mastercrafted": {
+          "ingredientsInspection": "0",
+          "macroName": "",
+          "productInspection": "0",
+          "sound": "",
+          "time": null,
+          "require": "",
+          "expression": "",
+          "modifierList": [],
+          "type": "smithing",
+          "requiresStation": false,
+          "requiresMinigame": true,
+          "minigame": {
+            "difficulty": "normal",
+            "canFail": false,
+            "perfect": ""
+          },
+          "timedMode": "",
+          "queueKey": "",
+          "img": "icons/commodities/metal/barstock-heated-steel.webp",
+          "checks": [
+            "check=tool.smith|dc=15"
+          ],
+          "ingredients": [
+            {
+              "id": "kX4qcug40NxZIDuE",
+              "name": null,
+              "components": [
+                {
+                  "id": "g1ibsUMOGQED19FQ",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-smithing.Item.rJRh8186C30YATlf",
+                  "quantity": 1,
+                  "name": "Blade Blank",
+                  "img": "icons/commodities/metal/plating-metal-rod-steel.webp",
+                  "tags": [],
+                  "resourcePath": "",
+                  "mode": "some",
+                  "currency": ""
+                }
+              ]
+            },
+            {
+              "id": "aqQ9t9BJqJml4dwY",
+              "name": null,
+              "components": [
+                {
+                  "id": "0aedefnMhHspiYGl",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.BdmLXPQWZ023gdiY",
+                  "quantity": 1,
+                  "name": "Oil (flask)",
+                  "img": "icons/sundries/survival/waterskin-leather-brown.webp",
+                  "tags": [],
+                  "resourcePath": "",
+                  "mode": "some",
+                  "currency": ""
+                }
+              ]
+            }
+          ],
+          "products": [
+            {
+              "id": "Tn7jznjuBas7bpqS",
+              "name": null,
+              "components": [
+                {
+                  "id": "HscmKZzFm2W36mc9",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-smithing.Item.8twr47osJMG1RqbW",
+                  "quantity": 1,
+                  "name": "Tempered Blade",
+                  "img": "icons/commodities/metal/barstock-heated-steel.webp",
+                  "tags": [],
+                  "resourcePath": "",
+                  "mode": "some",
+                  "currency": ""
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "system": {
+        "text": {
+          "format": 1
+        }
+      },
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": 1794241945877,
+        "modifiedTime": 1794241945877,
+        "lastModifiedBy": "packsbuilder0000",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!journal.pages!DnEsa3uRqhzxWpCK.4FoE3aksZY2ds88k"
+    },
+    {
+      "_id": "NVO7FUkLiKm9PwaZ",
+      "name": "Longsword",
+      "type": "mastercrafted.mastercrafted",
+      "sort": 1000000,
+      "ownership": {
+        "default": -1
+      },
+      "text": {
+        "content": "",
+        "format": 1
+      },
+      "flags": {
+        "mastercrafted": {
+          "ingredientsInspection": "0",
+          "macroName": "",
+          "productInspection": "0",
+          "sound": "",
+          "time": null,
+          "require": "",
+          "expression": "",
+          "modifierList": [],
+          "type": "smithing",
+          "requiresStation": false,
+          "requiresMinigame": true,
+          "minigame": {
+            "difficulty": "normal",
+            "canFail": false,
+            "perfect": ""
+          },
+          "timedMode": "",
+          "queueKey": "",
+          "img": "icons/weapons/swords/greatsword-guard.webp",
+          "checks": [
+            "check=tool.smith|dc=12"
+          ],
+          "ingredients": [
+            {
+              "id": "CiijwWnjcGRau1H9",
+              "name": null,
+              "components": [
+                {
+                  "id": "1cADp9LqlhJQMWgT",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-smithing.Item.8twr47osJMG1RqbW",
+                  "quantity": 1,
+                  "name": "Tempered Blade",
+                  "img": "icons/commodities/metal/barstock-heated-steel.webp",
+                  "tags": [],
+                  "resourcePath": "",
+                  "mode": "some",
+                  "currency": ""
+                }
+              ]
+            },
+            {
+              "id": "wAThhaKiIFWh700U",
+              "name": null,
+              "components": [
+                {
+                  "id": "rX0rRFJJo6pmOa05",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-smithing.Item.TbdyLqkiUDCqWLIp",
+                  "quantity": 1,
+                  "name": "Hilt Fittings",
+                  "img": "icons/commodities/metal/clasp-steel.webp",
+                  "tags": [],
+                  "resourcePath": "",
+                  "mode": "some",
+                  "currency": ""
+                }
+              ]
+            }
+          ],
+          "products": [
+            {
+              "id": "3NKB6SExhDgU5JrC",
+              "name": null,
+              "components": [
+                {
+                  "id": "UPsWo7ZwECvx8ygV",
+                  "uuid": "Compendium.dnd5e.equipment24.Item.phbwepLongsword0",
+                  "quantity": 1,
+                  "name": "Longsword",
+                  "img": "icons/weapons/swords/greatsword-guard.webp",
+                  "tags": [],
+                  "resourcePath": "",
+                  "mode": "some",
+                  "currency": ""
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "system": {
+        "text": {
+          "format": 1
+        }
+      },
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": 1794241945877,
+        "modifiedTime": 1794241945877,
+        "lastModifiedBy": "packsbuilder0000",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!journal.pages!DnEsa3uRqhzxWpCK.NVO7FUkLiKm9PwaZ"
+    },
+    {
+      "_id": "xxQuEL25H2hytaaA",
+      "name": "Forging Dragonsteel",
+      "type": "mastercrafted.process",
+      "sort": 1100000,
+      "ownership": {
+        "default": -1
+      },
+      "text": {
+        "content": "",
+        "format": 1
+      },
+      "flags": {
+        "mastercrafted": {
+          "img": "",
+          "subtitle": "",
+          "sound": "",
+          "steps": [
+            {
+              "id": "L6bBaigf0YcqoM5u",
+              "title": "Smelting",
+              "recipes": [
+                "JournalEntry.DnEsa3uRqhzxWpCK.JournalEntryPage.7OjXSxtFWsmX1ldV"
+              ]
+            },
+            {
+              "id": "TzUBHD88ucWnkVdg",
+              "title": "Refining",
+              "recipes": [
+                "JournalEntry.DnEsa3uRqhzxWpCK.JournalEntryPage.Zy8AfIE7Uf3wIYdh"
+              ]
+            },
+            {
+              "id": "r9A3ZHaLNbddhZ49",
+              "title": "Dragonfire Infusion",
+              "recipes": [
+                "JournalEntry.DnEsa3uRqhzxWpCK.JournalEntryPage.u4xjIwldDQXPGCxF"
+              ]
+            }
+          ]
+        }
+      },
+      "system": {
+        "text": {
+          "format": 1
+        }
+      },
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": 1794241945877,
+        "modifiedTime": 1794241945877,
+        "lastModifiedBy": "packsbuilder0000",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!journal.pages!DnEsa3uRqhzxWpCK.xxQuEL25H2hytaaA"
+    },
+    {
+      "_id": "Son6iwM8TP8WxHX8",
+      "name": "Smelting Rare Metals",
+      "type": "mastercrafted.process",
+      "sort": 1200000,
+      "ownership": {
+        "default": -1
+      },
+      "text": {
+        "content": "",
+        "format": 1
+      },
+      "flags": {
+        "mastercrafted": {
+          "img": "",
+          "subtitle": "",
+          "sound": "",
+          "steps": [
+            {
+              "id": "rCgGxSrK1Um2KC6K",
+              "title": "Precious Metals",
+              "recipes": [
+                "JournalEntry.DnEsa3uRqhzxWpCK.JournalEntryPage.7vI4lRqVQZ60Cm07",
+                "JournalEntry.DnEsa3uRqhzxWpCK.JournalEntryPage.o43aYQ3XJXaWLanj"
+              ]
+            },
+            {
+              "id": "HBUIE61t4zjAFhaG",
+              "title": "Adamantine",
+              "recipes": [
+                "JournalEntry.DnEsa3uRqhzxWpCK.JournalEntryPage.j1to4eUHBPrQ6lHW"
+              ]
+            }
+          ]
+        }
+      },
+      "system": {
+        "text": {
+          "format": 1
+        }
+      },
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": 1794241945877,
+        "modifiedTime": 1794241945877,
+        "lastModifiedBy": "packsbuilder0000",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!journal.pages!DnEsa3uRqhzxWpCK.Son6iwM8TP8WxHX8"
+    },
+    {
+      "_id": "ntf4LNgoqjBLScCH",
+      "name": "Forging a Longsword",
+      "type": "mastercrafted.process",
+      "sort": 1300000,
+      "ownership": {
+        "default": -1
+      },
+      "text": {
+        "content": "",
+        "format": 1
+      },
+      "flags": {
+        "mastercrafted": {
+          "img": "",
+          "subtitle": "",
+          "sound": "",
+          "steps": [
+            {
+              "id": "vHsk9uVILDuyCB8U",
+              "title": "Smelting",
+              "recipes": [
+                "JournalEntry.DnEsa3uRqhzxWpCK.JournalEntryPage.7OjXSxtFWsmX1ldV"
+              ]
+            },
+            {
+              "id": "cpUercoA7SMciXO0",
+              "title": "Refining",
+              "recipes": [
+                "JournalEntry.DnEsa3uRqhzxWpCK.JournalEntryPage.Zy8AfIE7Uf3wIYdh"
+              ]
+            },
+            {
+              "id": "l2R1oQlfZMyVtrp0",
+              "title": "Shaping",
+              "recipes": [
+                "JournalEntry.DnEsa3uRqhzxWpCK.JournalEntryPage.hXD2OhifDtBFztq7",
+                "JournalEntry.DnEsa3uRqhzxWpCK.JournalEntryPage.FieGa1xxm2wkmAl9"
+              ]
+            },
+            {
+              "id": "hDgCgnA2DedPjNWC",
+              "title": "Tempering",
+              "recipes": [
+                "JournalEntry.DnEsa3uRqhzxWpCK.JournalEntryPage.4FoE3aksZY2ds88k"
+              ]
+            },
+            {
+              "id": "TE9MUpTLdcJJhHak",
+              "title": "Assembly",
+              "recipes": [
+                "JournalEntry.DnEsa3uRqhzxWpCK.JournalEntryPage.NVO7FUkLiKm9PwaZ"
+              ]
+            }
+          ]
+        }
+      },
+      "system": {
+        "text": {
+          "format": 1
+        }
+      },
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": 1794241945877,
+        "modifiedTime": 1794241945877,
+        "lastModifiedBy": "packsbuilder0000",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!journal.pages!DnEsa3uRqhzxWpCK.ntf4LNgoqjBLScCH"
+    },
+    {
+      "_id": "xWbvaYlnyZvSXeM1",
+      "name": "Steel Reforging",
+      "type": "mastercrafted.modification",
+      "sort": 1400000,
+      "ownership": {
+        "default": -1
+      },
+      "text": {
+        "content": "",
+        "format": 1
+      },
+      "flags": {
+        "mastercrafted": {
+          "ingredientsInspection": "0",
+          "macroName": "",
+          "productInspection": "0",
+          "sound": "",
+          "time": null,
+          "require": "",
+          "expression": "",
+          "modifierList": [],
+          "type": "smithing",
+          "requiresStation": false,
+          "requiresMinigame": true,
+          "minigame": {
+            "difficulty": "normal",
+            "canFail": false,
+            "perfect": ""
+          },
+          "timedMode": "",
+          "queueKey": "",
+          "img": "icons/commodities/metal/ingot-steel.webp",
+          "checks": [
+            "check=tool.smith|dc=15"
+          ],
+          "ingredients": [
+            {
+              "id": "HDpg2G5CtSSAPDLj",
+              "name": null,
+              "components": [
+                {
+                  "id": "UTMean81XQzQ9QK7",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-smithing.Item.VpOFLK9Y2V39oOu0",
+                  "quantity": 1,
+                  "name": "Steel Ingot",
+                  "img": "icons/commodities/metal/ingot-steel.webp",
+                  "tags": [],
+                  "resourcePath": "",
+                  "mode": "some",
+                  "currency": ""
+                }
+              ]
+            },
+            {
+              "id": "GqfxMXVxM88pC6vI",
+              "name": null,
+              "components": [
+                {
+                  "id": "w3ZbM1BdjPGHdAvH",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.RPIaybBhCR5X8nyM",
+                  "quantity": 2,
+                  "name": "Charcoal",
+                  "img": "icons/commodities/stone/paver-cobbles-blue.webp",
+                  "tags": [],
+                  "resourcePath": "",
+                  "mode": "some",
+                  "currency": ""
+                }
+              ]
+            }
+          ],
+          "catalysts": [
+            {
+              "id": "G7GW1rcp7o4BIDi7",
+              "name": null,
+              "components": [
+                {
+                  "id": "oEmSkL83RKtcIZps",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.YfVnagCZGhL6uoH3",
+                  "quantity": 1,
+                  "name": "Soothsalt Geode",
+                  "img": "icons/commodities/stone/ore-chunk-copper-orange.webp",
+                  "tags": [],
+                  "resourcePath": "",
+                  "mode": "some",
+                  "currency": ""
+                }
+              ]
+            }
+          ],
+          "modification": {
+            "changes": [
+              {
+                "value": "magicalBonus",
+                "path": "",
+                "mode": "add",
+                "amount": "1",
+                "link": true
+              }
+            ],
+            "prefix": "+{level}",
+            "suffix": "",
+            "track": "",
+            "minLevel": 0,
+            "maxLevel": 3,
+            "costPerLevel": 400,
+            "targetTypes": [
+              "weapon"
+            ],
+            "targetTags": ""
+          }
+        }
+      },
+      "system": {
+        "text": {
+          "format": 1
+        }
+      },
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": 1794241945877,
+        "modifiedTime": 1794241945877,
+        "lastModifiedBy": "packsbuilder0000",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!journal.pages!DnEsa3uRqhzxWpCK.xWbvaYlnyZvSXeM1"
+    },
+    {
+      "_id": "ZP2mm189WK4Gpz0G",
+      "name": "Silvering",
+      "type": "mastercrafted.modification",
+      "sort": 1500000,
+      "ownership": {
+        "default": -1
+      },
+      "text": {
+        "content": "",
+        "format": 1
+      },
+      "flags": {
+        "mastercrafted": {
+          "ingredientsInspection": "0",
+          "macroName": "",
+          "productInspection": "0",
+          "sound": "",
+          "time": null,
+          "require": "",
+          "expression": "",
+          "modifierList": [],
+          "type": "smithing",
+          "requiresStation": false,
+          "requiresMinigame": true,
+          "minigame": {
+            "difficulty": "normal",
+            "canFail": false,
+            "perfect": ""
+          },
+          "timedMode": "",
+          "queueKey": "",
+          "img": "icons/commodities/metal/ingot-silver.webp",
+          "checks": [
+            "check=tool.smith|dc=15"
+          ],
+          "ingredients": [
+            {
+              "id": "Im1439vhe1pQhMG5",
+              "name": null,
+              "components": [
+                {
+                  "id": "llBO0Isw8AwDrVwn",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-smithing.Item.BraqvPGEcS6srKnj",
+                  "quantity": 1,
+                  "name": "Silver Ingot",
+                  "img": "icons/commodities/metal/ingot-silver.webp",
+                  "tags": [],
+                  "resourcePath": "",
+                  "mode": "some",
+                  "currency": ""
+                }
+              ]
+            }
+          ],
+          "catalysts": [],
+          "modification": {
+            "changes": [
+              {
+                "value": "custom",
+                "path": "properties",
+                "mode": "addEntry",
+                "amount": "sil",
+                "link": false
+              }
+            ],
+            "prefix": "Silvered",
+            "suffix": "",
+            "track": "",
+            "minLevel": 0,
+            "maxLevel": 1,
+            "costPerLevel": 0,
+            "targetTypes": [
+              "weapon"
+            ],
+            "targetTags": ""
+          }
+        }
+      },
+      "system": {
+        "text": {
+          "format": 1
+        }
+      },
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": 1794241945877,
+        "modifiedTime": 1794241945877,
+        "lastModifiedBy": "packsbuilder0000",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!journal.pages!DnEsa3uRqhzxWpCK.ZP2mm189WK4Gpz0G"
+    },
+    {
+      "_id": "pG5YcZXarwf79Exv",
+      "name": "Dragonsteel Edge",
+      "type": "mastercrafted.modification",
+      "sort": 1600000,
+      "ownership": {
+        "default": -1
+      },
+      "text": {
+        "content": "",
+        "format": 1
+      },
+      "flags": {
+        "mastercrafted": {
+          "ingredientsInspection": "0",
+          "macroName": "",
+          "productInspection": "0",
+          "sound": "",
+          "time": null,
+          "require": "",
+          "expression": "",
+          "modifierList": [],
+          "type": "smithing",
+          "requiresStation": false,
+          "requiresMinigame": true,
+          "minigame": {
+            "difficulty": "hard",
+            "canFail": false,
+            "perfect": ""
+          },
+          "timedMode": "",
+          "queueKey": "",
+          "img": "icons/commodities/metal/ingot-hammered-copper.webp",
+          "checks": [
+            "check=tool.smith|dc=18"
+          ],
+          "ingredients": [
+            {
+              "id": "bYnO7pi19f7gVLAX",
+              "name": null,
+              "components": [
+                {
+                  "id": "z7nsguBxd9lQMf1i",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-smithing.Item.191wvPsxeXd7ksFR",
+                  "quantity": 1,
+                  "name": "Dragonsteel Ingot",
+                  "img": "icons/commodities/metal/ingot-hammered-copper.webp",
+                  "tags": [],
+                  "resourcePath": "",
+                  "mode": "some",
+                  "currency": ""
+                }
+              ]
+            }
+          ],
+          "catalysts": [
+            {
+              "id": "stGX9X0Z2oUFVFCE",
+              "name": null,
+              "components": [
+                {
+                  "id": "Gad25mMQprwRUqtg",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.j97S0KQGurQL55do",
+                  "quantity": 1,
+                  "name": "Fire Elemental Embers",
+                  "img": "icons/magic/fire/explosion-fireball-small-orange.webp",
+                  "tags": [],
+                  "resourcePath": "",
+                  "mode": "some",
+                  "currency": ""
+                }
+              ]
+            }
+          ],
+          "modification": {
+            "changes": [
+              {
+                "value": "damageBonus",
+                "path": "",
+                "mode": "add",
+                "amount": "2",
+                "link": false
+              }
+            ],
+            "prefix": "Dragonsteel",
+            "suffix": "",
+            "track": "",
+            "minLevel": 0,
+            "maxLevel": 1,
+            "costPerLevel": 0,
+            "targetTypes": [
+              "weapon"
+            ],
+            "targetTags": ""
+          }
+        }
+      },
+      "system": {
+        "text": {
+          "format": 1
+        }
+      },
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": 1794241945877,
+        "modifiedTime": 1794241945877,
+        "lastModifiedBy": "packsbuilder0000",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!journal.pages!DnEsa3uRqhzxWpCK.pG5YcZXarwf79Exv"
+    },
+    {
+      "_id": "2BLY01Y0op2ZjCha",
+      "name": "Mithral Lightening",
+      "type": "mastercrafted.modification",
+      "sort": 1700000,
+      "ownership": {
+        "default": -1
+      },
+      "text": {
+        "content": "",
+        "format": 1
+      },
+      "flags": {
+        "mastercrafted": {
+          "ingredientsInspection": "0",
+          "macroName": "",
+          "productInspection": "0",
+          "sound": "",
+          "time": null,
+          "require": "",
+          "expression": "",
+          "modifierList": [],
+          "type": "smithing",
+          "requiresStation": false,
+          "requiresMinigame": true,
+          "minigame": {
+            "difficulty": "normal",
+            "canFail": false,
+            "perfect": ""
+          },
+          "timedMode": "",
+          "queueKey": "",
+          "img": "icons/commodities/metal/ingot-teal.webp",
+          "checks": [
+            "check=tool.smith|dc=15"
+          ],
+          "ingredients": [
+            {
+              "id": "3uQWx7XmCSuk4Hmg",
+              "name": null,
+              "components": [
+                {
+                  "id": "Md8ySbUIQLzvEgK7",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-smithing.Item.XGtuUwMLrOUyjQMF",
+                  "quantity": 2,
+                  "name": "Mithral Ingot",
+                  "img": "icons/commodities/metal/ingot-teal.webp",
+                  "tags": [],
+                  "resourcePath": "",
+                  "mode": "some",
+                  "currency": ""
+                }
+              ]
+            }
+          ],
+          "catalysts": [],
+          "modification": {
+            "changes": [
+              {
+                "value": "weight",
+                "path": "",
+                "mode": "multiply",
+                "amount": "0.5",
+                "link": false
+              }
+            ],
+            "prefix": "Mithral",
+            "suffix": "",
+            "track": "",
+            "minLevel": 0,
+            "maxLevel": 1,
+            "costPerLevel": 0,
+            "targetTypes": [
+              "weapon",
+              "equipment"
+            ],
+            "targetTags": ""
+          }
+        }
+      },
+      "system": {
+        "text": {
+          "format": 1
+        }
+      },
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": 1794241945877,
+        "modifiedTime": 1794241945877,
+        "lastModifiedBy": "packsbuilder0000",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!journal.pages!DnEsa3uRqhzxWpCK.2BLY01Y0op2ZjCha"
+    },
+    {
+      "_id": "uyhNKH3IHksDXN5h",
+      "name": "Adamantine Plating",
+      "type": "mastercrafted.modification",
+      "sort": 1800000,
+      "ownership": {
+        "default": -1
+      },
+      "text": {
+        "content": "",
+        "format": 1
+      },
+      "flags": {
+        "mastercrafted": {
+          "ingredientsInspection": "0",
+          "macroName": "",
+          "productInspection": "0",
+          "sound": "",
+          "time": null,
+          "require": "",
+          "expression": "",
+          "modifierList": [],
+          "type": "smithing",
+          "requiresStation": false,
+          "requiresMinigame": true,
+          "minigame": {
+            "difficulty": "hard",
+            "canFail": false,
+            "perfect": ""
+          },
+          "timedMode": "",
+          "queueKey": "",
+          "img": "icons/commodities/metal/ingot-stamped-steel-purple.webp",
+          "checks": [
+            "check=tool.smith|dc=18"
+          ],
+          "ingredients": [
+            {
+              "id": "xMZWhmRDpg1PM06v",
+              "name": null,
+              "components": [
+                {
+                  "id": "H0vsOdaeMLJtiEeT",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-smithing.Item.lreLaPuDN9h7KI6T",
+                  "quantity": 2,
+                  "name": "Adamantine Ingot",
+                  "img": "icons/commodities/metal/ingot-stamped-steel-purple.webp",
+                  "tags": [],
+                  "resourcePath": "",
+                  "mode": "some",
+                  "currency": ""
+                }
+              ]
+            }
+          ],
+          "catalysts": [
+            {
+              "id": "xlqMqNuKg8GFE9vr",
+              "name": null,
+              "components": [
+                {
+                  "id": "QJZjVfMHsqeOXsAJ",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.Z3AeLcmiknIMJWI0",
+                  "quantity": 1,
+                  "name": "Earth Elemental Pebbles",
+                  "img": "icons/magic/earth/projectiles-stone-salvo.webp",
+                  "tags": [],
+                  "resourcePath": "",
+                  "mode": "some",
+                  "currency": ""
+                }
+              ]
+            }
+          ],
+          "modification": {
+            "changes": [
+              {
+                "value": "armorClass",
+                "path": "",
+                "mode": "add",
+                "amount": "1",
+                "link": false
+              },
+              {
+                "value": "custom",
+                "path": "properties",
+                "mode": "removeEntry",
+                "amount": "hvy",
+                "link": false
+              },
+              {
+                "value": "custom",
+                "path": "properties",
+                "mode": "addEntry",
+                "amount": "ada",
+                "link": false
+              }
+            ],
+            "prefix": "",
+            "suffix": "of Adamant",
+            "track": "",
+            "minLevel": 0,
+            "maxLevel": 1,
+            "costPerLevel": 0,
+            "targetTypes": [
+              "weapon",
+              "equipment"
+            ],
+            "targetTags": ""
+          }
+        }
+      },
+      "system": {
+        "text": {
+          "format": 1
+        }
+      },
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": 1794241945877,
+        "modifiedTime": 1794241945877,
+        "lastModifiedBy": "packsbuilder0000",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!journal.pages!DnEsa3uRqhzxWpCK.uyhNKH3IHksDXN5h"
+    },
+    {
+      "_id": "MM0BRE6vpES5Wb6O",
+      "name": "Stormforged",
+      "type": "mastercrafted.modification",
+      "sort": 1900000,
+      "ownership": {
+        "default": -1
+      },
+      "text": {
+        "content": "",
+        "format": 1
+      },
+      "flags": {
+        "mastercrafted": {
+          "ingredientsInspection": "0",
+          "macroName": "",
+          "productInspection": "0",
+          "sound": "",
+          "time": null,
+          "require": "",
+          "expression": "",
+          "modifierList": [],
+          "type": "smithing",
+          "requiresStation": false,
+          "requiresMinigame": true,
+          "minigame": {
+            "difficulty": "normal",
+            "canFail": false,
+            "perfect": ""
+          },
+          "timedMode": "",
+          "queueKey": "",
+          "img": "icons/commodities/stone/ore-chunk-blue-brown.webp",
+          "checks": [
+            "check=tool.smith|dc=15"
+          ],
+          "ingredients": [
+            {
+              "id": "xEFU2oCnJ2km7mVY",
+              "name": null,
+              "components": [
+                {
+                  "id": "wOVbSbAv1H4A12yJ",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-smithing.Item.VpOFLK9Y2V39oOu0",
+                  "quantity": 1,
+                  "name": "Steel Ingot",
+                  "img": "icons/commodities/metal/ingot-steel.webp",
+                  "tags": [],
+                  "resourcePath": "",
+                  "mode": "some",
+                  "currency": ""
+                }
+              ]
+            },
+            {
+              "id": "hmKrFSds1NIZDMJX",
+              "name": null,
+              "components": [
+                {
+                  "id": "VTUPPaQD2rwpHUmT",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.dJfTixoUfWKnFxkH",
+                  "quantity": 1,
+                  "name": "Lightning Struck Metal",
+                  "img": "icons/commodities/stone/ore-chunk-blue-brown.webp",
+                  "tags": [],
+                  "resourcePath": "",
+                  "mode": "some",
+                  "currency": ""
+                }
+              ]
+            }
+          ],
+          "catalysts": [],
+          "modification": {
+            "changes": [
+              {
+                "value": "magical",
+                "path": "",
+                "mode": "override",
+                "amount": "1",
+                "link": false
+              }
+            ],
+            "prefix": "Stormforged",
+            "suffix": "",
+            "track": "",
+            "minLevel": 0,
+            "maxLevel": 1,
+            "costPerLevel": 0,
+            "targetTypes": [
+              "weapon"
+            ],
+            "targetTags": ""
+          }
+        }
+      },
+      "system": {
+        "text": {
+          "format": 1
+        }
+      },
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": 1794241945877,
+        "modifiedTime": 1794241945877,
+        "lastModifiedBy": "packsbuilder0000",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!journal.pages!DnEsa3uRqhzxWpCK.MM0BRE6vpES5Wb6O"
+    }
+  ],
+  "flags": {
+    "mastercrafted": {
+      "description": "",
+      "img": "icons/sundries/books/book-embossed-steel-brown.webp",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "sound": "",
+      "require": "Smith's Tools",
+      "macroName": "",
+      "time": null,
+      "timedMode": "parallel",
+      "queueKey": ""
+    }
+  },
+  "categories": [],
+  "sort": 0,
+  "_stats": {
+    "coreVersion": "14.370",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": 1794241945877,
+    "modifiedTime": 1794241945877,
+    "lastModifiedBy": "packsbuilder0000",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!journal!DnEsa3uRqhzxWpCK"
+}

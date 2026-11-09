@@ -1,0 +1,43 @@
+{
+  "name": "Drider Poison",
+  "type": "loot",
+  "img": "icons/skills/toxins/bottle-open-vapors-pink.webp",
+  "system": {
+    "description": {
+      "value": "<section id=\"secret-N6BDCQxQDYYgrATV\" class=\"secret\"><p>Rarity: Rare (DC 20)</p><p>Harvesting: Poisoner's Kit (DC 15)</p><p>Quantity: 1d6 vials</p><p>Creature Condition: Dead or Incapacitated</p><p>Uses (2): Drow Poison, Magebane</p></section>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Potion Brewing and Ingredient Gathering for DnD 5e",
+    "quantity": 1,
+    "weight": {
+      "value": 0,
+      "units": "lb"
+    },
+    "price": 50,
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "rare",
+    "identified": true
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.0.3",
+    "coreVersion": "14.370",
+    "createdTime": 1665869590744,
+    "modifiedTime": 1794239342900,
+    "lastModifiedBy": "packsbuilder0000",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "yCtZ2e5lV2ehnECa",
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!yCtZ2e5lV2ehnECa"
+}

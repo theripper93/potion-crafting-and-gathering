@@ -1,0 +1,106 @@
+{
+  "name": "Gathering: Arctic",
+  "description": "A random table created from the contents of the Plants Folder.",
+  "results": [
+    {
+      "type": "document",
+      "img": "icons/consumables/plants/leaf-broad-blue.webp",
+      "weight": 2,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "_id": "XeHi6vU8fK6o51GZ",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "1d6"
+          }
+        }
+      },
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Frost Lichen",
+      "documentUuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.4ybCoZqAMDLiQsmb",
+      "description": "",
+      "_key": "!tables.results!UrhXVaKOH5qBpEi3.XeHi6vU8fK6o51GZ"
+    },
+    {
+      "type": "document",
+      "img": "icons/consumables/plants/thorned-dried-stem-brown.webp",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "_id": "m70PwSxL8N7jQW3U",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "1d6"
+          }
+        }
+      },
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Silverthorn",
+      "documentUuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.IvLk97TKspuqU1eX",
+      "description": "",
+      "_key": "!tables.results!UrhXVaKOH5qBpEi3.m70PwSxL8N7jQW3U"
+    }
+  ],
+  "formula": "1d2",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "better-rolltables": {
+      "tags": "",
+      "table-type": "better",
+      "table-currency-string": "",
+      "loot-amount-key": "",
+      "loot-actor-name": ""
+    },
+    "hidden-tables": {
+      "hidden": false
+    }
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.0.3",
+    "coreVersion": "14.370",
+    "createdTime": 1665933450716,
+    "modifiedTime": 1794239343060,
+    "lastModifiedBy": "packsbuilder0000",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "UrhXVaKOH5qBpEi3",
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!tables!UrhXVaKOH5qBpEi3"
+}

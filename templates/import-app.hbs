@@ -1,0 +1,50 @@
+<div>
+    <fieldset>
+        <legend>{{localize "potion-crafting-and-gathering.importApp.modules"}}</legend>
+        {{#each modules}}
+        <div class="form-group">
+            <label>{{title}}</label>
+            <div class="form-fields">
+                <span>
+                    <i class="fa-solid {{#if ok}}fa-circle-check{{else}}fa-triangle-exclamation{{/if}}"></i>
+                    {{label}}
+                </span>
+            </div>
+        </div>
+        {{/each}}
+    </fieldset>
+
+    <fieldset>
+        <legend>{{localize "potion-crafting-and-gathering.importApp.content"}}</legend>
+        {{#each packs}}
+        <div class="form-group">
+            <label>{{localize label}}</label>
+            <div class="form-fields">
+                <span>{{localize "potion-crafting-and-gathering.importApp.counts" imported=imported total=total}}</span>
+                <input type="checkbox" name="packs.{{key}}" {{checked checked}}>
+            </div>
+        </div>
+        {{/each}}
+        <div class="form-group">
+            <label>{{localize "potion-crafting-and-gathering.importApp.harvesting.label"}}</label>
+            <div class="form-fields">
+                <input type="checkbox" name="harvesting" {{disabled (not harvesting.available)}}>
+            </div>
+            <p class="hint">{{localize "potion-crafting-and-gathering.importApp.harvesting.hint"}}</p>
+        </div>
+        <div class="form-group">
+            <label>{{localize "potion-crafting-and-gathering.importApp.update.label"}}</label>
+            <div class="form-fields">
+                <input type="checkbox" name="update" {{checked update}}>
+            </div>
+            <p class="hint">{{localize "potion-crafting-and-gathering.importApp.update.hint"}}</p>
+        </div>
+    </fieldset>
+
+    <div class="form-group">
+        <label>{{localize "potion-crafting-and-gathering.importApp.showOnStartup"}}</label>
+        <div class="form-fields">
+            <input type="checkbox" name="showOnStartup" {{checked showOnStartup}}>
+        </div>
+    </div>
+</div>

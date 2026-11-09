@@ -1,0 +1,92 @@
+{
+  "name": "Harvesting: Dragon",
+  "img": "icons/svg/d20-grey.svg",
+  "formula": "1d4",
+  "replacement": true,
+  "displayRoll": true,
+  "results": [
+    {
+      "type": "document",
+      "documentUuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.FL1DOoV7dEZ4YmsH",
+      "name": "Dragon's Blood",
+      "img": "icons/skills/wounds/blood-drip-droplet-red.webp",
+      "weight": 2,
+      "range": [
+        1,
+        2
+      ],
+      "flags": {
+        "gatherer": {
+          "quantity": "2d8"
+        }
+      },
+      "_id": "pmcMNrYCJwOAuO7C",
+      "description": "",
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": 1794240301394,
+        "modifiedTime": 1794240301394,
+        "lastModifiedBy": "TJvRiTp7BS0avsVp",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!NuURM6dsljEFA3Ke.pmcMNrYCJwOAuO7C"
+    },
+    {
+      "type": "document",
+      "documentUuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.k8aljL25K5d4mHOF",
+      "name": "Wyvern Poison",
+      "img": "icons/creatures/slimes/slime-movement-dripping-purple.webp",
+      "weight": 2,
+      "range": [
+        3,
+        4
+      ],
+      "flags": {
+        "gatherer": {
+          "quantity": "1d8"
+        }
+      },
+      "_id": "vfk1ZPGfmKlaX1OD",
+      "description": "",
+      "drawn": false,
+      "_stats": {
+        "coreVersion": "14.370",
+        "systemId": "dnd5e",
+        "systemVersion": "6.0.6",
+        "createdTime": 1794240301394,
+        "modifiedTime": 1794240301394,
+        "lastModifiedBy": "TJvRiTp7BS0avsVp",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!tables.results!NuURM6dsljEFA3Ke.vfk1ZPGfmKlaX1OD"
+    }
+  ],
+  "_id": "NuURM6dsljEFA3Ke",
+  "description": "",
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "TJvRiTp7BS0avsVp": 3
+  },
+  "flags": {},
+  "_stats": {
+    "coreVersion": "14.370",
+    "systemId": "dnd5e",
+    "systemVersion": "6.0.6",
+    "createdTime": 1794240301394,
+    "modifiedTime": 1794240301398,
+    "lastModifiedBy": "TJvRiTp7BS0avsVp",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!NuURM6dsljEFA3Ke"
+}

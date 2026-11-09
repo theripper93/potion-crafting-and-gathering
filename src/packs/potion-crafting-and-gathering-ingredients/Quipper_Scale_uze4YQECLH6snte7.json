@@ -1,0 +1,43 @@
+{
+  "name": "Quipper Scale",
+  "type": "loot",
+  "img": "icons/commodities/leather/scales-blue-white.webp",
+  "system": {
+    "description": {
+      "value": "<section id=\"secret-T5bgh3epd18uPZDQ\" class=\"secret\"><p>Rarity: Common (DC 10)</p><p>Harvesting: a knife (DC 5)</p><p>Quantity: 1d4 scales</p><p>Creature Condition: Dead or Incapacitated</p><p>Uses (2): Potion of Animal Friendship, Potion of Swimming</p></section>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Potion Brewing and Ingredient Gathering for DnD 5e",
+    "quantity": 1,
+    "weight": {
+      "value": 0,
+      "units": "lb"
+    },
+    "price": 5,
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "common",
+    "identified": true
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.0.3",
+    "coreVersion": "14.370",
+    "createdTime": 1665870987185,
+    "modifiedTime": 1794239342900,
+    "lastModifiedBy": "packsbuilder0000",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "uze4YQECLH6snte7",
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!uze4YQECLH6snte7"
+}

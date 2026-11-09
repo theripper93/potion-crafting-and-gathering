@@ -1,0 +1,557 @@
+{
+  "name": "The Ghost Pepper Poisoner",
+  "ownership": {
+    "default": 0,
+    "rqEOxzm9pWZpMhH4": 0,
+    "QAdDWUaUNK09Iq3x": 0,
+    "GOvXOrkQSzey7yZ5": 0,
+    "56XvGn6U8R9S2vlW": 0,
+    "HHjDcylTiWQFDEbS": 0,
+    "qr1zQ11jcfurK31V": 3
+  },
+  "folder": "jR5pShGKb03nvGBP",
+  "pages": [
+    {
+      "name": "Deathsleep",
+      "type": "mastercrafted.mastercrafted",
+      "text": {
+        "content": "<p>A creature that ingests this poison must succeed at DC 19 Constitution saving throw or become poisoned for 24 hours. The poisoned creature appears to be dead, and only succeeding a DC 20 Medicine check can determine otherwise.</p>",
+        "format": 1
+      },
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "mastercrafted": {
+          "img": "icons/consumables/potions/bottle-conical-corked-labeled-skull-poison-green.webp",
+          "ingredients": [
+            {
+              "id": "Chx7YaWDeATHEOs9",
+              "name": null,
+              "components": [
+                {
+                  "id": "0XbdJluBRLtjrmyH",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-herbalism.Item.lkaYAV7KTxFDsfoB",
+                  "quantity": 1,
+                  "name": "Tea of Refreshment",
+                  "img": "icons/consumables/drinks/wine-amphora-clay-gray.webp",
+                  "tags": [],
+                  "resourcePath": ""
+                }
+              ]
+            },
+            {
+              "id": "aXlZqKXgivEfrk1r",
+              "name": null,
+              "components": [
+                {
+                  "id": "zMuc8DFYC1uS3ZPY",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.RirFeyOudF936MLm",
+                  "quantity": 1,
+                  "name": "Purple Worm Poison",
+                  "img": "icons/magic/unholy/orb-droplet-pink.webp",
+                  "tags": [],
+                  "resourcePath": ""
+                }
+              ]
+            }
+          ],
+          "ingredientsInspection": "0",
+          "macroName": "",
+          "products": [
+            {
+              "id": "bX75gvIs9QxWfZ9t",
+              "name": null,
+              "components": [
+                {
+                  "id": "sSvYzDMpZLdtJbHo",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-poisons.Item.dpuvQyo5X6Ao8V1Z",
+                  "quantity": 1,
+                  "name": "Deathsleep",
+                  "img": "icons/consumables/potions/bottle-conical-corked-labeled-skull-poison-green.webp",
+                  "tags": [],
+                  "resourcePath": ""
+                }
+              ]
+            }
+          ],
+          "productInspection": "0",
+          "sound": "",
+          "time": null,
+          "require": "",
+          "expression": "",
+          "modifierList": [],
+          "checks": [],
+          "type": "",
+          "requiresStation": false,
+          "requiresMinigame": false,
+          "minigame": {
+            "difficulty": "normal",
+            "canFail": false,
+            "perfect": ""
+          },
+          "timedMode": "",
+          "queueKey": ""
+        }
+      },
+      "_id": "PKcgIDdzOaIKNTa5",
+      "system": {
+        "htmlFields": [
+          "text.content"
+        ],
+        "text": {
+          "format": 1
+        }
+      },
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "sort": 0,
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.370",
+        "systemId": "dnd5e",
+        "systemVersion": "5.2.5",
+        "lastModifiedBy": "TJvRiTp7BS0avsVp",
+        "createdTime": 1794239342842,
+        "modifiedTime": 1794239342842
+      },
+      "_key": "!journal.pages!Z8mDiWQCt1S1FJbL.PKcgIDdzOaIKNTa5"
+    },
+    {
+      "name": "Essence of Rage",
+      "type": "mastercrafted.mastercrafted",
+      "text": {
+        "content": "<p>A brown potion with the consistency of mud, it turns into a clear, violently red potion when agitated with more than the lightest touch. Drinking the potion provides the Rage ability of the Barbarian class for 30 seconds. When directly brought in contact with the blood of a creature through injury or injection, it forces the target to make a DC 16 Constitution throw. On a successful save, the target gets the Rage ability of the Barbarian class for 60 seconds. On a failed save, the target is forced into the Rage ability of the Barbarian class for 30 seconds and forced to attack the closest target with melee attacks. Starting on the 2nd turn after the potion is applied, the target can make another Constitution saving throw. On a success, all effects end. This potion has no effect on constructs or the undead.</p>",
+        "format": 1
+      },
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "mastercrafted": {
+          "img": "icons/consumables/potions/flask-corked-yellow-glow.webp",
+          "ingredients": [
+            {
+              "id": "EkpI6w04QdCzGF79",
+              "name": null,
+              "components": [
+                {
+                  "id": "hNDGp4XT8ISIbxa0",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.FL1DOoV7dEZ4YmsH",
+                  "quantity": 1,
+                  "name": "Dragon's Blood",
+                  "img": "icons/skills/wounds/blood-drip-droplet-red.webp",
+                  "tags": [],
+                  "resourcePath": ""
+                }
+              ]
+            },
+            {
+              "id": "lPfvQmMvbjyYcu93",
+              "name": null,
+              "components": [
+                {
+                  "id": "Uz4y9PQ0q9gqDCnv",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.XsePsNGNXztjGhqt",
+                  "quantity": 1,
+                  "name": "Moonstalker",
+                  "img": "icons/commodities/flowers/dandelion-pod-blue.webp",
+                  "tags": [],
+                  "resourcePath": ""
+                }
+              ]
+            },
+            {
+              "id": "sLDzPqh80g26bVto",
+              "name": null,
+              "components": [
+                {
+                  "id": "OJMyJHJO2vPaB0ne",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.dJfTixoUfWKnFxkH",
+                  "quantity": 1,
+                  "name": "Lightning Struck Metal",
+                  "img": "icons/commodities/stone/ore-chunk-blue-brown.webp",
+                  "tags": [],
+                  "resourcePath": ""
+                }
+              ]
+            }
+          ],
+          "ingredientsInspection": "0",
+          "macroName": "",
+          "products": [
+            {
+              "id": "uIaN0xq4NqmoGkYK",
+              "name": null,
+              "components": [
+                {
+                  "id": "9iyu6TWL13EzneA2",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-poisons.Item.3snkJrMRtaerbjgW",
+                  "quantity": 1,
+                  "name": "Essence of Rage",
+                  "img": "icons/consumables/potions/flask-corked-yellow-glow.webp",
+                  "tags": [],
+                  "resourcePath": ""
+                }
+              ]
+            }
+          ],
+          "productInspection": "0",
+          "sound": "",
+          "time": null,
+          "require": "",
+          "expression": "",
+          "modifierList": [],
+          "checks": [],
+          "type": "",
+          "requiresStation": false,
+          "requiresMinigame": false,
+          "minigame": {
+            "difficulty": "normal",
+            "canFail": false,
+            "perfect": ""
+          },
+          "timedMode": "",
+          "queueKey": ""
+        }
+      },
+      "_id": "GPaOf1i74sVjighx",
+      "system": {
+        "htmlFields": [
+          "text.content"
+        ],
+        "text": {
+          "format": 1
+        }
+      },
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "sort": 0,
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.370",
+        "systemId": "dnd5e",
+        "systemVersion": "5.2.5",
+        "lastModifiedBy": "TJvRiTp7BS0avsVp",
+        "createdTime": 1794239342842,
+        "modifiedTime": 1794239342842
+      },
+      "_key": "!journal.pages!Z8mDiWQCt1S1FJbL.GPaOf1i74sVjighx"
+    },
+    {
+      "name": "Midnight Tears",
+      "type": "mastercrafted.mastercrafted",
+      "text": {
+        "content": "<p>A creature that ingests this poison suffers no effect until the stroke of midnight. If the poison has not been neutralized before then, the creature must succeed on a DC 17 Constitution saving throw, taking 31 (9d6) poison damage on a failed save, or half as much damage on a successful one.</p>",
+        "format": 1
+      },
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "mastercrafted": {
+          "img": "icons/consumables/potions/potion-bottle-skull-label-poison-teal.webp",
+          "ingredients": [
+            {
+              "id": "oUkJvNb8qPNnQLOr",
+              "name": null,
+              "components": [
+                {
+                  "id": "GUplZkQXpLsB4yEo",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.ZTXmBm0pYhuK5AxE",
+                  "quantity": 1,
+                  "name": "Death Cap",
+                  "img": "icons/consumables/mushrooms/conical-bell-yellow.webp",
+                  "tags": [],
+                  "resourcePath": ""
+                }
+              ]
+            },
+            {
+              "id": "rYClHYq1Q2LS6dFc",
+              "name": null,
+              "components": [
+                {
+                  "id": "E5N84Ki97v8NHy2c",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.M6NM0PSPlkHUHTdO",
+                  "quantity": 1,
+                  "name": "Ankheg Ichor",
+                  "img": "icons/magic/acid/dissolve-drip-droplet-smoke.webp",
+                  "tags": [],
+                  "resourcePath": ""
+                }
+              ]
+            }
+          ],
+          "ingredientsInspection": "0",
+          "macroName": "",
+          "products": [
+            {
+              "id": "1IVIHtJNiHSLnMvP",
+              "name": null,
+              "components": [
+                {
+                  "id": "HpKuDbtwK15WwZKx",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-poisons.Item.ULxdo50cAouXw76k",
+                  "quantity": 1,
+                  "name": "Midnight Tears (Ingested)",
+                  "img": "icons/consumables/potions/potion-bottle-skull-label-poison-teal.webp",
+                  "tags": [],
+                  "resourcePath": ""
+                }
+              ]
+            }
+          ],
+          "productInspection": "0",
+          "sound": "",
+          "time": null,
+          "require": "",
+          "expression": "",
+          "modifierList": [],
+          "checks": [],
+          "type": "",
+          "requiresStation": false,
+          "requiresMinigame": false,
+          "minigame": {
+            "difficulty": "normal",
+            "canFail": false,
+            "perfect": ""
+          },
+          "timedMode": "",
+          "queueKey": ""
+        }
+      },
+      "_id": "w0onDyr8ZfkgWVN8",
+      "system": {
+        "htmlFields": [
+          "text.content"
+        ],
+        "text": {
+          "format": 1
+        }
+      },
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "sort": 0,
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.370",
+        "systemId": "dnd5e",
+        "systemVersion": "5.2.5",
+        "lastModifiedBy": "TJvRiTp7BS0avsVp",
+        "createdTime": 1794239342842,
+        "modifiedTime": 1794239342842
+      },
+      "_key": "!journal.pages!Z8mDiWQCt1S1FJbL.w0onDyr8ZfkgWVN8"
+    },
+    {
+      "name": "Water of Death",
+      "type": "mastercrafted.mastercrafted",
+      "text": {
+        "content": "<p>This liquid looks, smells and tastes like water. Even the majority of alchemic and magical tests on this liquid cannot distinguish it from water. Only the spell Identify cast as a level 7 or higher or detailed alchemic test, lasting 24 hours and costing 300 gp, will reveal that this liquid is actually one of the deadliest poisons in existence.</p>",
+        "format": 1
+      },
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "mastercrafted": {
+          "img": "icons/consumables/drinks/alcohol-spirits-bottle-green.webp",
+          "ingredients": [
+            {
+              "id": "fH8JIKLSgsoTMEy5",
+              "name": null,
+              "components": [
+                {
+                  "id": "WQqDJ1ecdfzxmqUn",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.WeMebyyH2jXTQtTH",
+                  "quantity": 1,
+                  "name": "Black Cap Mushroom",
+                  "img": "icons/consumables/mushrooms/ovate-blue.webp",
+                  "tags": [],
+                  "resourcePath": ""
+                }
+              ]
+            },
+            {
+              "id": "9PB2Rc2InkZBoowf",
+              "name": null,
+              "components": [
+                {
+                  "id": "YQsrI1wysOqbmroT",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.k8aljL25K5d4mHOF",
+                  "quantity": 1,
+                  "name": "Wyvern Poison",
+                  "img": "icons/creatures/slimes/slime-movement-dripping-purple.webp",
+                  "tags": [],
+                  "resourcePath": ""
+                }
+              ]
+            },
+            {
+              "id": "Na9qiuvPhebmaI52",
+              "name": null,
+              "components": [
+                {
+                  "id": "Ke30PoX5bvZkgNyB",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.jjxoFljmT5atbIT8",
+                  "quantity": 1,
+                  "name": "Dreamlily",
+                  "img": "icons/commodities/flowers/lily-white.webp",
+                  "tags": [],
+                  "resourcePath": ""
+                }
+              ]
+            },
+            {
+              "id": "jvXwiPdhtKCIXEKx",
+              "name": null,
+              "components": [
+                {
+                  "id": "pOJPHJixqUaTzUPn",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients.Item.qXk27yXG0KVONssI",
+                  "quantity": 1,
+                  "name": "Hagfinger",
+                  "img": "icons/consumables/vegetable/root-parsnip-grey.webp",
+                  "tags": [],
+                  "resourcePath": ""
+                }
+              ]
+            }
+          ],
+          "ingredientsInspection": "0",
+          "macroName": "",
+          "products": [
+            {
+              "id": "oSsTmUarP0td2Rlc",
+              "name": null,
+              "components": [
+                {
+                  "id": "zepF4bsW1Kibz9nx",
+                  "uuid": "Compendium.potion-crafting-and-gathering.potion-crafting-and-gathering-poisons.Item.Vj2N2FKwqvqGw8FJ",
+                  "quantity": 1,
+                  "name": "Water of Death",
+                  "img": "icons/consumables/drinks/alcohol-spirits-bottle-green.webp",
+                  "tags": [],
+                  "resourcePath": ""
+                }
+              ]
+            }
+          ],
+          "productInspection": "0",
+          "sound": "",
+          "time": null,
+          "require": "",
+          "expression": "",
+          "modifierList": [],
+          "checks": [],
+          "type": "",
+          "requiresStation": false,
+          "requiresMinigame": false,
+          "minigame": {
+            "difficulty": "normal",
+            "canFail": false,
+            "perfect": ""
+          },
+          "timedMode": "",
+          "queueKey": ""
+        }
+      },
+      "_id": "U3ZLpfFEjXtOK2Ez",
+      "system": {
+        "htmlFields": [
+          "text.content"
+        ],
+        "text": {
+          "format": 1
+        }
+      },
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "sort": 0,
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "14.370",
+        "systemId": "dnd5e",
+        "systemVersion": "5.2.5",
+        "lastModifiedBy": "TJvRiTp7BS0avsVp",
+        "createdTime": 1794239342842,
+        "modifiedTime": 1794239342842
+      },
+      "_key": "!journal.pages!Z8mDiWQCt1S1FJbL.U3ZLpfFEjXtOK2Ez"
+    }
+  ],
+  "flags": {
+    "mastercrafted": {
+      "description": "Contains recipes for creating very rare poisons",
+      "img": "icons/sundries/books/book-symbol-skull-grey.webp",
+      "ingredientsInspection": "1",
+      "productInspection": "1",
+      "sound": "",
+      "require": "Poisoner's Kit",
+      "macroName": "",
+      "time": null,
+      "timedMode": "parallel",
+      "queueKey": ""
+    }
+  },
+  "categories": [],
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "14.370",
+    "systemId": "dnd5e",
+    "systemVersion": "5.2.5",
+    "createdTime": 1773072031117,
+    "modifiedTime": 1794239343028,
+    "lastModifiedBy": "TJvRiTp7BS0avsVp"
+  },
+  "_id": "Z8mDiWQCt1S1FJbL",
+  "sort": 100000,
+  "_key": "!journal!Z8mDiWQCt1S1FJbL"
+}

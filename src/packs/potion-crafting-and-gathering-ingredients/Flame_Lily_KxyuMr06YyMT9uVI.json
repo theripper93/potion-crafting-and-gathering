@@ -1,0 +1,43 @@
+{
+  "name": "Flame Lily",
+  "type": "loot",
+  "img": "icons/consumables/plants/flax-leaves-spiked-bundle-orange.webp",
+  "system": {
+    "description": {
+      "value": "<p>Named after its red and orange, 7-leafed flowers whose petals point skywards as opposed to the downwards facing stems, resembling a flame. When used carefully, these flowers can be used for curative concoctions, but high doses are deadly.</p><section id=\"secret-Dm8eGisHtKBpFxHJ\" class=\"secret\"><p>Rarity: Uncommon (DC 15)</p><p>Gathering: Herbalism Kit (DC 15)</p><p>Quantity: 1d8 flowers</p><p>Location: Desert, Savanah</p><p>Uses (5): Blasting Powder, Grenade, smoke, Muroosa Balm, Fire Balm, Lava Paste</p></section>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Potion Brewing and Ingredient Gathering for DnD 5e",
+    "quantity": 1,
+    "weight": {
+      "value": 0,
+      "units": "lb"
+    },
+    "price": 10,
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "uncommon",
+    "identified": true
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.0.3",
+    "coreVersion": "14.370",
+    "createdTime": 1665688528211,
+    "modifiedTime": 1794239342890,
+    "lastModifiedBy": "packsbuilder0000",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "KxyuMr06YyMT9uVI",
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!KxyuMr06YyMT9uVI"
+}

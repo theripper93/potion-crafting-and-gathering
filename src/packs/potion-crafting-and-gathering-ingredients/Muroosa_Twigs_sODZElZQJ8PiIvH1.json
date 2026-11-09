@@ -1,0 +1,43 @@
+{
+  "name": "Muroosa Twigs",
+  "type": "loot",
+  "img": "icons/consumables/plants/fern-sword-green.webp",
+  "system": {
+    "description": {
+      "value": "<p>Growing in arid areas in Savannahs and deserts, this bush seems to be utterly unaffected by heat and the sun no matter the intensity.</p><section id=\"secret-zpFtVKTkgsDQWHsH\" class=\"secret\"><p>Rarity: Uncommon (DC 15)</p><p>Gathering: Herbalism Kit (DC 15)</p><p>Quantity: 1d6 twigs</p><p>Location: Deserts, Savannahs</p><p>Uses (5): Muroosa Balm, Life's Liquor, Liquid Luck, Potion of Plantspeak, Quenching Pilther</p></section>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Potion Brewing and Ingredient Gathering for DnD 5e",
+    "quantity": 1,
+    "weight": {
+      "value": 0,
+      "units": "lb"
+    },
+    "price": 10,
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "uncommon",
+    "identified": true
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.0.3",
+    "coreVersion": "14.370",
+    "createdTime": 1665688528211,
+    "modifiedTime": 1794239342898,
+    "lastModifiedBy": "packsbuilder0000",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "sODZElZQJ8PiIvH1",
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!sODZElZQJ8PiIvH1"
+}

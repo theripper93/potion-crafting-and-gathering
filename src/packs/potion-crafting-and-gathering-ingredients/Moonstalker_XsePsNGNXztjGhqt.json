@@ -1,0 +1,43 @@
+{
+  "name": "Moonstalker",
+  "type": "loot",
+  "img": "icons/commodities/flowers/dandelion-pod-blue.webp",
+  "system": {
+    "description": {
+      "value": "<p>This pale blue flower grows in pairs and blooms only during the nighttime, and has an ethereal glow. The flower sheds dim light for 5 feet when blooming, and is often mistaken for glowing eyes from a distance.</p><section id=\"secret-gQF5jN69sDIQy1Sh\" class=\"secret\"><p>Rarity: Rare (DC 20)</p><p>Gathering: Herbalism Kit (DC 10)</p><p>Quantity: 1d4 x2 flowers</p><p>Location: Coasts, Swamps</p><p>Uses (4): Potion of Diminution, Potion of Mind Reading, Liquid Paranoia, Essence of Rage</p></section>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Potion Brewing and Ingredient Gathering for DnD 5e",
+    "quantity": 1,
+    "weight": {
+      "value": 0,
+      "units": "lb"
+    },
+    "price": 50,
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "rare",
+    "identified": true
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.0.3",
+    "coreVersion": "14.370",
+    "createdTime": 1665839620448,
+    "modifiedTime": 1794239342894,
+    "lastModifiedBy": "packsbuilder0000",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "XsePsNGNXztjGhqt",
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!XsePsNGNXztjGhqt"
+}

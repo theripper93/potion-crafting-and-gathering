@@ -1,0 +1,43 @@
+{
+  "name": "Giant's Fingernail",
+  "type": "loot",
+  "img": "icons/commodities/biological/shell-plain-white.webp",
+  "system": {
+    "description": {
+      "value": "<section id=\"secret-1OqvafddkiZCM22l\" class=\"secret\"><p>Rarity: Rare (DC 20)</p><p>Harvesting: a knife (DC 10)</p><p>Quantity: 7 nails</p><p>Creature Condition: Dead or Incapacitated, or trade</p><p>Uses (2): Potion of Giant's Strength, Thor's Might</p></section>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Potion Brewing and Ingredient Gathering for DnD 5e",
+    "quantity": 1,
+    "weight": {
+      "value": 0,
+      "units": "lb"
+    },
+    "price": 50,
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "rare",
+    "identified": true
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.0.3",
+    "coreVersion": "14.370",
+    "createdTime": 1665869926651,
+    "modifiedTime": 1794239342889,
+    "lastModifiedBy": "packsbuilder0000",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "A9RbPBHYwoNK1OpV",
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!A9RbPBHYwoNK1OpV"
+}

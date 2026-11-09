@@ -1,0 +1,43 @@
+{
+  "name": "Ectoplasm",
+  "type": "loot",
+  "img": "icons/magic/unholy/projectile-fireball-agile-purple.webp",
+  "system": {
+    "description": {
+      "value": "<section id=\"secret-IuyHXT9BAuq25mOm\" class=\"secret\"><p>Rarity: Uncommon (DC 15)</p><p>Harvesting: Alchemist's kit (DC 15)</p><p>Quantity: 1d4 flasks</p><p>Creature Condition: Unrelated</p><p>Uses (3): Potion of Gaseous Form, Oil of Etherealness, Potion of Possibility</p></section>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Potion Brewing and Ingredient Gathering for DnD 5e",
+    "quantity": 1,
+    "weight": {
+      "value": 0,
+      "units": "lb"
+    },
+    "price": 10,
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "uncommon",
+    "identified": true
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.0.3",
+    "coreVersion": "14.370",
+    "createdTime": 1665869859008,
+    "modifiedTime": 1794239342892,
+    "lastModifiedBy": "packsbuilder0000",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "OQAPiXDbXeOTP5TD",
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!OQAPiXDbXeOTP5TD"
+}
