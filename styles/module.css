@@ -1,0 +1,5 @@
+.potion-crafting-and-gathering .update-warning,
+.potion-crafting-and-gathering .form-group .hint.update-warning {
+    color: var(--color-level-error);
+    font-weight: bold;
+}

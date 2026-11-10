@@ -90,6 +90,8 @@ function mergeWorldData(data, worldDoc, documentName) {
 async function getRootFolder(pack) {
     const existing = game.folders.find((f) => f.type === pack.documentName && f.getFlag(MODULE_ID, "pack") === pack.collection);
     if (existing) return existing;
+    const legacy = game.folders.find((f) => f.type === pack.documentName && !f.folder && f.name === pack.title && !f.getFlag(MODULE_ID, "pack"));
+    if (legacy) return legacy.setFlag(MODULE_ID, "pack", pack.collection);
     return Folder.implementation.create({
         name: pack.title,
         type: pack.documentName,

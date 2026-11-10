@@ -18,6 +18,12 @@ export function registerSettings() {
             type: Boolean,
             default: true,
         },
+        "offeredContentVersion": {
+            scope: "world",
+            config: false,
+            type: String,
+            default: "",
+        },
     };
 
     registerSettingsArray(settings);

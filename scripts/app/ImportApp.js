@@ -42,11 +42,21 @@ export class ImportApp extends HandlebarsApplicationMixin(ApplicationV2) {
         return context;
     }
 
+    static confirmUpdate() {
+        return foundry.applications.api.DialogV2.confirm({
+            window: { title: `${MODULE_ID}.importApp.update.confirmTitle`, icon: "fa-solid fa-triangle-exclamation" },
+            content: `<p class="update-warning">${game.i18n.localize(`${MODULE_ID}.importApp.update.warning`)}</p><p>${game.i18n.localize(`${MODULE_ID}.importApp.update.confirm`)}</p>`,
+            classes: [MODULE_ID],
+            rejectClose: false,
+        });
+    }
+
     static async #onSubmit(event, form, formData) {
         const data = formData.object;
         await setSetting("showImportOnStartup", data.showOnStartup);
         const selected = getImportGroups().filter(({ key }) => data[`packs.${key}`]);
         if (!selected.length && !data.harvesting) return;
+        if (data.update && !(await this.constructor.confirmUpdate())) return;
 
         let created = 0;
         let updated = 0;

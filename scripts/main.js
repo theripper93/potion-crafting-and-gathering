@@ -2,6 +2,7 @@ import { initConfig } from "./config.js";
 import { registerSettings, migrateLegacySettings, getSetting } from "./settings.js";
 import { notifyModuleStatus } from "./versionCheck.js";
 import { ImportApp } from "./app/ImportApp.js";
+import { offerNewContent } from "./newContent.js";
 
 export const MODULE_ID = "potion-crafting-and-gathering";
 
@@ -16,4 +17,5 @@ Hooks.once("ready", async () => {
     await migrateLegacySettings();
     notifyModuleStatus();
     if (getSetting("showImportOnStartup")) new ImportApp().render({ force: true });
+    offerNewContent();
 });

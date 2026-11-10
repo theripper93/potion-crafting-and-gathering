@@ -28,11 +28,26 @@
             },
             "update": {
                 "label": "Update Imported Documents",
-                "hint": "Replace documents already in the world with the latest version from the compendium. Ownership, folders, pages or results you added and gathering progress are kept."
+                "hint": "Replace documents already in the world with the latest version from the compendium. Ownership, folders, pages or results you added and gathering progress are kept.",
+                "warning": "Updating replaces each imported document as a whole: your edits to imported recipes, journals and roll tables, flags written by other modules on them, and the drawn state of table results are overwritten.",
+                "confirmTitle": "Update Imported Documents",
+                "confirm": "Update the imported documents anyway?"
             },
             "showOnStartup": "Show on Startup",
             "import": "Import",
             "done": "Potion Crafting & Gathering: {created} documents imported, {updated} updated. Keep this module enabled, the items are stored in its compendiums."
+        },
+        "newContent": {
+            "title": "Potion Crafting & Gathering: New Content",
+            "intro": "This version of Potion Crafting & Gathering adds new content that is not in this world yet:",
+            "items": {
+                "tables": "Updated gathering roll tables",
+                "harvesting": "The Creature Harvesting journal, with harvesting pages and tables for each creature type",
+                "smithing": "A smithing recipe book with its items"
+            },
+            "hint": "Open the importer to choose what to import. You can open it later from the module settings.",
+            "open": "Open Importer",
+            "dismiss": "Dismiss"
         },
         "versionCheck": {
             "state": {

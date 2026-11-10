@@ -2,7 +2,7 @@
     "id": "potion-crafting-and-gathering",
     "title": "Potion Crafting & Gathering",
     "description": "Collating piccolo917's Potion Crafting & Gathering supplement for use in Foundry with Mastercrafted and Gatherer premium modules",
-    "version": "0.8.2",
+    "version": "5.0.0",
     "authors": [
         {
             "name": "theripper93",
@@ -161,7 +161,9 @@
     "esmodules": [
         "index.js"
     ],
-    "styles": [],
+    "styles": [
+        "styles/module.css"
+    ],
     "compatibility": {
         "minimum": 14,
         "verified": 14,
