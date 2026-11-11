@@ -2,7 +2,7 @@ import { compilePack, extractPack } from "@foundryvtt/foundryvtt-cli";
 import fs from "node:fs";
 import path from "node:path";
 
-const PACKS = ["ingredients", "alchemy", "herbalism", "poisons", "smithing", "journal", "recipes", "tables"].map((p) => `potion-crafting-and-gathering-${p}`);
+const PACKS = ["ingredients", "alchemy", "herbalism", "poisons", "journal", "recipes", "tables"].map((p) => `potion-crafting-and-gathering-${p}`);
 const SOURCE = "src/packs";
 const OUTPUT = "packs";
 

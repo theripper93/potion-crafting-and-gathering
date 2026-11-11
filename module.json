@@ -84,20 +84,6 @@
             "flags": {}
         },
         {
-            "name": "potion-crafting-and-gathering-smithing",
-            "label": "Potion Crafting & Gathering Smithing",
-            "path": "packs/potion-crafting-and-gathering-smithing",
-            "type": "Item",
-            "ownership": {
-                "PLAYER": "NONE",
-                "TRUSTED": "NONE",
-                "ASSISTANT": "OWNER"
-            },
-            "module": "potion-crafting-and-gathering",
-            "system": "dnd5e",
-            "flags": {}
-        },
-        {
             "name": "potion-crafting-and-gathering-journal",
             "label": "Potion Crafting & Gathering Journal",
             "path": "packs/potion-crafting-and-gathering-journal",
@@ -150,7 +136,6 @@
                 "potion-crafting-and-gathering-alchemy",
                 "potion-crafting-and-gathering-herbalism",
                 "potion-crafting-and-gathering-poisons",
-                "potion-crafting-and-gathering-smithing",
                 "potion-crafting-and-gathering-journal",
                 "potion-crafting-and-gathering-recipes",
                 "potion-crafting-and-gathering-tables"

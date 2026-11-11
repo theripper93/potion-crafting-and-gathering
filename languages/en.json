@@ -42,8 +42,7 @@
             "intro": "This version of Potion Crafting & Gathering adds new content that is not in this world yet:",
             "items": {
                 "tables": "Updated gathering roll tables",
-                "harvesting": "The Creature Harvesting journal, with harvesting pages and tables for each creature type",
-                "smithing": "A smithing recipe book with its items"
+                "harvesting": "The Creature Harvesting journal, with harvesting pages and tables for each creature type"
             },
             "hint": "Open the importer to choose what to import. You can open it later from the module settings.",
             "open": "Open Importer",
